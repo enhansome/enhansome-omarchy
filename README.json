@@ -42,7 +42,7 @@
             "last_commit": "2026-06-01T22:21:49Z",
             "owner": "mroboff",
             "repo": "omarchy-on-cachyos",
-            "stars": 591
+            "stars": 592
           }
         },
         {
@@ -272,7 +272,7 @@
             "last_commit": "2025-11-09T17:18:26Z",
             "owner": "zdravkodanailov7",
             "repo": "omarchy-retro-fallout-theme",
-            "stars": 70
+            "stars": 71
           }
         },
         {
@@ -552,7 +552,7 @@
             "last_commit": "2026-08-04T21:31:33Z",
             "owner": "HANCORE-linux",
             "repo": "omarchy-batou-theme",
-            "stars": 33
+            "stars": 34
           }
         },
         {
@@ -627,20 +627,6 @@
         },
         {
           "node_type": "item",
-          "title": "omarchy-forest-green-theme",
-          "description": "Nature-inspired forest green color scheme.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2026-01-02T07:07:18Z",
-            "owner": "abhijeet-swami",
-            "repo": "omarchy-forest-green-theme",
-            "stars": 28
-          }
-        },
-        {
-          "node_type": "item",
           "title": "omarchy-inkypinky-theme",
           "description": "Bold meets blush in a swirl of creative elegance.",
           "children": [],
@@ -650,6 +636,20 @@
             "last_commit": "2026-08-05T09:48:52Z",
             "owner": "HANCORE-linux",
             "repo": "omarchy-inkypinky-theme",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "omarchy-forest-green-theme",
+          "description": "Nature-inspired forest green color scheme.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-01-02T07:07:18Z",
+            "owner": "abhijeet-swami",
+            "repo": "omarchy-forest-green-theme",
             "stars": 28
           }
         },
@@ -1829,10 +1829,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-12T21:18:24Z",
+            "last_commit": "2026-08-13T13:39:23Z",
             "owner": "devmobasa",
             "repo": "wayscriber",
-            "stars": 685
+            "stars": 687
           }
         },
         {
@@ -1843,10 +1843,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-12T21:18:24Z",
+            "last_commit": "2026-08-13T13:39:23Z",
             "owner": "devmobasa",
             "repo": "wayscriber",
-            "stars": 685
+            "stars": 687
           }
         },
         {
@@ -1857,10 +1857,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-12T12:37:53Z",
+            "last_commit": "2026-08-13T10:49:48Z",
             "owner": "bjarneo",
             "repo": "aether",
-            "stars": 610
+            "stars": 613
           }
         },
         {
@@ -1874,7 +1874,7 @@
             "last_commit": "2026-06-19T17:36:25Z",
             "owner": "HANCORE-linux",
             "repo": "waybar-themes",
-            "stars": 582
+            "stars": 584
           }
         },
         {
@@ -1930,7 +1930,7 @@
             "last_commit": "2026-08-10T21:17:20Z",
             "owner": "omacom-io",
             "repo": "omarchy-iso",
-            "stars": 215
+            "stars": 216
           }
         },
         {
@@ -2047,6 +2047,20 @@
         },
         {
           "node_type": "item",
+          "title": "omarchy-pkgs",
+          "description": "Official Omarchy packages and utilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-13T15:17:43Z",
+            "owner": "omacom-io",
+            "repo": "omarchy-pkgs",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
           "title": "hypruler",
           "description": "Measure anything on your screen. Inspired by PixelSnap for Mac.",
           "children": [],
@@ -2127,20 +2141,6 @@
             "owner": "APS6",
             "repo": "omazed",
             "stars": 41
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "omarchy-pkgs",
-          "description": "Official Omarchy packages and utilities.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-08-13T02:07:50Z",
-            "owner": "omacom-io",
-            "repo": "omarchy-pkgs",
-            "stars": 40
           }
         },
         {
@@ -2389,7 +2389,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-12T20:17:18Z",
+            "last_commit": "2026-08-13T09:32:07Z",
             "owner": "rhemvi",
             "repo": "omaclip",
             "stars": 13
@@ -2757,10 +2757,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-13T02:57:57Z",
+            "last_commit": "2026-08-13T15:39:30Z",
             "owner": "basecamp",
             "repo": "omarchy",
-            "stars": 24588
+            "stars": 24623
           }
         },
         {
@@ -2771,10 +2771,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-13T02:57:57Z",
+            "last_commit": "2026-08-13T15:39:30Z",
             "owner": "basecamp",
             "repo": "omarchy",
-            "stars": 24588
+            "stars": 24623
           }
         },
         {
@@ -2785,10 +2785,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-13T02:57:57Z",
+            "last_commit": "2026-08-13T15:39:30Z",
             "owner": "basecamp",
             "repo": "omarchy",
-            "stars": 24588
+            "stars": 24623
           }
         },
         {
@@ -2807,7 +2807,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T03:56:02.656Z",
+    "last_updated": "2026-08-13T15:43:16.278Z",
     "original_repository": "aorumbayev/awesome-omarchy",
     "original_repository_sha": "17fd82729be95b502359dac0399f7e6e965fe6c6",
     "enhanced_repository": "enhansome/enhansome-omarchy",
