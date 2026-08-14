@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-11T18:48:38Z",
+            "last_commit": "2026-08-13T16:12:30Z",
             "owner": "goodroot",
             "repo": "hyprwhspr",
-            "stars": 1150
+            "stars": 1152
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2025-11-13T02:12:10Z",
             "owner": "henrysipp",
             "repo": "omarchy-nix",
-            "stars": 736
+            "stars": 738
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-06-01T22:21:49Z",
             "owner": "mroboff",
             "repo": "omarchy-on-cachyos",
-            "stars": 592
+            "stars": 593
           }
         },
         {
@@ -230,7 +230,7 @@
             "last_commit": "2026-05-07T02:13:43Z",
             "owner": "JJDizz1L",
             "repo": "aetheria",
-            "stars": 84
+            "stars": 85
           }
         },
         {
@@ -258,7 +258,7 @@
             "last_commit": "2025-11-22T08:21:23Z",
             "owner": "rondilley",
             "repo": "omarchy-retropc-theme",
-            "stars": 74
+            "stars": 75
           }
         },
         {
@@ -314,7 +314,7 @@
             "last_commit": "2026-01-03T16:25:56Z",
             "owner": "Grenish",
             "repo": "omarchy-akane-theme",
-            "stars": 52
+            "stars": 53
           }
         },
         {
@@ -725,6 +725,34 @@
         },
         {
           "node_type": "item",
+          "title": "omarchy-azure-glow-theme",
+          "description": "Azure blue theme with glowing accents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2025-08-12T10:54:32Z",
+            "owner": "Hydradevx",
+            "repo": "omarchy-azure-glow-theme",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "omarchy-arc-blueberry",
+          "description": "Arc Blueberry inspired colors tailored for Omarchy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-05-16T18:13:11Z",
+            "owner": "vale-c",
+            "repo": "omarchy-arc-blueberry",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
           "title": "pink-blood-omarchy-theme",
           "description": "Bold pink-themed design.",
           "children": [],
@@ -749,34 +777,6 @@
             "owner": "HANCORE-linux",
             "repo": "omarchy-sapphire-theme",
             "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "omarchy-azure-glow-theme",
-          "description": "Azure blue theme with glowing accents.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2025-08-12T10:54:32Z",
-            "owner": "Hydradevx",
-            "repo": "omarchy-azure-glow-theme",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "omarchy-arc-blueberry",
-          "description": "Arc Blueberry inspired colors tailored for Omarchy.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2026-05-16T18:13:11Z",
-            "owner": "vale-c",
-            "repo": "omarchy-arc-blueberry",
-            "stars": 18
           }
         },
         {
@@ -837,6 +837,20 @@
         },
         {
           "node_type": "item",
+          "title": "omarchy-monokai-theme",
+          "description": "High-contrast Monokai Pro inspired variant.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2025-10-03T15:37:02Z",
+            "owner": "bjarneo",
+            "repo": "omarchy-monokai-theme",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
           "title": "omarchy-blueridge-dark-theme",
           "description": "Dark theme inspired by mountain ridge aesthetics.",
           "children": [],
@@ -846,6 +860,20 @@
             "last_commit": "2025-08-26T15:51:05Z",
             "owner": "hipsterusername",
             "repo": "omarchy-blueridge-dark-theme",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "omarchy-sunset-drive-theme",
+          "description": "Sunset-inspired theme with warm gradients.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-02-22T08:03:04Z",
+            "owner": "tahayvr",
+            "repo": "omarchy-sunset-drive-theme",
             "stars": 16
           }
         },
@@ -865,15 +893,15 @@
         },
         {
           "node_type": "item",
-          "title": "omarchy-monokai-theme",
-          "description": "High-contrast Monokai Pro inspired variant.",
+          "title": "omarchy-fireside-theme",
+          "description": "Warm, cozy theme inspired by the gentle glow of a crackling fire.",
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "CSS",
-            "last_commit": "2025-10-03T15:37:02Z",
+            "language": "Lua",
+            "last_commit": "2026-05-21T14:29:01Z",
             "owner": "bjarneo",
-            "repo": "omarchy-monokai-theme",
+            "repo": "omarchy-fireside-theme",
             "stars": 16
           }
         },
@@ -921,20 +949,6 @@
         },
         {
           "node_type": "item",
-          "title": "omarchy-sunset-drive-theme",
-          "description": "Sunset-inspired theme with warm gradients.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2026-02-22T08:03:04Z",
-            "owner": "tahayvr",
-            "repo": "omarchy-sunset-drive-theme",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
           "title": "omarchy-anonymous-theme",
           "description": "Minimalist monochrome modern theme.",
           "children": [],
@@ -944,20 +958,6 @@
             "last_commit": "2025-08-29T23:14:02Z",
             "owner": "j4v3l",
             "repo": "omarchy-anonymous-theme",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "omarchy-fireside-theme",
-          "description": "Warm, cozy theme inspired by the gentle glow of a crackling fire.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2026-05-21T14:29:01Z",
-            "owner": "bjarneo",
-            "repo": "omarchy-fireside-theme",
             "stars": 15
           }
         },
@@ -1291,7 +1291,7 @@
           "repo_info": {
             "archived": false,
             "language": "SCSS",
-            "last_commit": "2026-08-05T15:10:07Z",
+            "last_commit": "2026-08-14T03:12:52Z",
             "owner": "VECTORG99",
             "repo": "omarchy-frutiger-aero",
             "stars": 8
@@ -1818,7 +1818,7 @@
             "last_commit": "2026-04-22T07:09:30Z",
             "owner": "tahayvr",
             "repo": "omarchist",
-            "stars": 712
+            "stars": 713
           }
         },
         {
@@ -1829,10 +1829,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T13:39:23Z",
+            "last_commit": "2026-08-13T18:08:58Z",
             "owner": "devmobasa",
             "repo": "wayscriber",
-            "stars": 687
+            "stars": 690
           }
         },
         {
@@ -1843,10 +1843,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T13:39:23Z",
+            "last_commit": "2026-08-13T18:08:58Z",
             "owner": "devmobasa",
             "repo": "wayscriber",
-            "stars": 687
+            "stars": 690
           }
         },
         {
@@ -1860,7 +1860,7 @@
             "last_commit": "2026-08-13T10:49:48Z",
             "owner": "bjarneo",
             "repo": "aether",
-            "stars": 613
+            "stars": 614
           }
         },
         {
@@ -1874,7 +1874,7 @@
             "last_commit": "2026-06-19T17:36:25Z",
             "owner": "HANCORE-linux",
             "repo": "waybar-themes",
-            "stars": 584
+            "stars": 585
           }
         },
         {
@@ -1927,10 +1927,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-10T21:17:20Z",
+            "last_commit": "2026-08-14T03:57:24Z",
             "owner": "omacom-io",
             "repo": "omarchy-iso",
-            "stars": 216
+            "stars": 217
           }
         },
         {
@@ -1958,7 +1958,7 @@
             "last_commit": "2025-09-29T21:25:16Z",
             "owner": "aloisdeniel",
             "repo": "flutter_omarchy",
-            "stars": 122
+            "stars": 123
           }
         },
         {
@@ -2053,7 +2053,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-13T15:17:43Z",
+            "last_commit": "2026-08-14T15:23:22Z",
             "owner": "omacom-io",
             "repo": "omarchy-pkgs",
             "stars": 44
@@ -2085,20 +2085,6 @@
             "owner": "JacobusXIII",
             "repo": "omarchy-wireguard-vpn-toggle",
             "stars": 43
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "omarchpods",
-          "description": "TUI for monitoring AirPods and other Bluetooth headphones with battery status and device info.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2025-12-19T13:50:58Z",
-            "owner": "tomycostantino",
-            "repo": "omarchpods",
-            "stars": 42
           }
         },
         {
@@ -2140,6 +2126,20 @@
             "last_commit": "2026-05-23T09:58:31Z",
             "owner": "APS6",
             "repo": "omazed",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "omarchpods",
+          "description": "TUI for monitoring AirPods and other Bluetooth headphones with battery status and device info.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-12-19T13:50:58Z",
+            "owner": "tomycostantino",
+            "repo": "omarchpods",
             "stars": 41
           }
         },
@@ -2389,7 +2389,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T09:32:07Z",
+            "last_commit": "2026-08-14T13:25:19Z",
             "owner": "rhemvi",
             "repo": "omaclip",
             "stars": 13
@@ -2619,7 +2619,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-07-21T00:22:19Z",
+            "last_commit": "2026-08-14T14:39:09Z",
             "owner": "omacom-io",
             "repo": "omarchy-site",
             "stars": 13
@@ -2757,10 +2757,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-13T15:39:30Z",
+            "last_commit": "2026-08-14T15:33:10Z",
             "owner": "basecamp",
             "repo": "omarchy",
-            "stars": 24623
+            "stars": 24678
           }
         },
         {
@@ -2771,10 +2771,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-13T15:39:30Z",
+            "last_commit": "2026-08-14T15:33:10Z",
             "owner": "basecamp",
             "repo": "omarchy",
-            "stars": 24623
+            "stars": 24678
           }
         },
         {
@@ -2785,10 +2785,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-13T15:39:30Z",
+            "last_commit": "2026-08-14T15:33:10Z",
             "owner": "basecamp",
             "repo": "omarchy",
-            "stars": 24623
+            "stars": 24678
           }
         },
         {
@@ -2807,7 +2807,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T15:43:16.278Z",
+    "last_updated": "2026-08-14T15:37:29.233Z",
     "original_repository": "aorumbayev/awesome-omarchy",
     "original_repository_sha": "17fd82729be95b502359dac0399f7e6e965fe6c6",
     "enhanced_repository": "enhansome/enhansome-omarchy",
