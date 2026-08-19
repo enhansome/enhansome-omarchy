@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1045801018,
             "language": "Python",
             "last_commit": "2026-08-17T21:56:37Z",
             "owner": "goodroot",
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1009877517,
             "language": "Nix",
             "last_commit": "2025-11-13T02:12:10Z",
             "owner": "henrysipp",
             "repo": "omarchy-nix",
-            "stars": 739
+            "stars": 740
           }
         },
         {
@@ -38,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1056830665,
             "language": "Shell",
             "last_commit": "2026-06-01T22:21:49Z",
             "owner": "mroboff",
             "repo": "omarchy-on-cachyos",
-            "stars": 602
+            "stars": 603
           }
         },
         {
@@ -52,11 +55,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1039094143,
             "language": "Shell",
             "last_commit": "2025-10-17T16:51:56Z",
             "owner": "lentra0",
             "repo": "omarchy-cachyos",
-            "stars": 126
+            "stars": 127
           }
         },
         {
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1051755854,
             "language": "Shell",
             "last_commit": "2025-11-13T20:16:25Z",
             "owner": "cristian-fleischer",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1041834351,
             "language": "Shell",
             "last_commit": "2026-08-17T04:04:02Z",
             "owner": "elpritchos",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1016246009,
             "language": "Shell",
             "last_commit": "2026-08-17T13:05:40Z",
             "owner": "typecraft-dev",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1034054515,
             "language": "Shell",
             "last_commit": "2025-08-29T13:48:40Z",
             "owner": "ChrisTitusTech",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1038071454,
             "language": "Shell",
             "last_commit": "2025-09-17T20:06:20Z",
             "owner": "nilszeilon",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1013335088,
             "language": "Shell",
             "last_commit": "2025-08-19T18:09:14Z",
             "owner": "aorumbayev",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1051981262,
             "language": "TypeScript",
             "last_commit": "2026-08-17T09:47:40Z",
             "owner": "deepakness",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1091224893,
             "language": "Shell",
             "last_commit": "2026-03-19T19:45:44Z",
             "owner": "hinriksnaer",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1011401212,
             "language": "Shell",
             "last_commit": "2025-07-02T18:29:29Z",
             "owner": "harilvfs",
@@ -189,7 +202,7 @@
       "title": "Alternative Implementations"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1083384096,
             "language": "Shell",
             "last_commit": "2026-05-15T21:12:13Z",
             "owner": "imbypass",
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1031312357,
             "language": "CSS",
             "last_commit": "2025-09-23T16:52:44Z",
             "owner": "Justikun",
@@ -226,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1065103601,
             "language": "CSS",
             "last_commit": "2026-08-17T18:50:04Z",
             "owner": "JJDizz1L",
@@ -240,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1080875500,
             "language": "CSS",
             "last_commit": "2026-05-25T00:35:57Z",
             "owner": "vyrx-dev",
@@ -254,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1026473996,
             "language": "Lua",
             "last_commit": "2025-11-22T08:21:23Z",
             "owner": "rondilley",
@@ -268,11 +286,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1064312743,
             "language": "CSS",
             "last_commit": "2025-11-09T17:18:26Z",
             "owner": "zdravkodanailov7",
             "repo": "omarchy-retro-fallout-theme",
-            "stars": 71
+            "stars": 72
           }
         },
         {
@@ -282,6 +301,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1054583741,
             "language": "CSS",
             "last_commit": "2026-04-15T00:17:13Z",
             "owner": "vyrx-dev",
@@ -296,6 +316,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1058084095,
             "language": "CSS",
             "last_commit": "2026-01-02T07:06:21Z",
             "owner": "abhijeet-swami",
@@ -310,6 +331,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1072472155,
             "language": "Lua",
             "last_commit": "2026-01-03T16:25:56Z",
             "owner": "Grenish",
@@ -324,6 +346,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1037711696,
             "language": "CSS",
             "last_commit": "2026-08-14T18:36:48Z",
             "owner": "TyRichards",
@@ -338,6 +361,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1038761954,
             "language": "Lua",
             "last_commit": "2026-03-05T16:04:00Z",
             "owner": "sc0ttman",
@@ -352,6 +376,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1026056843,
             "language": "Lua",
             "last_commit": "2026-05-21T14:27:55Z",
             "owner": "bjarneo",
@@ -366,6 +391,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1036171969,
             "language": "CSS",
             "last_commit": "2025-10-25T15:06:41Z",
             "owner": "steve-lohmeyer",
@@ -380,6 +406,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1015291801,
             "language": "CSS",
             "last_commit": "2026-01-31T03:31:52Z",
             "owner": "tahayvr",
@@ -394,6 +421,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1028007580,
             "language": "Lua",
             "last_commit": "2026-05-04T16:59:04Z",
             "owner": "guilhermetk",
@@ -408,6 +436,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1028103632,
             "language": "CSS",
             "last_commit": "2026-06-09T14:36:07Z",
             "owner": "TyRichards",
@@ -422,6 +451,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1021829090,
             "language": "Lua",
             "last_commit": "2026-07-30T02:58:21Z",
             "owner": "JaxonWright",
@@ -436,6 +466,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1035146368,
             "language": "CSS",
             "last_commit": "2026-07-18T12:21:31Z",
             "owner": "euandeas",
@@ -445,11 +476,27 @@
         },
         {
           "node_type": "item",
+          "title": "omarchy-spectra-theme",
+          "description": "Blur and transparency theme that adapts to any wallpaper.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1080955627,
+            "language": "CSS",
+            "last_commit": "2026-01-02T07:05:17Z",
+            "owner": "abhijeet-swami",
+            "repo": "omarchy-spectra-theme",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
           "title": "omarchy-blackturq-theme",
           "description": "Black turquoise theme based on Evo80 keyboard color pattern.",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1059027884,
             "language": "CSS",
             "last_commit": "2026-08-04T21:31:33Z",
             "owner": "HANCORE-linux",
@@ -464,24 +511,11 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1091747360,
             "language": "CSS",
             "last_commit": "2026-08-05T18:32:43Z",
             "owner": "HANCORE-linux",
             "repo": "omarchy-mechanoonna-theme",
-            "stars": 38
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "omarchy-spectra-theme",
-          "description": "Blur and transparency theme that adapts to any wallpaper.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2026-01-02T07:05:17Z",
-            "owner": "abhijeet-swami",
-            "repo": "omarchy-spectra-theme",
             "stars": 38
           }
         },
@@ -492,6 +526,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1079497170,
             "language": "CSS",
             "last_commit": "2026-08-04T21:31:33Z",
             "owner": "HANCORE-linux",
@@ -506,6 +541,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1056349329,
             "language": "CSS",
             "last_commit": "2026-08-04T21:31:33Z",
             "owner": "HANCORE-linux",
@@ -520,6 +556,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1032815642,
             "language": "CSS",
             "last_commit": "2025-08-09T02:54:27Z",
             "owner": "catlee",
@@ -534,6 +571,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1033976660,
             "language": "Lua",
             "last_commit": "2026-02-21T21:21:44Z",
             "owner": "bjarneo",
@@ -548,6 +586,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1056924270,
             "language": "CSS",
             "last_commit": "2025-10-11T17:27:08Z",
             "owner": "mwaltzer",
@@ -562,6 +601,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1036542725,
             "language": "CSS",
             "last_commit": "2026-02-20T16:25:28Z",
             "owner": "tahayvr",
@@ -576,6 +616,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1123367619,
             "language": "CSS",
             "last_commit": "2026-08-05T20:53:35Z",
             "owner": "HANCORE-linux",
@@ -590,6 +631,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1083071475,
             "language": "CSS",
             "last_commit": "2026-08-05T09:48:52Z",
             "owner": "HANCORE-linux",
@@ -604,6 +646,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 1020571674,
             "language": "CSS",
             "last_commit": "2025-07-26T20:58:09Z",
             "owner": "omacom-io",
@@ -618,6 +661,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1056186715,
             "language": "CSS",
             "last_commit": "2026-02-23T14:28:39Z",
             "owner": "tahayvr",
@@ -632,6 +676,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1034486926,
             "language": "CSS",
             "last_commit": "2025-12-24T13:32:51Z",
             "owner": "bjarneo",
@@ -646,6 +691,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1039148762,
             "language": "CSS",
             "last_commit": "2026-01-02T07:07:18Z",
             "owner": "abhijeet-swami",
@@ -660,6 +706,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1033702857,
             "language": "Lua",
             "last_commit": "2026-05-21T14:28:47Z",
             "owner": "bjarneo",
@@ -674,6 +721,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1046562288,
             "language": "CSS",
             "last_commit": "2025-10-10T17:16:14Z",
             "owner": "KidDogDad",
@@ -688,6 +736,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1053054066,
             "language": "Shell",
             "last_commit": "2026-02-03T16:06:09Z",
             "owner": "kalk-ak",
@@ -702,6 +751,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1069401218,
             "language": "CSS",
             "last_commit": "2026-08-05T21:29:14Z",
             "owner": "HANCORE-linux",
@@ -716,6 +766,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1065966279,
             "language": "Lua",
             "last_commit": "2026-05-16T18:13:11Z",
             "owner": "vale-c",
@@ -730,6 +781,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1036034225,
             "language": "CSS",
             "last_commit": "2025-08-12T10:54:32Z",
             "owner": "Hydradevx",
@@ -744,6 +796,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1052904306,
             "language": "CSS",
             "last_commit": "2026-03-28T16:51:42Z",
             "owner": "bjarneo",
@@ -758,6 +811,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1067961712,
             "language": "CSS",
             "last_commit": "2025-10-25T05:14:32Z",
             "owner": "ITSZXY",
@@ -772,6 +826,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1071017024,
             "language": "CSS",
             "last_commit": "2026-08-05T21:20:51Z",
             "owner": "HANCORE-linux",
@@ -786,6 +841,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1056690422,
             "language": "Lua",
             "last_commit": "2026-05-21T14:57:08Z",
             "owner": "bjarneo",
@@ -800,6 +856,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1035143170,
             "language": "CSS",
             "last_commit": "2025-09-16T19:59:11Z",
             "owner": "guilhermetk",
@@ -814,6 +871,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1084080916,
             "language": "Lua",
             "last_commit": "2026-05-21T14:29:12Z",
             "owner": "bjarneo",
@@ -828,6 +886,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1059694482,
             "language": "CSS",
             "last_commit": "2026-05-15T00:20:48Z",
             "owner": "dotsilva",
@@ -842,6 +901,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1056744425,
             "language": "CSS",
             "last_commit": "2025-10-03T15:37:02Z",
             "owner": "bjarneo",
@@ -856,6 +916,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1035638437,
             "language": "Lua",
             "last_commit": "2025-08-26T15:51:05Z",
             "owner": "hipsterusername",
@@ -870,6 +931,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1098586772,
             "language": "CSS",
             "last_commit": "2026-08-05T20:56:04Z",
             "owner": "HANCORE-linux",
@@ -884,6 +946,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1081229482,
             "language": "CSS",
             "last_commit": "2026-02-22T08:03:04Z",
             "owner": "tahayvr",
@@ -898,6 +961,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1083832669,
             "language": "CSS",
             "last_commit": "2026-08-05T21:42:18Z",
             "owner": "HANCORE-linux",
@@ -912,6 +976,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1056628685,
             "language": "Lua",
             "last_commit": "2026-05-21T14:29:01Z",
             "owner": "bjarneo",
@@ -926,6 +991,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1070132498,
             "language": "CSS",
             "last_commit": "2026-03-10T20:08:59Z",
             "owner": "leonardobetti",
@@ -940,6 +1006,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1034098764,
             "language": "CSS",
             "last_commit": "2025-08-09T04:46:25Z",
             "owner": "Swarnim114",
@@ -954,6 +1021,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1040972813,
             "language": "CSS",
             "last_commit": "2025-08-29T23:14:02Z",
             "owner": "j4v3l",
@@ -968,6 +1036,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1039431520,
             "language": "CSS",
             "last_commit": "2026-01-09T15:26:44Z",
             "owner": "hoblin",
@@ -982,6 +1051,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1026785150,
             "language": "Lua",
             "last_commit": "2026-05-21T14:28:56Z",
             "owner": "bjarneo",
@@ -996,6 +1066,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1076439232,
             "language": "CSS",
             "last_commit": "2026-08-05T22:03:17Z",
             "owner": "HANCORE-linux",
@@ -1010,6 +1081,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1035642085,
             "language": "Lua",
             "last_commit": "2025-08-26T15:51:41Z",
             "owner": "hipsterusername",
@@ -1024,6 +1096,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1047805575,
             "language": "Lua",
             "last_commit": "2026-05-21T14:28:42Z",
             "owner": "bjarneo",
@@ -1038,6 +1111,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1118461330,
             "language": "CSS",
             "last_commit": "2026-08-05T10:18:58Z",
             "owner": "HANCORE-linux",
@@ -1052,6 +1126,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1082529575,
             "language": "CSS",
             "last_commit": "2026-01-17T13:21:41Z",
             "owner": "rblalock",
@@ -1066,6 +1141,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1077120502,
             "language": "CSS",
             "last_commit": "2025-12-26T13:53:31Z",
             "owner": "tahfizhabib",
@@ -1080,6 +1156,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1039001632,
             "language": "CSS",
             "last_commit": "2025-11-10T13:08:14Z",
             "owner": "fdidron",
@@ -1094,6 +1171,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1073211594,
             "language": "JavaScript",
             "last_commit": "2025-10-10T19:23:49Z",
             "owner": "bjarneo",
@@ -1108,6 +1186,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1055640882,
             "language": "CSS",
             "last_commit": "2025-09-22T20:50:34Z",
             "owner": "mwaltzer",
@@ -1122,6 +1201,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1023210179,
             "language": "CSS",
             "last_commit": "2025-07-28T11:04:34Z",
             "owner": "dfrico",
@@ -1136,10 +1216,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1034907828,
             "language": "CSS",
             "last_commit": "2025-08-09T09:00:02Z",
             "owner": "Swarnim114",
             "repo": "omarchy-everblush-theme",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "omarchy-pissarro-theme",
+          "description": "A light Omarchy theme inspired by Camille Pissarro.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1277439782,
+            "language": "CSS",
+            "last_commit": "2026-07-02T00:05:21Z",
+            "owner": "mattbbia",
+            "repo": "pissarro-omarchy",
             "stars": 11
           }
         },
@@ -1150,10 +1246,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1027856381,
             "language": "CSS",
             "last_commit": "2025-07-29T23:32:05Z",
             "owner": "motorsss",
             "repo": "omarchy-solarizedosaka-theme",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "omarchy-fire-and-shadow-theme",
+          "description": "A moody, somber theme base on the paintings of Joseph Wright.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1308159298,
+            "language": "CSS",
+            "last_commit": "2026-07-22T14:54:29Z",
+            "owner": "mattbbia",
+            "repo": "fire-and-shadow",
             "stars": 11
           }
         },
@@ -1164,6 +1276,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1069244072,
             "language": "CSS",
             "last_commit": "2026-08-04T21:31:33Z",
             "owner": "HANCORE-linux",
@@ -1178,6 +1291,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1073929394,
             "language": "Lua",
             "last_commit": "2026-05-27T17:55:23Z",
             "owner": "celsobenedetti",
@@ -1192,24 +1306,11 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1035165381,
             "language": "CSS",
             "last_commit": "2026-07-18T13:16:48Z",
             "owner": "euandeas",
             "repo": "omarchy-flexoki-light-theme",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "omarchy-pissarro-theme",
-          "description": "A light Omarchy theme inspired by Camille Pissarro.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2026-07-02T00:05:21Z",
-            "owner": "mattbbia",
-            "repo": "pissarro-omarchy",
             "stars": 10
           }
         },
@@ -1220,24 +1321,11 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1115942253,
             "language": "CSS",
             "last_commit": "2026-08-05T21:57:37Z",
             "owner": "HANCORE-linux",
             "repo": "omarchy-velvetnight-theme",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "omarchy-fire-and-shadow-theme",
-          "description": "A moody, somber theme base on the paintings of Joseph Wright.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2026-07-22T14:54:29Z",
-            "owner": "mattbbia",
-            "repo": "fire-and-shadow",
             "stars": 10
           }
         },
@@ -1248,6 +1336,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1067881635,
             "language": "CSS",
             "last_commit": "2025-10-01T14:32:37Z",
             "owner": "jbnunn",
@@ -1262,6 +1351,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1025823990,
             "language": "CSS",
             "last_commit": "2025-07-28T13:36:10Z",
             "owner": "Gazler",
@@ -1276,6 +1366,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1066143410,
             "language": "CSS",
             "last_commit": "2025-11-22T08:32:31Z",
             "owner": "thmoee",
@@ -1290,6 +1381,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1256841483,
             "language": "SCSS",
             "last_commit": "2026-08-14T03:12:52Z",
             "owner": "VECTORG99",
@@ -1304,6 +1396,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1030533231,
             "language": "Vim Script",
             "last_commit": "2026-03-01T21:24:15Z",
             "owner": "krymzonn",
@@ -1318,6 +1411,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1035638608,
             "language": "Lua",
             "last_commit": "2025-08-26T15:51:24Z",
             "owner": "hipsterusername",
@@ -1332,6 +1426,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1056604722,
             "language": "Lua",
             "last_commit": "2026-05-21T14:29:04Z",
             "owner": "bjarneo",
@@ -1346,6 +1441,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1038256049,
             "language": "Lua",
             "last_commit": "2026-08-17T01:05:30Z",
             "owner": "knappkevin",
@@ -1360,10 +1456,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1038702585,
             "language": "Lua",
             "last_commit": "2026-05-21T14:28:53Z",
             "owner": "bjarneo",
             "repo": "omarchy-serenity-theme",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "omarchy-venice-from-above",
+          "description": "A light Omarchy theme inspired by the 15th century bird's eye view mapping of Venice.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1277445272,
+            "language": "CSS",
+            "last_commit": "2026-07-06T14:41:48Z",
+            "owner": "mattbbia",
+            "repo": "venice-from-above-omarchy",
             "stars": 7
           }
         },
@@ -1374,6 +1486,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1032982750,
             "language": "CSS",
             "last_commit": "2025-08-06T06:31:02Z",
             "owner": "CyphrRiot",
@@ -1388,6 +1501,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1075053027,
             "language": "Shell",
             "last_commit": "2025-10-13T01:04:43Z",
             "owner": "999Gabriel",
@@ -1402,6 +1516,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1046924177,
             "language": "CSS",
             "last_commit": "2025-08-29T13:29:54Z",
             "owner": "dracula",
@@ -1411,25 +1526,12 @@
         },
         {
           "node_type": "item",
-          "title": "omarchy-venice-from-above",
-          "description": "A light Omarchy theme inspired by the 15th century bird's eye view mapping of Venice.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2026-07-06T14:41:48Z",
-            "owner": "mattbbia",
-            "repo": "venice-from-above-omarchy",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
           "title": "omarchy-wasteland-theme",
           "description": "Post-apocalyptic wasteland-inspired color scheme.",
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 1035688201,
             "language": "HTML",
             "last_commit": "2025-10-01T11:15:40Z",
             "owner": "perfektnacht",
@@ -1444,6 +1546,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1039836729,
             "language": "CSS",
             "last_commit": "2025-08-18T04:05:35Z",
             "owner": "fdidron",
@@ -1458,6 +1561,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1126230778,
             "language": "CSS",
             "last_commit": "2026-01-01T13:41:29Z",
             "owner": "AX200M",
@@ -1472,6 +1576,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1018650963,
             "language": "CSS",
             "last_commit": "2025-07-28T21:55:56Z",
             "owner": "guilhermetk",
@@ -1486,6 +1591,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1036793639,
             "language": "CSS",
             "last_commit": "2025-08-13T10:51:20Z",
             "owner": "Hydradevx",
@@ -1500,6 +1606,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1038182440,
             "language": "Lua",
             "last_commit": "2026-05-21T14:28:39Z",
             "owner": "bjarneo",
@@ -1514,10 +1621,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1039183131,
             "language": "Lua",
             "last_commit": "2026-05-21T14:28:45Z",
             "owner": "bjarneo",
             "repo": "omarchy-hollow-knight-theme",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "omarchy-lakes-and-light-theme",
+          "description": "Based on the paintings of Joseph Wright with a subtle color palette theme.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1307887644,
+            "language": "CSS",
+            "last_commit": "2026-07-22T14:19:22Z",
+            "owner": "mattbbia",
+            "repo": "lakes-and-light",
             "stars": 4
           }
         },
@@ -1528,6 +1651,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 1036647766,
             "language": "CSS",
             "last_commit": "2025-10-01T11:29:01Z",
             "owner": "perfektnacht",
@@ -1542,6 +1666,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1056607801,
             "language": "Lua",
             "last_commit": "2026-05-21T14:29:06Z",
             "owner": "bjarneo",
@@ -1556,6 +1681,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1047529886,
             "language": "Lua",
             "last_commit": "2026-05-21T14:28:50Z",
             "owner": "bjarneo",
@@ -1570,6 +1696,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1048189384,
             "language": "CSS",
             "last_commit": "2025-09-07T04:51:45Z",
             "owner": "scar45",
@@ -1579,25 +1706,12 @@
         },
         {
           "node_type": "item",
-          "title": "omarchy-lakes-and-light-theme",
-          "description": "Based on the paintings of Joseph Wright with a subtle color palette theme.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2026-07-22T14:19:22Z",
-            "owner": "mattbbia",
-            "repo": "lakes-and-light",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
           "title": "omarchy-kanagawa-dragon-theme",
           "description": "Kanagawa Dragon theme adaptation.",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1025549280,
             "language": "CSS",
             "last_commit": "2025-08-31T16:26:29Z",
             "owner": "MrTrigger",
@@ -1612,6 +1726,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1035574454,
             "language": "Lua",
             "last_commit": "2026-05-21T14:28:58Z",
             "owner": "bjarneo",
@@ -1626,6 +1741,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1034412773,
             "language": "CSS",
             "last_commit": "2025-12-30T09:57:19Z",
             "owner": "grierson",
@@ -1640,6 +1756,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1277448290,
             "language": "CSS",
             "last_commit": "2026-07-03T15:42:04Z",
             "owner": "mattbbia",
@@ -1654,6 +1771,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1277443451,
             "language": "CSS",
             "last_commit": "2026-07-07T19:43:08Z",
             "owner": "mattbbia",
@@ -1668,6 +1786,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1023888668,
             "language": "Lua",
             "last_commit": "2025-07-21T22:55:59Z",
             "owner": "rondilley",
@@ -1682,6 +1801,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1039326263,
             "language": "CSS",
             "last_commit": "2025-11-10T14:42:07Z",
             "owner": "fdidron",
@@ -1696,6 +1816,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1030763949,
             "language": "CSS",
             "last_commit": "2026-03-14T10:50:09Z",
             "owner": "maxberggren",
@@ -1710,6 +1831,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1039555070,
             "language": "CSS",
             "last_commit": "2025-08-17T13:59:49Z",
             "owner": "ericrswanny",
@@ -1724,6 +1846,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1049125393,
             "language": "CSS",
             "last_commit": "2026-07-25T16:56:12Z",
             "owner": "daurydicaprio",
@@ -1738,6 +1861,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1277446907,
             "language": "CSS",
             "last_commit": "2026-07-07T19:43:38Z",
             "owner": "mattbbia",
@@ -1752,6 +1876,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1277430651,
             "language": "CSS",
             "last_commit": "2026-07-02T00:00:35Z",
             "owner": "mattbbia",
@@ -1766,6 +1891,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1041994900,
             "language": null,
             "last_commit": "2025-08-21T10:20:26Z",
             "owner": "Hydradevx",
@@ -1780,6 +1906,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1021706272,
             "language": "CSS",
             "last_commit": "2025-07-17T20:20:42Z",
             "owner": "ryanyogan",
@@ -1794,6 +1921,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1021725958,
             "language": "CSS",
             "last_commit": "2025-07-17T21:09:41Z",
             "owner": "ryanyogan",
@@ -1805,7 +1933,7 @@
       "title": "Themes"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1814,11 +1942,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1047458606,
             "language": "Rust",
             "last_commit": "2026-04-22T07:09:30Z",
             "owner": "tahayvr",
             "repo": "omarchist",
-            "stars": 712
+            "stars": 711
           }
         },
         {
@@ -1828,11 +1957,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1075699186,
             "language": "Rust",
-            "last_commit": "2026-08-18T08:40:18Z",
+            "last_commit": "2026-08-18T22:47:37Z",
             "owner": "devmobasa",
             "repo": "wayscriber",
-            "stars": 702
+            "stars": 704
           }
         },
         {
@@ -1842,11 +1972,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1075699186,
             "language": "Rust",
-            "last_commit": "2026-08-18T08:40:18Z",
+            "last_commit": "2026-08-18T22:47:37Z",
             "owner": "devmobasa",
             "repo": "wayscriber",
-            "stars": 702
+            "stars": 704
           }
         },
         {
@@ -1856,11 +1987,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1069669233,
             "language": "Go",
-            "last_commit": "2026-08-17T15:30:39Z",
+            "last_commit": "2026-08-19T05:18:47Z",
             "owner": "bjarneo",
             "repo": "aether",
-            "stars": 629
+            "stars": 635
           }
         },
         {
@@ -1870,11 +2002,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1051865105,
             "language": "CSS",
             "last_commit": "2026-06-19T17:36:25Z",
             "owner": "HANCORE-linux",
             "repo": "waybar-themes",
-            "stars": 590
+            "stars": 591
           }
         },
         {
@@ -1884,6 +2017,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1036863965,
             "language": "Go",
             "last_commit": "2026-07-31T21:25:28Z",
             "owner": "erans",
@@ -1898,6 +2032,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1064094637,
             "language": "Rust",
             "last_commit": "2026-08-10T22:27:29Z",
             "owner": "Firstp1ck",
@@ -1912,6 +2047,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1051183919,
             "language": "Shell",
             "last_commit": "2026-05-29T17:10:17Z",
             "owner": "maxart",
@@ -1926,11 +2062,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1027172663,
             "language": "Shell",
             "last_commit": "2026-08-15T17:23:28Z",
             "owner": "omacom-io",
             "repo": "omarchy-iso",
-            "stars": 219
+            "stars": 221
           }
         },
         {
@@ -1940,6 +2077,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1046181612,
             "language": "CSS",
             "last_commit": "2025-11-30T12:33:50Z",
             "owner": "adsovetzky",
@@ -1954,6 +2092,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1037997951,
             "language": "Dart",
             "last_commit": "2026-08-14T21:59:12Z",
             "owner": "aloisdeniel",
@@ -1963,11 +2102,27 @@
         },
         {
           "node_type": "item",
+          "title": "tema",
+          "description": "Modern Omarchy theming UI with live previews and presets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1065774591,
+            "language": "JavaScript",
+            "last_commit": "2026-03-15T14:30:25Z",
+            "owner": "bjarneo",
+            "repo": "tema",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
           "title": "omarchy-tmux",
           "description": "Tmux status bar themes styled to match Omarchy.",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1070522446,
             "language": "Shell",
             "last_commit": "2026-06-19T11:48:14Z",
             "owner": "joaofelipegalvao",
@@ -1977,25 +2132,12 @@
         },
         {
           "node_type": "item",
-          "title": "tema",
-          "description": "Modern Omarchy theming UI with live previews and presets.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-03-15T14:30:25Z",
-            "owner": "bjarneo",
-            "repo": "tema",
-            "stars": 108
-          }
-        },
-        {
-          "node_type": "item",
           "title": "omarchy-steam-gaming-mode",
           "description": "Steam Deck-like gaming experience for Omarchy.",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1045708018,
             "language": "Shell",
             "last_commit": "2026-07-05T18:20:29Z",
             "owner": "cephalization",
@@ -2010,6 +2152,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1012764643,
             "language": "Go",
             "last_commit": "2026-05-27T15:59:35Z",
             "owner": "CyphrRiot",
@@ -2024,6 +2167,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1021497450,
             "language": "Shell",
             "last_commit": "2025-09-26T14:50:36Z",
             "owner": "mitkox",
@@ -2033,29 +2177,31 @@
         },
         {
           "node_type": "item",
-          "title": "omarchy-vpn",
-          "description": "WireGuard VPN manager TUI with live connection stats, inline config import/rename, and optional Waybar module.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-17T06:45:17Z",
-            "owner": "limehawk",
-            "repo": "omarchy-vpn",
-            "stars": 48
-          }
-        },
-        {
-          "node_type": "item",
           "title": "omarchy-pkgs",
           "description": "Official Omarchy packages and utilities.",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1043833332,
             "language": "Shell",
-            "last_commit": "2026-08-18T12:52:20Z",
+            "last_commit": "2026-08-19T12:21:55Z",
             "owner": "omacom-io",
             "repo": "omarchy-pkgs",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "omarchy-vpn",
+          "description": "WireGuard VPN manager TUI with live connection stats, inline config import/rename, and optional Waybar module.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1174937816,
+            "language": "Go",
+            "last_commit": "2026-08-17T06:45:17Z",
+            "owner": "limehawk",
+            "repo": "omarchy-vpn",
             "stars": 48
           }
         },
@@ -2066,6 +2212,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1113151837,
             "language": "Rust",
             "last_commit": "2026-05-07T10:24:52Z",
             "owner": "t4t5",
@@ -2080,6 +2227,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1072944840,
             "language": "Shell",
             "last_commit": "2025-10-31T09:51:36Z",
             "owner": "JacobusXIII",
@@ -2094,11 +2242,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1062608338,
             "language": "Shell",
             "last_commit": "2026-08-15T13:51:42Z",
             "owner": "APS6",
             "repo": "omazed",
-            "stars": 42
+            "stars": 43
           }
         },
         {
@@ -2108,6 +2257,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 1028617756,
             "language": "Shell",
             "last_commit": "2025-09-14T08:37:06Z",
             "owner": "omacom-io",
@@ -2122,6 +2272,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 1028617756,
             "language": "Shell",
             "last_commit": "2025-09-14T08:37:06Z",
             "owner": "omacom-io",
@@ -2136,6 +2287,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1087764485,
             "language": "C++",
             "last_commit": "2025-12-19T13:50:58Z",
             "owner": "tomycostantino",
@@ -2150,11 +2302,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 1035676420,
             "language": "Shell",
             "last_commit": "2026-05-07T10:44:58Z",
             "owner": "omacom-io",
             "repo": "omarchy-chromium",
-            "stars": 35
+            "stars": 34
           }
         },
         {
@@ -2164,6 +2317,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1078694468,
             "language": "Dart",
             "last_commit": "2026-06-10T14:40:02Z",
             "owner": "mirarr-app",
@@ -2178,6 +2332,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1097284821,
             "language": "Go",
             "last_commit": "2026-08-10T07:48:07Z",
             "owner": "blank-query",
@@ -2192,6 +2347,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1058599467,
             "language": "Python",
             "last_commit": "2025-09-17T13:45:23Z",
             "owner": "michabbb",
@@ -2206,6 +2362,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1039279097,
             "language": null,
             "last_commit": "2025-08-17T04:36:48Z",
             "owner": "hjanuschka",
@@ -2220,6 +2377,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1047828089,
             "language": "Svelte",
             "last_commit": "2025-08-31T12:02:39Z",
             "owner": "gitcoder89431",
@@ -2234,6 +2392,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1039343174,
             "language": "Rust",
             "last_commit": "2026-08-18T12:20:05Z",
             "owner": "aorumbayev",
@@ -2248,6 +2407,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1083170511,
             "language": "Shell",
             "last_commit": "2025-10-26T13:42:08Z",
             "owner": "HectorBjernersjo",
@@ -2262,6 +2422,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1043951550,
             "language": "HTML",
             "last_commit": "2026-08-17T17:47:20Z",
             "owner": "acrogenesis",
@@ -2276,6 +2437,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1045099058,
             "language": "C++",
             "last_commit": "2026-08-18T11:59:06Z",
             "owner": "2disbetter",
@@ -2290,6 +2452,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1048865345,
             "language": "Shell",
             "last_commit": "2025-09-04T00:07:23Z",
             "owner": "daurydicaprio",
@@ -2304,6 +2467,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1072747559,
             "language": "Rust",
             "last_commit": "2026-04-10T01:11:30Z",
             "owner": "Grenish",
@@ -2318,6 +2482,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1045457818,
             "language": "Dart",
             "last_commit": "2025-09-25T21:21:08Z",
             "owner": "aloisdeniel",
@@ -2332,6 +2497,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1025646186,
             "language": "Go",
             "last_commit": "2026-04-16T16:01:18Z",
             "owner": "ryanyogan",
@@ -2346,6 +2512,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1037973852,
             "language": "Shell",
             "last_commit": "2025-08-15T16:04:55Z",
             "owner": "dylanbr",
@@ -2360,6 +2527,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1049413955,
             "language": "Shell",
             "last_commit": "2025-09-03T23:54:00Z",
             "owner": "daurydicaprio",
@@ -2374,6 +2542,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1043434386,
             "language": "Go",
             "last_commit": "2025-10-30T02:12:19Z",
             "owner": "JaimeStill",
@@ -2388,8 +2557,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1194410549,
             "language": "Go",
-            "last_commit": "2026-08-18T15:12:48Z",
+            "last_commit": "2026-08-19T06:39:52Z",
             "owner": "rhemvi",
             "repo": "omaclip",
             "stars": 13
@@ -2402,6 +2572,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1035649409,
             "language": null,
             "last_commit": "2025-08-26T15:50:45Z",
             "owner": "hipsterusername",
@@ -2416,6 +2587,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1020773731,
             "language": "Shell",
             "last_commit": "2025-08-11T19:38:04Z",
             "owner": "jonashan",
@@ -2430,6 +2602,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1071538566,
             "language": "CSS",
             "last_commit": "2025-10-11T14:44:11Z",
             "owner": "thatmechguy",
@@ -2444,6 +2617,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1043672433,
             "language": "Shell",
             "last_commit": "2025-08-24T11:27:38Z",
             "owner": "nemuiyarou",
@@ -2458,6 +2632,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1033357865,
             "language": "Python",
             "last_commit": "2025-08-11T18:07:34Z",
             "owner": "maxberggren",
@@ -2472,6 +2647,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1061392680,
             "language": "Go",
             "last_commit": "2026-05-22T11:57:08Z",
             "owner": "magudb",
@@ -2486,6 +2662,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1044383896,
             "language": "Shell",
             "last_commit": "2025-08-26T22:30:29Z",
             "owner": "jg-k",
@@ -2500,6 +2677,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1047633227,
             "language": "TypeScript",
             "last_commit": "2025-09-01T00:28:57Z",
             "owner": "amanat361",
@@ -2514,6 +2692,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 1036801134,
             "language": "Shell",
             "last_commit": "2026-08-05T07:58:13Z",
             "owner": "timmo001",
@@ -2528,6 +2707,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 1035372656,
             "language": "Lua",
             "last_commit": "2026-06-12T18:31:21Z",
             "owner": "timmo001",
@@ -2542,6 +2722,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1051886858,
             "language": "Python",
             "last_commit": "2025-09-06T23:43:47Z",
             "owner": "daurydicaprio",
@@ -2553,7 +2734,7 @@
       "title": "Development Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2562,6 +2743,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1017569072,
             "language": "Go",
             "last_commit": "2026-06-15T04:41:03Z",
             "owner": "CyphrRiot",
@@ -2576,6 +2758,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1035386395,
             "language": "Shell",
             "last_commit": "2026-08-18T11:00:43Z",
             "owner": "dougburks",
@@ -2590,6 +2773,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 841597226,
             "language": "CSS",
             "last_commit": "2026-06-21T22:06:58Z",
             "owner": "j5onrf",
@@ -2604,6 +2788,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1038574218,
             "language": "Shell",
             "last_commit": "2025-08-17T17:11:38Z",
             "owner": "alibaghernejad",
@@ -2618,8 +2803,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 994103017,
             "language": "HTML",
-            "last_commit": "2026-08-17T21:45:55Z",
+            "last_commit": "2026-08-19T12:18:41Z",
             "owner": "omacom-io",
             "repo": "omarchy-site",
             "stars": 13
@@ -2632,6 +2818,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 672288242,
             "language": "Shell",
             "last_commit": "2026-02-13T07:18:33Z",
             "owner": "pixincreate",
@@ -2646,6 +2833,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 999561635,
             "language": "Lua",
             "last_commit": "2026-08-17T17:49:43Z",
             "owner": "sheikhlimon",
@@ -2660,6 +2848,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1045851305,
             "language": "Shell",
             "last_commit": "2026-07-20T22:05:40Z",
             "owner": "omacom-io",
@@ -2674,6 +2863,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 972240519,
             "language": "GLSL",
             "last_commit": "2026-08-12T17:45:01Z",
             "owner": "gmunix",
@@ -2688,6 +2878,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1048707765,
             "language": "Lua",
             "last_commit": "2026-07-26T07:27:08Z",
             "owner": "marcelohmdias",
@@ -2702,6 +2893,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 1075260073,
             "language": "Lua",
             "last_commit": "2025-12-03T21:13:54Z",
             "owner": "jehrhardt",
@@ -2713,7 +2905,7 @@
       "title": "Related Projects"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2722,6 +2914,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1027624334,
             "language": null,
             "last_commit": "2025-11-24T12:09:44Z",
             "owner": "Wheel-Smith",
@@ -2736,6 +2929,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1032338924,
             "language": "Lua",
             "last_commit": "2025-08-05T21:41:27Z",
             "owner": "Alexx2",
@@ -2747,7 +2941,7 @@
       "title": "Alternative Curated Lists"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2756,11 +2950,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 994093166,
             "language": "Shell",
-            "last_commit": "2026-08-17T12:22:09Z",
+            "last_commit": "2026-08-19T12:29:31Z",
             "owner": "basecamp",
             "repo": "omarchy",
-            "stars": 26248
+            "stars": 26657
           }
         },
         {
@@ -2770,11 +2965,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 994093166,
             "language": "Shell",
-            "last_commit": "2026-08-17T12:22:09Z",
+            "last_commit": "2026-08-19T12:29:31Z",
             "owner": "basecamp",
             "repo": "omarchy",
-            "stars": 26248
+            "stars": 26657
           }
         },
         {
@@ -2784,31 +2980,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 994093166,
             "language": "Shell",
-            "last_commit": "2026-08-17T12:22:09Z",
+            "last_commit": "2026-08-19T12:29:31Z",
             "owner": "basecamp",
             "repo": "omarchy",
-            "stars": 26248
+            "stars": 26657
           }
-        },
-        {
-          "node_type": "item",
-          "title": "omarchy-theme Topic",
-          "description": "Browse all repositories tagged with omarchy-theme.",
-          "children": []
         }
       ],
       "title": "Community Resources"
-    },
-    {
-      "description": "Contributions are welcome! Please see our Contributing Guide for details on how to submit themes, tools, or other resources.",
-      "items": [],
-      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T15:15:53.865Z",
+    "last_updated": "2026-08-19T12:48:40.196Z",
     "original_repository": "aorumbayev/awesome-omarchy",
+    "original_repository_id": 1039289611,
     "original_repository_sha": "17fd82729be95b502359dac0399f7e6e965fe6c6",
     "enhanced_repository": "enhansome/enhansome-omarchy",
     "enhanced_repository_description": null,
