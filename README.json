@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T18:11:11Z",
             "owner": "goodroot",
             "repo": "hyprwhspr",
-            "stars": 1168
+            "stars": 1170
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2025-11-13T02:12:10Z",
             "owner": "henrysipp",
             "repo": "omarchy-nix",
-            "stars": 744
+            "stars": 748
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-06-01T22:21:49Z",
             "owner": "mroboff",
             "repo": "omarchy-on-cachyos",
-            "stars": 611
+            "stars": 614
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-17T04:04:02Z",
             "owner": "elpritchos",
             "repo": "omadora",
-            "stars": 113
+            "stars": 114
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-17T13:05:40Z",
             "owner": "typecraft-dev",
             "repo": "omarchy-supplement",
-            "stars": 81
+            "stars": 82
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2025-08-19T18:09:14Z",
             "owner": "aorumbayev",
             "repo": "deckarchy",
-            "stars": 41
+            "stars": 42
           }
         },
         {
@@ -311,6 +311,21 @@
         },
         {
           "node_type": "item",
+          "title": "omarchy-akane-theme",
+          "description": "Akane theme with Japanese-inspired colors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1072472155,
+            "language": "Lua",
+            "last_commit": "2026-01-03T16:25:56Z",
+            "owner": "Grenish",
+            "repo": "omarchy-akane-theme",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
           "title": "omarchy-ayaka-theme",
           "description": "Minimalist theme with glass-like blur effects and vibrant accents.",
           "children": [],
@@ -322,21 +337,6 @@
             "owner": "abhijeet-swami",
             "repo": "omarchy-ayaka-theme",
             "stars": 54
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "omarchy-akane-theme",
-          "description": "Akane theme with Japanese-inspired colors.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1072472155,
-            "language": "Lua",
-            "last_commit": "2026-01-03T16:25:56Z",
-            "owner": "Grenish",
-            "repo": "omarchy-akane-theme",
-            "stars": 53
           }
         },
         {
@@ -513,7 +513,7 @@
             "archived": false,
             "id": 1091747360,
             "language": "CSS",
-            "last_commit": "2026-08-05T18:32:43Z",
+            "last_commit": "2026-08-23T01:00:41Z",
             "owner": "HANCORE-linux",
             "repo": "omarchy-mechanoonna-theme",
             "stars": 38
@@ -768,7 +768,7 @@
             "archived": false,
             "id": 1065966279,
             "language": "Lua",
-            "last_commit": "2026-05-16T18:13:11Z",
+            "last_commit": "2026-08-23T11:19:41Z",
             "owner": "vale-c",
             "repo": "omarchy-arc-blueberry",
             "stars": 20
@@ -1001,6 +1001,21 @@
         },
         {
           "node_type": "item",
+          "title": "omarchy-cobalt2-theme",
+          "description": "Cobalt2 theme inspired by the iconic VSCode theme.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1039431520,
+            "language": "CSS",
+            "last_commit": "2026-01-09T15:26:44Z",
+            "owner": "hoblin",
+            "repo": "omarchy-cobalt2-theme",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
           "title": "omarchy-monochrome-theme",
           "description": "Clean monochrome design.",
           "children": [],
@@ -1027,21 +1042,6 @@
             "owner": "j4v3l",
             "repo": "omarchy-anonymous-theme",
             "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "omarchy-cobalt2-theme",
-          "description": "Cobalt2 theme inspired by the iconic VSCode theme.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1039431520,
-            "language": "CSS",
-            "last_commit": "2026-01-09T15:26:44Z",
-            "owner": "hoblin",
-            "repo": "omarchy-cobalt2-theme",
-            "stars": 14
           }
         },
         {
@@ -1241,6 +1241,21 @@
         },
         {
           "node_type": "item",
+          "title": "omarchy-fire-and-shadow-theme",
+          "description": "A moody, somber theme based on the paintings of Joseph Wright.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1308159298,
+            "language": "CSS",
+            "last_commit": "2026-07-22T14:54:29Z",
+            "owner": "mattbbia",
+            "repo": "fire-and-shadow",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
           "title": "omarchy-blackmoney-theme",
           "description": "Bold midnight theme with rich green-gold accents.",
           "children": [],
@@ -1316,21 +1331,6 @@
         },
         {
           "node_type": "item",
-          "title": "omarchy-fire-and-shadow-theme",
-          "description": "A moody, somber theme based on the paintings of Joseph Wright.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1308159298,
-            "language": "CSS",
-            "last_commit": "2026-07-22T14:54:29Z",
-            "owner": "mattbbia",
-            "repo": "fire-and-shadow",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
           "title": "omarchy-delorean-theme",
           "description": "Retro-inspired time traveler's theme.",
           "children": [],
@@ -1353,7 +1353,7 @@
             "archived": false,
             "id": 1256841483,
             "language": "SCSS",
-            "last_commit": "2026-08-14T03:12:52Z",
+            "last_commit": "2026-08-23T00:26:02Z",
             "owner": "VECTORG99",
             "repo": "omarchy-frutiger-aero",
             "stars": 9
@@ -1398,7 +1398,7 @@
             "archived": false,
             "id": 1038256049,
             "language": "CSS",
-            "last_commit": "2026-08-21T03:36:54Z",
+            "last_commit": "2026-08-23T00:44:09Z",
             "owner": "knappkevin",
             "repo": "omarchy-crimson-gold-theme",
             "stars": 8
@@ -1781,6 +1781,21 @@
         },
         {
           "node_type": "item",
+          "title": "Omarchy Velora",
+          "description": "Dark frosted-glass theme with strong Hyprland blur and translucent surfaces.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1340565634,
+            "language": "Lua",
+            "last_commit": "2026-08-23T12:21:46Z",
+            "owner": "shoxjaxon-atabayev",
+            "repo": "omarchy-velora-theme",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
           "title": "omarchy-motivator-theme",
           "description": "Theme for maximum motivation.",
           "children": [],
@@ -1937,6 +1952,36 @@
       "items": [
         {
           "node_type": "item",
+          "title": "hyprmarker",
+          "description": "ZoomIt-inspired annotation overlay tailored for Hyprland/Omarchy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1075699186,
+            "language": "Rust",
+            "last_commit": "2026-08-23T14:02:03Z",
+            "owner": "devmobasa",
+            "repo": "wayscriber",
+            "stars": 711
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wayscriber",
+          "description": "Instant on-screen annotations and markup for Wayland, ZoomIt-inspired.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1075699186,
+            "language": "Rust",
+            "last_commit": "2026-08-23T14:02:03Z",
+            "owner": "devmobasa",
+            "repo": "wayscriber",
+            "stars": 711
+          }
+        },
+        {
+          "node_type": "item",
           "title": "omarchist",
           "description": "GUI app for Omarchy with visual theme designer built with Tauri/Rust/Svelte.",
           "children": [],
@@ -1952,36 +1997,6 @@
         },
         {
           "node_type": "item",
-          "title": "hyprmarker",
-          "description": "ZoomIt-inspired annotation overlay tailored for Hyprland/Omarchy.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1075699186,
-            "language": "Rust",
-            "last_commit": "2026-08-22T13:17:49Z",
-            "owner": "devmobasa",
-            "repo": "wayscriber",
-            "stars": 710
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "wayscriber",
-          "description": "Instant on-screen annotations and markup for Wayland, ZoomIt-inspired.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1075699186,
-            "language": "Rust",
-            "last_commit": "2026-08-22T13:17:49Z",
-            "owner": "devmobasa",
-            "repo": "wayscriber",
-            "stars": 710
-          }
-        },
-        {
-          "node_type": "item",
           "title": "aether",
           "description": "Desktop theming toolkit that streamlines crafting Omarchy themes.",
           "children": [],
@@ -1989,10 +2004,10 @@
             "archived": false,
             "id": 1069669233,
             "language": "Go",
-            "last_commit": "2026-08-20T16:51:45Z",
+            "last_commit": "2026-08-23T08:35:58Z",
             "owner": "bjarneo",
             "repo": "aether",
-            "stars": 638
+            "stars": 641
           }
         },
         {
@@ -2007,7 +2022,7 @@
             "last_commit": "2026-06-19T17:36:25Z",
             "owner": "HANCORE-linux",
             "repo": "waybar-themes",
-            "stars": 592
+            "stars": 595
           }
         },
         {
@@ -2052,7 +2067,7 @@
             "last_commit": "2026-05-29T17:10:17Z",
             "owner": "maxart",
             "repo": "omarchy-cleaner",
-            "stars": 281
+            "stars": 283
           }
         },
         {
@@ -2064,10 +2079,10 @@
             "archived": false,
             "id": 1027172663,
             "language": "Shell",
-            "last_commit": "2026-08-15T17:23:28Z",
+            "last_commit": "2026-08-23T10:59:37Z",
             "owner": "omacom-io",
             "repo": "omarchy-iso",
-            "stars": 224
+            "stars": 225
           }
         },
         {
@@ -2187,7 +2202,7 @@
             "last_commit": "2026-08-21T17:43:49Z",
             "owner": "limehawk",
             "repo": "omarchy-vpn",
-            "stars": 50
+            "stars": 51
           }
         },
         {
@@ -2199,7 +2214,7 @@
             "archived": false,
             "id": 1043833332,
             "language": "Shell",
-            "last_commit": "2026-08-22T14:55:19Z",
+            "last_commit": "2026-08-23T14:30:00Z",
             "owner": "omacom-io",
             "repo": "omarchy-pkgs",
             "stars": 50
@@ -2732,6 +2747,21 @@
         },
         {
           "node_type": "item",
+          "title": "omarchy-auto-theme",
+          "description": "Wallpaper-based dynamic theming: matugen renders a Material You palette into a native Omarchy theme on every wallpaper change.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1342836228,
+            "language": "Shell",
+            "last_commit": "2026-08-23T13:22:29Z",
+            "owner": "AccursedGalaxy",
+            "repo": "omarchy-auto-theme",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
           "title": "omarchy-nook",
           "description": "Bar widget and menu for a home server on your tailnet, showing whether it answers, how it is doing, and what it is running.",
           "children": [],
@@ -2775,7 +2805,7 @@
             "archived": false,
             "id": 1035386395,
             "language": "Shell",
-            "last_commit": "2026-08-22T08:54:29Z",
+            "last_commit": "2026-08-22T20:34:45Z",
             "owner": "dougburks",
             "repo": "ohmydebn",
             "stars": 136
@@ -2790,7 +2820,7 @@
             "archived": false,
             "id": 841597226,
             "language": "CSS",
-            "last_commit": "2026-08-22T14:53:28Z",
+            "last_commit": "2026-08-22T18:09:20Z",
             "owner": "j5onrf",
             "repo": "dots",
             "stars": 115
@@ -2820,10 +2850,10 @@
             "archived": false,
             "id": 994103017,
             "language": "HTML",
-            "last_commit": "2026-08-22T08:55:12Z",
+            "last_commit": "2026-08-22T18:36:59Z",
             "owner": "omacom-io",
             "repo": "omarchy-site",
-            "stars": 17
+            "stars": 19
           }
         },
         {
@@ -2850,7 +2880,7 @@
             "archived": false,
             "id": 999561635,
             "language": "Lua",
-            "last_commit": "2026-08-22T14:35:35Z",
+            "last_commit": "2026-08-23T12:36:33Z",
             "owner": "sheikhlimon",
             "repo": "dotfiles",
             "stars": 8
@@ -2934,7 +2964,7 @@
             "last_commit": "2025-11-24T12:09:44Z",
             "owner": "Wheel-Smith",
             "repo": "awesome-omarchy",
-            "stars": 123
+            "stars": 124
           }
         },
         {
@@ -2967,10 +2997,10 @@
             "archived": false,
             "id": 994093166,
             "language": "Shell",
-            "last_commit": "2026-08-22T14:56:06Z",
+            "last_commit": "2026-08-23T14:43:36Z",
             "owner": "basecamp",
             "repo": "omarchy",
-            "stars": 27999
+            "stars": 28753
           }
         },
         {
@@ -2982,10 +3012,10 @@
             "archived": false,
             "id": 994093166,
             "language": "Shell",
-            "last_commit": "2026-08-22T14:56:06Z",
+            "last_commit": "2026-08-23T14:43:36Z",
             "owner": "basecamp",
             "repo": "omarchy",
-            "stars": 27999
+            "stars": 28753
           }
         },
         {
@@ -2997,10 +3027,10 @@
             "archived": false,
             "id": 994093166,
             "language": "Shell",
-            "last_commit": "2026-08-22T14:56:06Z",
+            "last_commit": "2026-08-23T14:43:36Z",
             "owner": "basecamp",
             "repo": "omarchy",
-            "stars": 27999
+            "stars": 28753
           }
         }
       ],
@@ -3008,10 +3038,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T15:01:43.494Z",
+    "last_updated": "2026-08-23T15:03:56.749Z",
     "original_repository": "aorumbayev/awesome-omarchy",
     "original_repository_id": 1039289611,
-    "original_repository_sha": "b18cd7667db2bbc67ecec23c1e5c2794fdc15702",
+    "original_repository_sha": "5526e66a2a0e2f08885e9d2ca6c0247ff9937d53",
     "enhanced_repository": "enhansome/enhansome-omarchy",
     "enhanced_repository_description": null,
     "title": "Awesome Omarchy with stars"
