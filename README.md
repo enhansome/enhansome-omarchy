@@ -17,7 +17,7 @@ A curated list of Omarchy themes, resources, and tools.
 
 ## Official Resources
 
-* [Omarchy](https://github.com/basecamp/omarchy) ⭐ 29,759 | 🐛 1,403 | 🌐 Shell | 📅 2026-08-24 - The main Omarchy project by Basecamp.
+* [Omarchy](https://github.com/basecamp/omarchy) ⭐ 29,816 | 🐛 1,412 | 🌐 Shell | 📅 2026-08-24 - The main Omarchy project by Basecamp.
 * [Omarchy Documentation](https://learn.omacom.io/2/the-omarchy-manual) - Official website with installation guides and documentation.
 
 ## Alternative Implementations
@@ -56,7 +56,7 @@ A curated list of Omarchy themes, resources, and tools.
 * [omarchy-space-monkey-theme](https://github.com/TyRichards/omarchy-space-monkey-theme) ⭐ 45 | 🐛 0 | 🌐 CSS | 📅 2026-06-09 - Space-inspired theme with cosmic elements.
 * [omarchy-midnight-theme](https://github.com/JaxonWright/omarchy-midnight-theme) ⭐ 44 | 🐛 1 | 🌐 Lua | 📅 2026-07-30 - Dark midnight theme optimized for OLED displays.
 * [omarchy-flexoki-dark-theme](https://github.com/euandeas/omarchy-flexoki-dark-theme) ⭐ 42 | 🐛 1 | 🌐 CSS | 📅 2026-07-18 - Flexoki color palette adaptation.
-* [omarchy-spectra-theme](https://github.com/abhijeet-swami/omarchy-spectra-theme) ⭐ 40 | 🐛 1 | 🌐 CSS | 📅 2026-01-02 - Blur and transparency theme that adapts to any wallpaper.
+* [omarchy-spectra-theme](https://github.com/abhijeet-swami/omarchy-spectra-theme) ⭐ 39 | 🐛 1 | 🌐 CSS | 📅 2026-01-02 - Blur and transparency theme that adapts to any wallpaper.
 * [omarchy-blackturq-theme](https://github.com/HANCORE-linux/omarchy-blackturq-theme) ⭐ 38 | 🐛 0 | 🌐 CSS | 📅 2026-08-04 - Black turquoise theme based on Evo80 keyboard color pattern.
 * [omarchy-mechanoonna-theme](https://github.com/HANCORE-linux/omarchy-mechanoonna-theme) ⭐ 38 | 🐛 0 | 🌐 CSS | 📅 2026-08-23 - Mecha no Onna (メカの女) the "Metal Woman" theme.
 * [omarchy-blackgold-theme](https://github.com/HANCORE-linux/omarchy-blackgold-theme) ⭐ 37 | 🐛 0 | 🌐 CSS | 📅 2026-08-04 - Sleek black-and-gold theme with luxurious aesthetics.
@@ -174,7 +174,7 @@ A curated list of Omarchy themes, resources, and tools.
 * [omarchy-migrate](https://github.com/CyphrRiot/Migrate) ⭐ 56 | 🐛 1 | 🌐 Go | 📅 2026-05-27 - Stunningly beautiful terminal backup and restore tool written in Pure Go.
 * [omarchy-ai](https://github.com/mitkox/omarchy-ai) ⭐ 51 | 🐛 1 | 🌐 Shell | 📅 2025-09-26 - AI-powered enhancements and tools for Omarchy.
 * [omarchy-vpn](https://github.com/limehawk/omarchy-vpn) ⭐ 51 | 🐛 2 | 🌐 Go | 📅 2026-08-24 - WireGuard VPN manager TUI with live connection stats, inline config import/rename, and optional Waybar module.
-* [omarchy-pkgs](https://github.com/omacom-io/omarchy-pkgs) ⭐ 50 | 🐛 42 | 🌐 Shell | 📅 2026-08-24 - Official Omarchy packages and utilities.
+* [omarchy-pkgs](https://github.com/omacom-io/omarchy-pkgs) ⭐ 50 | 🐛 44 | 🌐 Shell | 📅 2026-08-24 - Official Omarchy packages and utilities.
 * [hypruler](https://github.com/t4t5/hypruler) ⭐ 44 | 🐛 0 | 🌐 Rust | 📅 2026-05-07 - Measure anything on your screen. Inspired by PixelSnap for Mac.
 * [omarchy-wireguard-vpn-toggle](https://github.com/JacobusXIII/omarchy-wireguard-vpn-toggle) ⭐ 43 | 🐛 2 | 🌐 Shell | 📅 2025-10-31 - WireGuard VPN toggle for Omarchy's Waybar.
 * [omazed](https://github.com/APS6/omazed) ⭐ 43 | 🐛 0 | 🌐 Shell | 📅 2026-08-15 - Live theme switching for Zed editor in Omarchy.
@@ -234,9 +234,9 @@ A curated list of Omarchy themes, resources, and tools.
 
 ## Community Resources
 
-* [GitHub Discussions](https://github.com/basecamp/omarchy/discussions) ⭐ 29,759 | 🐛 1,403 | 🌐 Shell | 📅 2026-08-24 - Official community discussions and support.
-* [Omarchy on Raspberry Pi 5](https://github.com/basecamp/omarchy/discussions/642) ⭐ 29,759 | 🐛 1,403 | 🌐 Shell | 📅 2026-08-24 - Community discussion on running Omarchy on Raspberry Pi 5.
-* [GitHub Issues](https://github.com/basecamp/omarchy/issues) ⭐ 29,759 | 🐛 1,403 | 🌐 Shell | 📅 2026-08-24 - Bug reports and feature requests.
+* [GitHub Discussions](https://github.com/basecamp/omarchy/discussions) ⭐ 29,816 | 🐛 1,412 | 🌐 Shell | 📅 2026-08-24 - Official community discussions and support.
+* [Omarchy on Raspberry Pi 5](https://github.com/basecamp/omarchy/discussions/642) ⭐ 29,816 | 🐛 1,412 | 🌐 Shell | 📅 2026-08-24 - Community discussion on running Omarchy on Raspberry Pi 5.
+* [GitHub Issues](https://github.com/basecamp/omarchy/issues) ⭐ 29,816 | 🐛 1,412 | 🌐 Shell | 📅 2026-08-24 - Bug reports and feature requests.
 * [Omarchy on 11 inch MacBook Air](https://seanabrahams.com/linux/archlinux/macbook/omarchy/2025/08/07/omarchy-macbook-air.html) - Technical guide for installing Omarchy on a 2014 MacBook Air with WiFi configuration.
 * [omarchy-theme Topic](https://github.com/topics/omarchy-theme) - Browse all repositories tagged with omarchy-theme.
 

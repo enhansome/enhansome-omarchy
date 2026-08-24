@@ -486,7 +486,7 @@
             "last_commit": "2026-01-02T07:05:17Z",
             "owner": "abhijeet-swami",
             "repo": "omarchy-spectra-theme",
-            "stars": 40
+            "stars": 39
           }
         },
         {
@@ -2214,7 +2214,7 @@
             "archived": false,
             "id": 1043833332,
             "language": "Shell",
-            "last_commit": "2026-08-24T13:26:27Z",
+            "last_commit": "2026-08-24T14:57:20Z",
             "owner": "omacom-io",
             "repo": "omarchy-pkgs",
             "stars": 50
@@ -2997,10 +2997,10 @@
             "archived": false,
             "id": 994093166,
             "language": "Shell",
-            "last_commit": "2026-08-24T14:08:05Z",
+            "last_commit": "2026-08-24T14:56:48Z",
             "owner": "basecamp",
             "repo": "omarchy",
-            "stars": 29759
+            "stars": 29816
           }
         },
         {
@@ -3012,10 +3012,10 @@
             "archived": false,
             "id": 994093166,
             "language": "Shell",
-            "last_commit": "2026-08-24T14:08:05Z",
+            "last_commit": "2026-08-24T14:56:48Z",
             "owner": "basecamp",
             "repo": "omarchy",
-            "stars": 29759
+            "stars": 29816
           }
         },
         {
@@ -3027,10 +3027,10 @@
             "archived": false,
             "id": 994093166,
             "language": "Shell",
-            "last_commit": "2026-08-24T14:08:05Z",
+            "last_commit": "2026-08-24T14:56:48Z",
             "owner": "basecamp",
             "repo": "omarchy",
-            "stars": 29759
+            "stars": 29816
           }
         }
       ],
@@ -3038,7 +3038,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:25:38.895Z",
+    "last_updated": "2026-08-24T15:24:40.267Z",
     "original_repository": "aorumbayev/awesome-omarchy",
     "original_repository_id": 1039289611,
     "original_repository_sha": "5526e66a2a0e2f08885e9d2ca6c0247ff9937d53",
