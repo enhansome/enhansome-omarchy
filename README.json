@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T19:41:57Z",
             "owner": "goodroot",
             "repo": "hyprwhspr",
-            "stars": 1174
+            "stars": 1175
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2025-11-13T02:12:10Z",
             "owner": "henrysipp",
             "repo": "omarchy-nix",
-            "stars": 753
+            "stars": 754
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-06-01T22:21:49Z",
             "owner": "mroboff",
             "repo": "omarchy-on-cachyos",
-            "stars": 621
+            "stars": 622
           }
         },
         {
@@ -821,6 +821,21 @@
         },
         {
           "node_type": "item",
+          "title": "omarchy-moodpeak-theme",
+          "description": "Mood-lifting theme designed to pull you back to peak focus.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1098586772,
+            "language": "CSS",
+            "last_commit": "2026-08-05T20:56:04Z",
+            "owner": "HANCORE-linux",
+            "repo": "omarchy-moodpeak-theme",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
           "title": "omarchy-pulsar-theme",
           "description": "Vibrant, cosmic-inspired dark theme for Omarchy that captures the brilliant energy of neutron stars.",
           "children": [],
@@ -876,21 +891,6 @@
             "last_commit": "2026-05-21T14:29:12Z",
             "owner": "bjarneo",
             "repo": "omarchy-elysian-theme",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "omarchy-moodpeak-theme",
-          "description": "Mood-lifting theme designed to pull you back to peak focus.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1098586772,
-            "language": "CSS",
-            "last_commit": "2026-08-05T20:56:04Z",
-            "owner": "HANCORE-linux",
-            "repo": "omarchy-moodpeak-theme",
             "stars": 17
           }
         },
@@ -1959,10 +1959,10 @@
             "archived": false,
             "id": 1075699186,
             "language": "Rust",
-            "last_commit": "2026-08-24T21:10:14Z",
+            "last_commit": "2026-08-25T09:52:54Z",
             "owner": "devmobasa",
             "repo": "wayscriber",
-            "stars": 715
+            "stars": 717
           }
         },
         {
@@ -1974,10 +1974,10 @@
             "archived": false,
             "id": 1075699186,
             "language": "Rust",
-            "last_commit": "2026-08-24T21:10:14Z",
+            "last_commit": "2026-08-25T09:52:54Z",
             "owner": "devmobasa",
             "repo": "wayscriber",
-            "stars": 715
+            "stars": 717
           }
         },
         {
@@ -2037,7 +2037,7 @@
             "last_commit": "2026-07-31T21:25:28Z",
             "owner": "erans",
             "repo": "hyprmon",
-            "stars": 507
+            "stars": 508
           }
         },
         {
@@ -2082,7 +2082,7 @@
             "last_commit": "2026-08-23T19:40:42Z",
             "owner": "omacom-io",
             "repo": "omarchy-iso",
-            "stars": 227
+            "stars": 229
           }
         },
         {
@@ -2117,21 +2117,6 @@
         },
         {
           "node_type": "item",
-          "title": "tema",
-          "description": "Modern Omarchy theming UI with live previews and presets.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1065774591,
-            "language": "JavaScript",
-            "last_commit": "2026-03-15T14:30:25Z",
-            "owner": "bjarneo",
-            "repo": "tema",
-            "stars": 109
-          }
-        },
-        {
-          "node_type": "item",
           "title": "omarchy-tmux",
           "description": "Tmux status bar themes styled to match Omarchy.",
           "children": [],
@@ -2142,6 +2127,21 @@
             "last_commit": "2026-06-19T11:48:14Z",
             "owner": "joaofelipegalvao",
             "repo": "omarchy-tmux",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tema",
+          "description": "Modern Omarchy theming UI with live previews and presets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1065774591,
+            "language": "JavaScript",
+            "last_commit": "2026-03-15T14:30:25Z",
+            "owner": "bjarneo",
+            "repo": "tema",
             "stars": 109
           }
         },
@@ -2184,10 +2184,10 @@
             "archived": false,
             "id": 1043833332,
             "language": "Shell",
-            "last_commit": "2026-08-25T05:49:48Z",
+            "last_commit": "2026-08-25T13:17:13Z",
             "owner": "omacom-io",
             "repo": "omarchy-pkgs",
-            "stars": 54
+            "stars": 55
           }
         },
         {
@@ -2574,7 +2574,7 @@
             "archived": false,
             "id": 1194410549,
             "language": "Go",
-            "last_commit": "2026-08-19T12:54:16Z",
+            "last_commit": "2026-08-25T09:12:33Z",
             "owner": "rhemvi",
             "repo": "omaclip",
             "stars": 12
@@ -2664,7 +2664,7 @@
             "archived": false,
             "id": 1061392680,
             "language": "Go",
-            "last_commit": "2026-05-22T11:57:08Z",
+            "last_commit": "2026-08-25T13:32:15Z",
             "owner": "magudb",
             "repo": "hyprBluetooth",
             "stars": 7
@@ -2805,7 +2805,7 @@
             "archived": false,
             "id": 1035386395,
             "language": "Shell",
-            "last_commit": "2026-08-24T20:51:44Z",
+            "last_commit": "2026-08-25T14:25:04Z",
             "owner": "dougburks",
             "repo": "ohmydebn",
             "stars": 136
@@ -2850,10 +2850,10 @@
             "archived": false,
             "id": 994103017,
             "language": "HTML",
-            "last_commit": "2026-08-24T19:41:26Z",
+            "last_commit": "2026-08-25T14:33:04Z",
             "owner": "omacom-io",
             "repo": "omarchy-site",
-            "stars": 23
+            "stars": 24
           }
         },
         {
@@ -2997,10 +2997,10 @@
             "archived": false,
             "id": 994093166,
             "language": "Shell",
-            "last_commit": "2026-08-25T04:47:55Z",
+            "last_commit": "2026-08-25T15:04:13Z",
             "owner": "basecamp",
             "repo": "omarchy",
-            "stars": 30412
+            "stars": 30911
           }
         },
         {
@@ -3012,10 +3012,10 @@
             "archived": false,
             "id": 994093166,
             "language": "Shell",
-            "last_commit": "2026-08-25T04:47:55Z",
+            "last_commit": "2026-08-25T15:04:13Z",
             "owner": "basecamp",
             "repo": "omarchy",
-            "stars": 30412
+            "stars": 30911
           }
         },
         {
@@ -3027,10 +3027,10 @@
             "archived": false,
             "id": 994093166,
             "language": "Shell",
-            "last_commit": "2026-08-25T04:47:55Z",
+            "last_commit": "2026-08-25T15:04:13Z",
             "owner": "basecamp",
             "repo": "omarchy",
-            "stars": 30412
+            "stars": 30911
           }
         }
       ],
@@ -3038,7 +3038,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:17:39.711Z",
+    "last_updated": "2026-08-25T15:28:59.721Z",
     "original_repository": "aorumbayev/awesome-omarchy",
     "original_repository_id": 1039289611,
     "original_repository_sha": "5526e66a2a0e2f08885e9d2ca6c0247ff9937d53",
