@@ -12,10 +12,10 @@
             "archived": false,
             "id": 1045801018,
             "language": "Python",
-            "last_commit": "2026-08-26T02:51:55Z",
+            "last_commit": "2026-08-26T17:24:11Z",
             "owner": "goodroot",
             "repo": "hyprwhspr",
-            "stars": 1175
+            "stars": 1176
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2025-11-13T02:12:10Z",
             "owner": "henrysipp",
             "repo": "omarchy-nix",
-            "stars": 759
+            "stars": 764
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-06-01T22:21:49Z",
             "owner": "mroboff",
             "repo": "omarchy-on-cachyos",
-            "stars": 625
+            "stars": 627
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-17T13:05:40Z",
             "owner": "typecraft-dev",
             "repo": "omarchy-supplement",
-            "stars": 84
+            "stars": 85
           }
         },
         {
@@ -198,10 +198,10 @@
             "archived": false,
             "id": 1247916961,
             "language": "Rust",
-            "last_commit": "2026-08-26T14:57:03Z",
+            "last_commit": "2026-08-27T08:14:45Z",
             "owner": "akitaonrails",
             "repo": "ai-usagebar",
-            "stars": 360
+            "stars": 362
           }
         },
         {
@@ -216,7 +216,22 @@
             "last_commit": "2026-08-26T04:03:23Z",
             "owner": "thisisgm",
             "repo": "omarchy-pods",
-            "stars": 114
+            "stars": 118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Omarchy Spotify",
+          "description": "Native Quickshell Spotify client themed for Omarchy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1332438761,
+            "language": "QML",
+            "last_commit": "2026-08-27T11:20:51Z",
+            "owner": "stappmus",
+            "repo": "Omarchy-Spotify",
+            "stars": 111
           }
         },
         {
@@ -236,21 +251,6 @@
         },
         {
           "node_type": "item",
-          "title": "Omarchy Spotify",
-          "description": "Native Quickshell Spotify client themed for Omarchy.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1332438761,
-            "language": "QML",
-            "last_commit": "2026-08-26T14:07:15Z",
-            "owner": "stappmus",
-            "repo": "Omarchy-Spotify",
-            "stars": 107
-          }
-        },
-        {
-          "node_type": "item",
           "title": "SHIBUMI",
           "description": "Native bar and modular plugin suite for Omarchy Quattro.",
           "children": [],
@@ -261,7 +261,7 @@
             "last_commit": "2026-08-24T06:25:04Z",
             "owner": "HANCORE-linux",
             "repo": "Shibumi-Shell",
-            "stars": 100
+            "stars": 103
           }
         },
         {
@@ -276,7 +276,7 @@
             "last_commit": "2026-08-26T14:10:00Z",
             "owner": "huacnlee",
             "repo": "omamail",
-            "stars": 98
+            "stars": 100
           }
         },
         {
@@ -291,7 +291,7 @@
             "last_commit": "2026-08-19T21:04:12Z",
             "owner": "SirJul1337",
             "repo": "omarchy-lock-explorer",
-            "stars": 69
+            "stars": 70
           }
         },
         {
@@ -318,7 +318,7 @@
             "archived": false,
             "id": 1160894470,
             "language": "Shell",
-            "last_commit": "2026-08-25T22:46:29Z",
+            "last_commit": "2026-08-26T19:50:26Z",
             "owner": "mryll",
             "repo": "claudebar",
             "stars": 47
@@ -348,10 +348,10 @@
             "archived": false,
             "id": 1333011740,
             "language": "QML",
-            "last_commit": "2026-08-25T20:20:26Z",
+            "last_commit": "2026-08-26T23:16:48Z",
             "owner": "crmne",
             "repo": "omarchy-hyprmoncfg",
-            "stars": 43
+            "stars": 45
           }
         },
         {
@@ -366,7 +366,7 @@
             "last_commit": "2026-08-26T13:57:11Z",
             "owner": "robzolkos",
             "repo": "omarchy-github",
-            "stars": 38
+            "stars": 41
           }
         },
         {
@@ -401,16 +401,16 @@
         },
         {
           "node_type": "item",
-          "title": "Quattrolitaire",
-          "description": "Klondike solitaire as a native Omarchy shell plugin.",
+          "title": "Home Assistant",
+          "description": "View and control Home Assistant devices from the Omarchy bar.",
           "children": [],
           "repo_info": {
             "archived": false,
-            "id": 1337453301,
+            "id": 1327115118,
             "language": "QML",
-            "last_commit": "2026-08-17T19:23:46Z",
-            "owner": "28allday",
-            "repo": "Quattrolitaire",
+            "last_commit": "2026-08-17T22:21:49Z",
+            "owner": "konradk",
+            "repo": "hass",
             "stars": 24
           }
         },
@@ -423,10 +423,25 @@
             "archived": false,
             "id": 1339937939,
             "language": "QML",
-            "last_commit": "2026-08-26T09:25:09Z",
+            "last_commit": "2026-08-26T23:37:04Z",
             "owner": "fross100",
             "repo": "omaplug",
-            "stars": 23
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quattrolitaire",
+          "description": "Klondike solitaire as a native Omarchy shell plugin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1337453301,
+            "language": "QML",
+            "last_commit": "2026-08-17T19:23:46Z",
+            "owner": "28allday",
+            "repo": "Quattrolitaire",
+            "stars": 24
           }
         },
         {
@@ -446,16 +461,16 @@
         },
         {
           "node_type": "item",
-          "title": "Home Assistant",
-          "description": "View and control Home Assistant devices from the Omarchy bar.",
+          "title": "Omaland",
+          "description": "Live-preview panel for editing Hyprland look-and-feel from the Omarchy menu.",
           "children": [],
           "repo_info": {
             "archived": false,
-            "id": 1327115118,
+            "id": 1335935933,
             "language": "QML",
-            "last_commit": "2026-08-17T22:21:49Z",
-            "owner": "konradk",
-            "repo": "hass",
+            "last_commit": "2026-08-18T01:29:21Z",
+            "owner": "bobby-nicholas",
+            "repo": "omaland",
             "stars": 22
           }
         },
@@ -476,21 +491,6 @@
         },
         {
           "node_type": "item",
-          "title": "Omaland",
-          "description": "Live-preview panel for editing Hyprland look-and-feel from the Omarchy menu.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1335935933,
-            "language": "QML",
-            "last_commit": "2026-08-18T01:29:21Z",
-            "owner": "bobby-nicholas",
-            "repo": "omaland",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
           "title": "Voxtype Enhance",
           "description": "Voxtype dictation control center with model downloads and paste controls.",
           "children": [],
@@ -501,6 +501,21 @@
             "last_commit": "2026-08-24T09:26:36Z",
             "owner": "iamcheyan",
             "repo": "omarchy-voxtype-enhance",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mirador",
+          "description": "Visual overview of workspaces and their windows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1329145342,
+            "language": "QML",
+            "last_commit": "2026-08-23T07:38:04Z",
+            "owner": "sanjyay",
+            "repo": "Mirador",
             "stars": 20
           }
         },
@@ -516,21 +531,6 @@
             "last_commit": "2026-08-14T15:42:11Z",
             "owner": "tmn73",
             "repo": "omarchy-calendar",
-            "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mirador",
-          "description": "Visual overview of workspaces and their windows.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1329145342,
-            "language": "QML",
-            "last_commit": "2026-08-23T07:38:04Z",
-            "owner": "sanjyay",
-            "repo": "Mirador",
             "stars": 19
           }
         },
@@ -558,7 +558,7 @@
             "archived": false,
             "id": 1335354904,
             "language": "QML",
-            "last_commit": "2026-08-26T07:34:46Z",
+            "last_commit": "2026-08-27T11:08:30Z",
             "owner": "rosakodu",
             "repo": "omarchy-dock",
             "stars": 18
@@ -611,6 +611,21 @@
         },
         {
           "node_type": "item",
+          "title": "Notification Center",
+          "description": "Native notification center with history, search, and Do Not Disturb.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1335298878,
+            "language": "QML",
+            "last_commit": "2026-08-23T18:52:29Z",
+            "owner": "Shavanced",
+            "repo": "omarchy-notification-center-plugin",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
           "title": "OmaConnect",
           "description": "KDE Connect integration for SMS, clipboard, file sharing, and device commands.",
           "children": [],
@@ -622,21 +637,6 @@
             "owner": "jitendradara12",
             "repo": "omaconnect",
             "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Notification Center",
-          "description": "Native notification center with history, search, and Do Not Disturb.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1335298878,
-            "language": "QML",
-            "last_commit": "2026-08-23T18:52:29Z",
-            "owner": "Shavanced",
-            "repo": "omarchy-notification-center-plugin",
-            "stars": 16
           }
         },
         {
@@ -666,7 +666,7 @@
             "last_commit": "2026-08-26T08:09:47Z",
             "owner": "ax1g",
             "repo": "quickshell-screentime-plugin",
-            "stars": 15
+            "stars": 16
           }
         }
       ],
@@ -684,7 +684,7 @@
             "archived": false,
             "id": 1075699186,
             "language": "Rust",
-            "last_commit": "2026-08-26T11:07:27Z",
+            "last_commit": "2026-08-26T20:09:24Z",
             "owner": "devmobasa",
             "repo": "wayscriber",
             "stars": 718
@@ -699,7 +699,7 @@
             "archived": false,
             "id": 1075699186,
             "language": "Rust",
-            "last_commit": "2026-08-26T11:07:27Z",
+            "last_commit": "2026-08-26T20:09:24Z",
             "owner": "devmobasa",
             "repo": "wayscriber",
             "stars": 718
@@ -732,7 +732,7 @@
             "last_commit": "2026-08-23T19:15:43Z",
             "owner": "bjarneo",
             "repo": "aether",
-            "stars": 643
+            "stars": 645
           }
         },
         {
@@ -747,7 +747,7 @@
             "last_commit": "2026-06-19T17:36:25Z",
             "owner": "HANCORE-linux",
             "repo": "waybar-themes",
-            "stars": 601
+            "stars": 603
           }
         },
         {
@@ -762,7 +762,7 @@
             "last_commit": "2026-07-31T21:25:28Z",
             "owner": "erans",
             "repo": "hyprmon",
-            "stars": 508
+            "stars": 509
           }
         },
         {
@@ -777,7 +777,7 @@
             "last_commit": "2026-08-23T21:09:09Z",
             "owner": "Firstp1ck",
             "repo": "Pacsea",
-            "stars": 291
+            "stars": 292
           }
         },
         {
@@ -804,10 +804,10 @@
             "archived": false,
             "id": 1027172663,
             "language": "Shell",
-            "last_commit": "2026-08-23T19:40:42Z",
+            "last_commit": "2026-08-26T21:33:04Z",
             "owner": "omacom-io",
             "repo": "omarchy-iso",
-            "stars": 231
+            "stars": 233
           }
         },
         {
@@ -879,10 +879,10 @@
             "archived": false,
             "id": 1043833332,
             "language": "Shell",
-            "last_commit": "2026-08-26T13:29:16Z",
+            "last_commit": "2026-08-27T10:00:34Z",
             "owner": "omacom-io",
             "repo": "omarchy-pkgs",
-            "stars": 64
+            "stars": 72
           }
         },
         {
@@ -1257,7 +1257,7 @@
             "last_commit": "2025-08-15T16:04:55Z",
             "owner": "dylanbr",
             "repo": "omarchy-box",
-            "stars": 18
+            "stars": 19
           }
         },
         {
@@ -1500,7 +1500,7 @@
             "archived": false,
             "id": 994103017,
             "language": "HTML",
-            "last_commit": "2026-08-26T15:42:05Z",
+            "last_commit": "2026-08-27T11:22:17Z",
             "owner": "omacom-io",
             "repo": "omarchy-site",
             "stars": 25
@@ -1533,7 +1533,7 @@
             "last_commit": "2026-07-20T22:05:40Z",
             "owner": "omacom-io",
             "repo": "omarchy-mirror",
-            "stars": 8
+            "stars": 9
           }
         },
         {
@@ -1566,10 +1566,10 @@
             "archived": false,
             "id": 1314624489,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T14:48:09Z",
+            "last_commit": "2026-08-27T06:02:40Z",
             "owner": "HANCORE-linux",
             "repo": "omarchy-plugin-marketplace",
-            "stars": 144
+            "stars": 153
           }
         },
         {
@@ -1602,10 +1602,10 @@
             "archived": false,
             "id": 994093166,
             "language": "Shell",
-            "last_commit": "2026-08-26T14:47:26Z",
+            "last_commit": "2026-08-27T11:19:50Z",
             "owner": "basecamp",
             "repo": "omarchy",
-            "stars": 31815
+            "stars": 32356
           }
         },
         {
@@ -1617,10 +1617,10 @@
             "archived": false,
             "id": 994093166,
             "language": "Shell",
-            "last_commit": "2026-08-26T14:47:26Z",
+            "last_commit": "2026-08-27T11:19:50Z",
             "owner": "basecamp",
             "repo": "omarchy",
-            "stars": 31815
+            "stars": 32356
           }
         },
         {
@@ -1632,10 +1632,10 @@
             "archived": false,
             "id": 994093166,
             "language": "Shell",
-            "last_commit": "2026-08-26T14:47:26Z",
+            "last_commit": "2026-08-27T11:19:50Z",
             "owner": "basecamp",
             "repo": "omarchy",
-            "stars": 31815
+            "stars": 32356
           }
         }
       ],
@@ -1656,7 +1656,7 @@
             "last_commit": "2026-05-15T21:12:13Z",
             "owner": "imbypass",
             "repo": "omarchy-theme-hook",
-            "stars": 196
+            "stars": 197
           }
         },
         {
@@ -1686,7 +1686,7 @@
             "last_commit": "2026-08-17T18:50:04Z",
             "owner": "JJDizz1L",
             "repo": "aetheria",
-            "stars": 86
+            "stars": 87
           }
         },
         {
@@ -1746,7 +1746,7 @@
             "last_commit": "2026-04-15T00:17:13Z",
             "owner": "vyrx-dev",
             "repo": "omarchy-void-theme",
-            "stars": 58
+            "stars": 59
           }
         },
         {
@@ -1901,6 +1901,21 @@
         },
         {
           "node_type": "item",
+          "title": "omarchy-blackturq-theme",
+          "description": "Black turquoise theme based on Evo80 keyboard color pattern.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1059027884,
+            "language": "CSS",
+            "last_commit": "2026-08-04T21:31:33Z",
+            "owner": "HANCORE-linux",
+            "repo": "omarchy-blackturq-theme",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
           "title": "omarchy-flexoki-dark-theme",
           "description": "Flexoki color palette adaptation.",
           "children": [],
@@ -1912,21 +1927,6 @@
             "owner": "euandeas",
             "repo": "omarchy-flexoki-dark-theme",
             "stars": 42
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "omarchy-blackturq-theme",
-          "description": "Black turquoise theme based on Evo80 keyboard color pattern.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1059027884,
-            "language": "CSS",
-            "last_commit": "2026-08-04T21:31:33Z",
-            "owner": "HANCORE-linux",
-            "repo": "omarchy-blackturq-theme",
-            "stars": 41
           }
         },
         {
@@ -1976,21 +1976,6 @@
         },
         {
           "node_type": "item",
-          "title": "omarchy-dracula-theme",
-          "description": "Popular Dracula theme adaptation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1032815642,
-            "language": "CSS",
-            "last_commit": "2026-08-22T02:45:20Z",
-            "owner": "catlee",
-            "repo": "omarchy-dracula-theme",
-            "stars": 36
-          }
-        },
-        {
-          "node_type": "item",
           "title": "omarchy-futurism-theme",
           "description": "Futuristic theme with modern aesthetics.",
           "children": [],
@@ -2001,6 +1986,21 @@
             "last_commit": "2026-02-21T21:21:44Z",
             "owner": "bjarneo",
             "repo": "omarchy-futurism-theme",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "omarchy-dracula-theme",
+          "description": "Popular Dracula theme adaptation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1032815642,
+            "language": "CSS",
+            "last_commit": "2026-08-22T02:45:20Z",
+            "owner": "catlee",
+            "repo": "omarchy-dracula-theme",
             "stars": 36
           }
         },
@@ -2151,7 +2151,7 @@
             "last_commit": "2026-05-21T14:28:47Z",
             "owner": "bjarneo",
             "repo": "omarchy-nes-theme",
-            "stars": 27
+            "stars": 28
           }
         },
         {
@@ -2211,7 +2211,7 @@
             "last_commit": "2026-08-23T11:19:41Z",
             "owner": "vale-c",
             "repo": "omarchy-arc-blueberry",
-            "stars": 20
+            "stars": 21
           }
         },
         {
@@ -2226,7 +2226,7 @@
             "last_commit": "2025-08-12T10:54:32Z",
             "owner": "Hydradevx",
             "repo": "omarchy-azure-glow-theme",
-            "stars": 19
+            "stars": 20
           }
         },
         {
@@ -2241,7 +2241,7 @@
             "last_commit": "2026-08-05T21:20:51Z",
             "owner": "HANCORE-linux",
             "repo": "omarchy-sapphire-theme",
-            "stars": 19
+            "stars": 20
           }
         },
         {
@@ -2286,6 +2286,21 @@
             "last_commit": "2026-03-28T16:51:42Z",
             "owner": "bjarneo",
             "repo": "omarchy-pulsar-theme",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "omarchy-purplewave-theme",
+          "description": "Purple wave-inspired theme with elegant purple tones.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1059694482,
+            "language": "CSS",
+            "last_commit": "2026-05-15T00:20:48Z",
+            "owner": "dotsilva",
+            "repo": "omarchy-purplewave-theme",
             "stars": 18
           }
         },
@@ -2336,21 +2351,6 @@
         },
         {
           "node_type": "item",
-          "title": "omarchy-purplewave-theme",
-          "description": "Purple wave-inspired theme with elegant purple tones.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1059694482,
-            "language": "CSS",
-            "last_commit": "2026-05-15T00:20:48Z",
-            "owner": "dotsilva",
-            "repo": "omarchy-purplewave-theme",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
           "title": "omarchy-tycho",
           "description": "Minimalist pastel theme inspired by musician Tycho's aesthetics.",
           "children": [],
@@ -2376,6 +2376,21 @@
             "last_commit": "2025-08-26T15:51:05Z",
             "owner": "hipsterusername",
             "repo": "omarchy-blueridge-dark-theme",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "omarchy-monokai-theme",
+          "description": "High-contrast Monokai Pro inspired variant.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1056744425,
+            "language": "CSS",
+            "last_commit": "2025-10-03T15:37:02Z",
+            "owner": "bjarneo",
+            "repo": "omarchy-monokai-theme",
             "stars": 16
           }
         },
@@ -2451,21 +2466,6 @@
             "last_commit": "2025-08-09T04:46:25Z",
             "owner": "Swarnim114",
             "repo": "omarchy-monochrome-theme",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "omarchy-monokai-theme",
-          "description": "High-contrast Monokai Pro inspired variant.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1056744425,
-            "language": "CSS",
-            "last_commit": "2025-10-03T15:37:02Z",
-            "owner": "bjarneo",
-            "repo": "omarchy-monokai-theme",
             "stars": 15
           }
         },
@@ -2711,6 +2711,21 @@
         },
         {
           "node_type": "item",
+          "title": "omarchy-velvetnight-theme",
+          "description": "Dark, night-inspired theme with soft contrasts and subtle glimmers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1115942253,
+            "language": "CSS",
+            "last_commit": "2026-08-05T21:57:37Z",
+            "owner": "HANCORE-linux",
+            "repo": "omarchy-velvetnight-theme",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
           "title": "omarchy-blackmoney-theme",
           "description": "Bold midnight theme with rich green-gold accents.",
           "children": [],
@@ -2771,16 +2786,16 @@
         },
         {
           "node_type": "item",
-          "title": "omarchy-velvetnight-theme",
-          "description": "Dark, night-inspired theme with soft contrasts and subtle glimmers.",
+          "title": "omarchy-solarized-theme",
+          "description": "Classic Solarized color scheme adaptation.",
           "children": [],
           "repo_info": {
             "archived": false,
-            "id": 1115942253,
+            "id": 1025823990,
             "language": "CSS",
-            "last_commit": "2026-08-05T21:57:37Z",
-            "owner": "HANCORE-linux",
-            "repo": "omarchy-velvetnight-theme",
+            "last_commit": "2025-07-28T13:36:10Z",
+            "owner": "Gazler",
+            "repo": "omarchy-solarized-theme",
             "stars": 10
           }
         },
@@ -2796,21 +2811,6 @@
             "last_commit": "2025-10-01T14:32:37Z",
             "owner": "jbnunn",
             "repo": "omarchy-delorean-theme",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "omarchy-solarized-theme",
-          "description": "Classic Solarized color scheme adaptation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1025823990,
-            "language": "CSS",
-            "last_commit": "2025-07-28T13:36:10Z",
-            "owner": "Gazler",
-            "repo": "omarchy-solarized-theme",
             "stars": 9
           }
         },
@@ -3029,9 +3029,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:06:29.763Z",
-    "original_repository": "aorumbayev/awesome-omarchy",
-    "original_repository_id": 1039289611,
+    "last_updated": "2026-08-27T11:56:45.802Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 1039289611,
+      "language": "HTML",
+      "last_commit": "2026-08-26T00:38:07Z",
+      "owner": "aorumbayev",
+      "repo": "awesome-omarchy",
+      "stars": 450
+    },
     "original_repository_sha": "746c7e9d79e169bef59fbe5c243cd8a3165fba91",
     "enhanced_repository": "enhansome/enhansome-omarchy",
     "enhanced_repository_description": null,
