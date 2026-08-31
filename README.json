@@ -15,11 +15,11 @@
             "id": 1045801018,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-29T02:46:46Z",
+            "last_commit": "2026-08-31T16:48:01Z",
             "open_issues": 1,
             "owner": "goodroot",
             "repo": "hyprwhspr",
-            "stars": 1181,
+            "stars": 1182,
             "topics": [
               "ai",
               "archlinux",
@@ -61,7 +61,7 @@
             "open_issues": 5,
             "owner": "henrysipp",
             "repo": "omarchy-nix",
-            "stars": 774,
+            "stars": 779,
             "topics": [
               "dotfiles",
               "home-manager",
@@ -87,7 +87,7 @@
             "open_issues": 31,
             "owner": "mroboff",
             "repo": "omarchy-on-cachyos",
-            "stars": 635,
+            "stars": 637,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:11.570Z"
@@ -250,7 +250,7 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2025-08-19T18:09:14Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "aorumbayev",
             "repo": "deckarchy",
             "stars": 46,
@@ -275,7 +275,7 @@
             "id": 1051981262,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-30T02:44:01Z",
+            "last_commit": "2026-08-31T17:54:49Z",
             "open_issues": 0,
             "owner": "deepakness",
             "repo": "omarchy-hub",
@@ -327,11 +327,11 @@
             "id": 1247916961,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-08-30T17:17:37Z",
+            "last_commit": "2026-08-30T21:28:04Z",
             "open_issues": 1,
             "owner": "akitaonrails",
             "repo": "ai-usagebar",
-            "stars": 373,
+            "stars": 386,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:11.570Z"
@@ -349,10 +349,10 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-08-26T04:03:23Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "thisisgm",
             "repo": "omarchy-pods",
-            "stars": 151,
+            "stars": 160,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:11.570Z"
@@ -369,12 +369,39 @@
             "id": 1332438761,
             "language": "QML",
             "license": "MIT",
-            "last_commit": "2026-08-28T19:52:17Z",
-            "open_issues": 9,
+            "last_commit": "2026-08-31T09:56:10Z",
+            "open_issues": 15,
             "owner": "stappmus",
             "repo": "Omarchy-Spotify",
-            "stars": 134,
+            "stars": 148,
             "topics": []
+          },
+          "first_seen": "2026-08-28T23:43:11.570Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Omamail",
+          "description": "Native Gmail and IMAP client for Omarchy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Omarchy mail plugin with Gmail, HEY and IMAP supports.",
+            "homepage": null,
+            "id": 1339459045,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-08-31T13:46:42Z",
+            "open_issues": 22,
+            "owner": "huacnlee",
+            "repo": "omamail",
+            "stars": 120,
+            "topics": [
+              "gmail",
+              "hey",
+              "imap",
+              "mail",
+              "omarchy"
+            ]
           },
           "first_seen": "2026-08-28T23:43:11.570Z"
         },
@@ -391,10 +418,10 @@
             "language": "QML",
             "license": "NOASSERTION",
             "last_commit": "2026-08-24T06:25:04Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "HANCORE-linux",
             "repo": "Shibumi-Shell",
-            "stars": 116,
+            "stars": 117,
             "topics": [
               "omarchy",
               "omarchy-quattro",
@@ -432,33 +459,6 @@
         },
         {
           "node_type": "item",
-          "title": "Omamail",
-          "description": "Native Gmail and IMAP client for Omarchy.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Omarchy mail plugin with Gmail, HEY and IMAP supports.",
-            "homepage": null,
-            "id": 1339459045,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2026-08-30T14:51:20Z",
-            "open_issues": 19,
-            "owner": "huacnlee",
-            "repo": "omamail",
-            "stars": 114,
-            "topics": [
-              "gmail",
-              "hey",
-              "imap",
-              "mail",
-              "omarchy"
-            ]
-          },
-          "first_seen": "2026-08-28T23:43:11.570Z"
-        },
-        {
-          "node_type": "item",
           "title": "Lock Screen Explorer",
           "description": "Lock screen designs for Omarchy with a picker to preview and switch between them.",
           "children": [],
@@ -469,11 +469,11 @@
             "id": 1336274806,
             "language": "QML",
             "license": "MIT",
-            "last_commit": "2026-08-30T15:09:01Z",
-            "open_issues": 0,
+            "last_commit": "2026-08-30T19:15:43Z",
+            "open_issues": 1,
             "owner": "SirJul1337",
             "repo": "omarchy-lock-explorer",
-            "stars": 90,
+            "stars": 99,
             "topics": [
               "hyprland",
               "lockscreen",
@@ -496,11 +496,11 @@
             "id": 1333011740,
             "language": "QML",
             "license": "MIT",
-            "last_commit": "2026-08-30T09:19:08Z",
-            "open_issues": 2,
+            "last_commit": "2026-08-31T16:33:46Z",
+            "open_issues": 4,
             "owner": "crmne",
             "repo": "omarchy-hyprmoncfg",
-            "stars": 62,
+            "stars": 64,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:11.570Z"
@@ -518,10 +518,10 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-08-25T17:19:56Z",
-            "open_issues": 7,
+            "open_issues": 9,
             "owner": "brianblakely",
             "repo": "omarchy-plugins",
-            "stars": 53,
+            "stars": 55,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:11.570Z"
@@ -539,10 +539,10 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-08-27T20:36:27Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "mryll",
             "repo": "claudebar",
-            "stars": 48,
+            "stars": 49,
             "topics": [
               "arch-linux",
               "aur",
@@ -577,7 +577,7 @@
             "open_issues": 0,
             "owner": "lijiawei0305-pixel",
             "repo": "omarchy-mihomo-plugin",
-            "stars": 48,
+            "stars": 49,
             "topics": [
               "mihomo",
               "omarchy",
@@ -603,7 +603,7 @@
             "open_issues": 0,
             "owner": "robzolkos",
             "repo": "omarchy-github",
-            "stars": 43,
+            "stars": 44,
             "topics": [
               "github",
               "omarchy",
@@ -626,11 +626,11 @@
             "id": 1311970074,
             "language": "QML",
             "license": "MIT",
-            "last_commit": "2026-08-30T12:51:22Z",
-            "open_issues": 3,
+            "last_commit": "2026-08-31T13:49:55Z",
+            "open_issues": 0,
             "owner": "husamemadH",
             "repo": "omarchy-quattro-prayer-times",
-            "stars": 32,
+            "stars": 34,
             "topics": [
               "adhan",
               "arch-linux",
@@ -639,6 +639,34 @@
               "islam",
               "omarchy",
               "prayer-times",
+              "quickshell",
+              "wayland"
+            ]
+          },
+          "first_seen": "2026-08-28T23:43:11.570Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Omaland",
+          "description": "Live-preview panel for editing Hyprland look-and-feel from the Omarchy menu.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A GUI for the visual half of Hyprland's look and feel — an Omarchy shell plugin with live preview",
+            "homepage": null,
+            "id": 1335935933,
+            "language": "QML",
+            "license": "MIT",
+            "last_commit": "2026-08-18T01:29:21Z",
+            "open_issues": 1,
+            "owner": "bobby-nicholas",
+            "repo": "omaland",
+            "stars": 33,
+            "topics": [
+              "hyprland",
+              "hyprland-config",
+              "linux-desktop",
+              "omarchy",
               "quickshell",
               "wayland"
             ]
@@ -661,36 +689,29 @@
             "open_issues": 0,
             "owner": "fross100",
             "repo": "omaplug",
-            "stars": 29,
+            "stars": 31,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:11.570Z"
         },
         {
           "node_type": "item",
-          "title": "Omaland",
-          "description": "Live-preview panel for editing Hyprland look-and-feel from the Omarchy menu.",
+          "title": "Activity Monitor",
+          "description": "Lightweight CPU, memory, GPU, storage, and process glance for Omarchy Quattro.",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "A GUI for the visual half of Hyprland's look and feel — an Omarchy shell plugin with live preview",
+            "description": "Lightweight system activity monitor for Omarchy Quattro.",
             "homepage": null,
-            "id": 1335935933,
-            "language": "QML",
+            "id": 1328711647,
+            "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-08-18T01:29:21Z",
-            "open_issues": 1,
-            "owner": "bobby-nicholas",
-            "repo": "omaland",
-            "stars": 28,
-            "topics": [
-              "hyprland",
-              "hyprland-config",
-              "linux-desktop",
-              "omarchy",
-              "quickshell",
-              "wayland"
-            ]
+            "last_commit": "2026-08-31T08:15:14Z",
+            "open_issues": 2,
+            "owner": "stappmus",
+            "repo": "omarchy-activity-monitor",
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:43:11.570Z"
         },
@@ -717,27 +738,6 @@
         },
         {
           "node_type": "item",
-          "title": "Activity Monitor",
-          "description": "Lightweight CPU, memory, GPU, storage, and process glance for Omarchy Quattro.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Lightweight system activity monitor for Omarchy Quattro.",
-            "homepage": null,
-            "id": 1328711647,
-            "language": "Shell",
-            "license": "MIT",
-            "last_commit": "2026-08-20T07:34:20Z",
-            "open_issues": 1,
-            "owner": "stappmus",
-            "repo": "omarchy-activity-monitor",
-            "stars": 26,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T23:43:11.570Z"
-        },
-        {
-          "node_type": "item",
           "title": "Home Assistant",
           "description": "View and control Home Assistant devices from the Omarchy bar.",
           "children": [],
@@ -752,7 +752,7 @@
             "open_issues": 5,
             "owner": "konradk",
             "repo": "hass",
-            "stars": 25,
+            "stars": 26,
             "topics": [
               "home-assistant",
               "hyprland",
@@ -778,7 +778,7 @@
             "open_issues": 0,
             "owner": "bjarneo",
             "repo": "omarchy-shell-plugins",
-            "stars": 25,
+            "stars": 26,
             "topics": [
               "archlinux",
               "command-palette",
@@ -833,7 +833,7 @@
             "language": "QML",
             "license": "MIT",
             "last_commit": "2026-08-14T15:42:11Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "tmn73",
             "repo": "omarchy-calendar",
             "stars": 24,
@@ -881,7 +881,7 @@
             "language": "QML",
             "license": "MIT",
             "last_commit": "2026-08-30T16:43:32Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "rosakodu",
             "repo": "omarchy-dock",
             "stars": 23,
@@ -890,27 +890,6 @@
               "omarchy",
               "quickshell"
             ]
-          },
-          "first_seen": "2026-08-28T23:43:11.570Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Omagen",
-          "description": "Generate Omarchy themes from images.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1288550303,
-            "language": "Go",
-            "license": "MIT",
-            "last_commit": "2026-08-29T21:25:18Z",
-            "open_issues": 0,
-            "owner": "prettyletto",
-            "repo": "omagen",
-            "stars": 22,
-            "topics": []
           },
           "first_seen": "2026-08-28T23:43:11.570Z"
         },
@@ -926,11 +905,32 @@
             "id": 1329145342,
             "language": "QML",
             "license": "MIT",
-            "last_commit": "2026-08-23T07:38:04Z",
+            "last_commit": "2026-08-31T15:32:06Z",
             "open_issues": 1,
             "owner": "sanjyay",
             "repo": "Mirador",
-            "stars": 21,
+            "stars": 22,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T23:43:11.570Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Omagen",
+          "description": "Generate Omarchy themes from images.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1288550303,
+            "language": "Go",
+            "license": "MIT",
+            "last_commit": "2026-08-31T15:06:17Z",
+            "open_issues": 0,
+            "owner": "prettyletto",
+            "repo": "omagen",
+            "stars": 22,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:11.570Z"
@@ -951,10 +951,62 @@
             "open_issues": 0,
             "owner": "ax1g",
             "repo": "quickshell-screentime-plugin",
-            "stars": 21,
+            "stars": 22,
             "topics": [
               "omarchy",
               "omarchy-plugin"
+            ]
+          },
+          "first_seen": "2026-08-28T23:43:11.570Z"
+        },
+        {
+          "node_type": "item",
+          "title": "OmaConnect",
+          "description": "KDE Connect integration for SMS, clipboard, file sharing, and device commands.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Omarchy plugin for kde-connect integration ",
+            "homepage": "https://plugins.omarchy.org/plugin.html?id=omaconnect",
+            "id": 1331265766,
+            "language": "QML",
+            "license": "MIT",
+            "last_commit": "2026-08-30T21:55:19Z",
+            "open_issues": 1,
+            "owner": "jitendradara12",
+            "repo": "omaconnect",
+            "stars": 21,
+            "topics": [
+              "kdeconnect",
+              "kdeconnect-indicator",
+              "omarchy",
+              "omarchy-plugin",
+              "omarchy-shell",
+              "quickshell"
+            ]
+          },
+          "first_seen": "2026-08-28T23:43:11.570Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Omalibre",
+          "description": "Bookshelf plugin for recently read books on Omarchy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The AI native bookshelf for Omarchy",
+            "homepage": null,
+            "id": 1337602979,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2026-08-23T17:58:41Z",
+            "open_issues": 1,
+            "owner": "AlexZeitler",
+            "repo": "omalibre",
+            "stars": 21,
+            "topics": [
+              "omarchy",
+              "omarchy-linux"
             ]
           },
           "first_seen": "2026-08-28T23:43:11.570Z"
@@ -1013,58 +1065,6 @@
         },
         {
           "node_type": "item",
-          "title": "OmaConnect",
-          "description": "KDE Connect integration for SMS, clipboard, file sharing, and device commands.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Omarchy plugin for kde-connect integration ",
-            "homepage": "https://omarchyplugins.com/plugin.html?id=omaconnect",
-            "id": 1331265766,
-            "language": "QML",
-            "license": "MIT",
-            "last_commit": "2026-08-25T07:47:01Z",
-            "open_issues": 2,
-            "owner": "jitendradara12",
-            "repo": "omaconnect",
-            "stars": 19,
-            "topics": [
-              "kdeconnect",
-              "kdeconnect-indicator",
-              "omarchy",
-              "omarchy-plugin",
-              "omarchy-shell",
-              "quickshell"
-            ]
-          },
-          "first_seen": "2026-08-28T23:43:11.570Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Omalibre",
-          "description": "Bookshelf plugin for recently read books on Omarchy.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The AI native bookshelf for Omarchy",
-            "homepage": null,
-            "id": 1337602979,
-            "language": "Rust",
-            "license": "MIT",
-            "last_commit": "2026-08-23T17:58:41Z",
-            "open_issues": 1,
-            "owner": "AlexZeitler",
-            "repo": "omalibre",
-            "stars": 19,
-            "topics": [
-              "omarchy",
-              "omarchy-linux"
-            ]
-          },
-          "first_seen": "2026-08-28T23:43:11.570Z"
-        },
-        {
-          "node_type": "item",
           "title": "Notification Center",
           "description": "Native notification center with history, search, and Do Not Disturb.",
           "children": [],
@@ -1079,7 +1079,7 @@
             "open_issues": 4,
             "owner": "Shavanced",
             "repo": "omarchy-notification-center-plugin",
-            "stars": 17,
+            "stars": 18,
             "topics": [
               "omarchy",
               "omarchy-plugin",
@@ -1109,6 +1109,38 @@
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:11.570Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Omarchy Power Manager",
+          "description": "Advanced battery controller with dynamic profile switching, smart thresholds, and native hibernation support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The ultimate power management and battery controller plugin for OMarchy. Completely replaces the default power plugin with smart thresholds, dynamic profile switching, and native Wayland lock-screen integration.",
+            "homepage": null,
+            "id": 1349675144,
+            "language": "QML",
+            "license": "MIT",
+            "last_commit": "2026-08-31T08:43:15Z",
+            "open_issues": 0,
+            "owner": "onlyVishesh",
+            "repo": "omarchy-power-manager",
+            "stars": 5,
+            "topics": [
+              "battery-monitor",
+              "battery-optimization",
+              "omarchy",
+              "omarchy-linux",
+              "omarchy-plugin",
+              "omarchy-quattro",
+              "power-manager",
+              "quickshell",
+              "systemd",
+              "wayland"
+            ]
+          },
+          "first_seen": "2026-08-31T20:25:22.308Z"
         }
       ],
       "title": "Plugins"
@@ -1128,11 +1160,11 @@
             "id": 1075699186,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-08-30T00:35:01Z",
+            "last_commit": "2026-08-30T21:53:56Z",
             "open_issues": 0,
             "owner": "devmobasa",
             "repo": "wayscriber",
-            "stars": 721,
+            "stars": 722,
             "topics": [
               "annotations",
               "arch-linux",
@@ -1162,11 +1194,11 @@
             "id": 1075699186,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-08-30T00:35:01Z",
+            "last_commit": "2026-08-30T21:53:56Z",
             "open_issues": 0,
             "owner": "devmobasa",
             "repo": "wayscriber",
-            "stars": 721,
+            "stars": 722,
             "topics": [
               "annotations",
               "arch-linux",
@@ -1197,10 +1229,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-04-22T07:09:30Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "tahayvr",
             "repo": "omarchist",
-            "stars": 718,
+            "stars": 719,
             "topics": [
               "gpui",
               "linux",
@@ -1221,11 +1253,11 @@
             "id": 1069669233,
             "language": "Go",
             "license": null,
-            "last_commit": "2026-08-28T18:59:34Z",
+            "last_commit": "2026-08-30T19:50:24Z",
             "open_issues": 9,
             "owner": "omacom",
             "repo": "aether",
-            "stars": 664,
+            "stars": 668,
             "topics": [
               "omarchy",
               "omarchy-theme"
@@ -1249,7 +1281,7 @@
             "open_issues": 0,
             "owner": "HANCORE-linux",
             "repo": "waybar-themes",
-            "stars": 604,
+            "stars": 606,
             "topics": [
               "hyprland",
               "omarchy",
@@ -1344,7 +1376,7 @@
             "open_issues": 1,
             "owner": "maxart",
             "repo": "omarchy-cleaner",
-            "stars": 287,
+            "stars": 289,
             "topics": [
               "omarchy",
               "script"
@@ -1364,11 +1396,11 @@
             "id": 1027172663,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-08-30T17:51:14Z",
-            "open_issues": 27,
+            "last_commit": "2026-08-30T22:33:18Z",
+            "open_issues": 30,
             "owner": "omacom",
             "repo": "omarchy-iso",
-            "stars": 244,
+            "stars": 248,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:11.570Z"
@@ -1481,11 +1513,11 @@
             "id": 1043833332,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-08-30T17:59:20Z",
-            "open_issues": 62,
+            "last_commit": "2026-08-31T13:01:37Z",
+            "open_issues": 65,
             "owner": "omacom",
             "repo": "omarchy-pkgs",
-            "stars": 79,
+            "stars": 81,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:11.570Z"
@@ -1557,7 +1589,7 @@
             "open_issues": 1,
             "owner": "mitkox",
             "repo": "omarchy-ai",
-            "stars": 51,
+            "stars": 53,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:11.570Z"
@@ -1839,6 +1871,27 @@
         },
         {
           "node_type": "item",
+          "title": "omarchy-cheat-sheet",
+          "description": "Quick reference guide for Omarchy commands and shortcuts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": "http://acrogenesis.com/omarchy-cheat-sheet/",
+            "id": 1043951550,
+            "language": "HTML",
+            "license": "MIT",
+            "last_commit": "2026-08-17T17:47:20Z",
+            "open_issues": 1,
+            "owner": "acrogenesis",
+            "repo": "omarchy-cheat-sheet",
+            "stars": 26,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T23:43:11.570Z"
+        },
+        {
+          "node_type": "item",
           "title": "omarchy-theme-builder",
           "description": "Interactive, real-time theme builder for Omarchy.",
           "children": [],
@@ -1887,27 +1940,6 @@
               "omarchy-theme",
               "tui"
             ]
-          },
-          "first_seen": "2026-08-28T23:43:11.570Z"
-        },
-        {
-          "node_type": "item",
-          "title": "omarchy-cheat-sheet",
-          "description": "Quick reference guide for Omarchy commands and shortcuts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": "http://acrogenesis.com/omarchy-cheat-sheet/",
-            "id": 1043951550,
-            "language": "HTML",
-            "license": "MIT",
-            "last_commit": "2026-08-17T17:47:20Z",
-            "open_issues": 1,
-            "owner": "acrogenesis",
-            "repo": "omarchy-cheat-sheet",
-            "stars": 25,
-            "topics": []
           },
           "first_seen": "2026-08-28T23:43:11.570Z"
         },
@@ -1998,7 +2030,28 @@
             "open_issues": 0,
             "owner": "Grenish",
             "repo": "clipboard-manager",
-            "stars": 23,
+            "stars": 22,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T23:43:11.570Z"
+        },
+        {
+          "node_type": "item",
+          "title": "omarchy-box",
+          "description": "Containerized Omarchy environment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Omarchy VMs for testing and demos",
+            "homepage": null,
+            "id": 1037973852,
+            "language": "Shell",
+            "license": "MIT",
+            "last_commit": "2025-08-15T16:04:55Z",
+            "open_issues": 1,
+            "owner": "dylanbr",
+            "repo": "omarchy-box",
+            "stars": 21,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:11.570Z"
@@ -2024,27 +2077,6 @@
               "flutter",
               "omarchy"
             ]
-          },
-          "first_seen": "2026-08-28T23:43:11.570Z"
-        },
-        {
-          "node_type": "item",
-          "title": "omarchy-box",
-          "description": "Containerized Omarchy environment.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Omarchy VMs for testing and demos",
-            "homepage": null,
-            "id": 1037973852,
-            "language": "Shell",
-            "license": "MIT",
-            "last_commit": "2025-08-15T16:04:55Z",
-            "open_issues": 1,
-            "owner": "dylanbr",
-            "repo": "omarchy-box",
-            "stars": 20,
-            "topics": []
           },
           "first_seen": "2026-08-28T23:43:11.570Z"
         },
@@ -2171,6 +2203,40 @@
         },
         {
           "node_type": "item",
+          "title": "omacal",
+          "description": "Desktop calendar for Google, iCloud and CalDAV with live Omarchy theming, a bar widget, and a CLI for terminals and agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Minimalist open-source calendar for Linux — Google Calendar, iCloud and any CalDAV server, task lists included. Tauri, Rust, Svelte.",
+            "homepage": "https://extremelabs.io/omacal",
+            "id": 1326371998,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2026-08-31T16:07:31Z",
+            "open_issues": 5,
+            "owner": "x3me",
+            "repo": "omacal",
+            "stars": 11,
+            "topics": [
+              "arch-linux",
+              "caldav",
+              "calendar",
+              "google-calendar",
+              "hyprland",
+              "icloud",
+              "linux",
+              "omarchy",
+              "rust",
+              "svelte",
+              "tauri",
+              "vtodo"
+            ]
+          },
+          "first_seen": "2026-08-28T23:43:11.570Z"
+        },
+        {
+          "node_type": "item",
           "title": "omarchy-workspace-mover",
           "description": "An Omarchy plugin for moving workspaces between monitors.",
           "children": [],
@@ -2208,40 +2274,6 @@
             "repo": "omarchy-material-waybar",
             "stars": 10,
             "topics": []
-          },
-          "first_seen": "2026-08-28T23:43:11.570Z"
-        },
-        {
-          "node_type": "item",
-          "title": "omacal",
-          "description": "Desktop calendar for Google, iCloud and CalDAV with live Omarchy theming, a bar widget, and a CLI for terminals and agents.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Minimalist open-source calendar for Linux — Google Calendar, iCloud and any CalDAV server, task lists included. Tauri, Rust, Svelte.",
-            "homepage": "https://extremelabs.io/omacal",
-            "id": 1326371998,
-            "language": "Rust",
-            "license": "MIT",
-            "last_commit": "2026-08-29T16:49:02Z",
-            "open_issues": 3,
-            "owner": "x3me",
-            "repo": "omacal",
-            "stars": 9,
-            "topics": [
-              "arch-linux",
-              "caldav",
-              "calendar",
-              "google-calendar",
-              "hyprland",
-              "icloud",
-              "linux",
-              "omarchy",
-              "rust",
-              "svelte",
-              "tauri",
-              "vtodo"
-            ]
           },
           "first_seen": "2026-08-28T23:43:11.570Z"
         },
@@ -2502,11 +2534,11 @@
             "id": 994103017,
             "language": "HTML",
             "license": null,
-            "last_commit": "2026-08-30T17:52:40Z",
-            "open_issues": 49,
+            "last_commit": "2026-08-31T13:46:16Z",
+            "open_issues": 63,
             "owner": "omacom",
             "repo": "omarchy-site",
-            "stars": 31,
+            "stars": 32,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:11.570Z"
@@ -2642,11 +2674,11 @@
             "id": 1314624489,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-30T18:11:34Z",
-            "open_issues": 584,
+            "last_commit": "2026-08-31T20:21:00Z",
+            "open_issues": 626,
             "owner": "omacom",
             "repo": "omarchy-plugin-marketplace",
-            "stars": 184,
+            "stars": 200,
             "topics": [
               "omarchy",
               "omarchy-plugins",
@@ -2669,10 +2701,10 @@
             "language": null,
             "license": null,
             "last_commit": "2025-11-24T12:09:44Z",
-            "open_issues": 6,
+            "open_issues": 8,
             "owner": "Wheel-Smith",
             "repo": "awesome-omarchy",
-            "stars": 125,
+            "stars": 126,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:11.570Z"
@@ -2695,11 +2727,11 @@
             "id": 994093166,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-08-30T17:54:23Z",
-            "open_issues": 2278,
+            "last_commit": "2026-08-31T19:43:23Z",
+            "open_issues": 2465,
             "owner": "omacom",
             "repo": "omarchy",
-            "stars": 35349,
+            "stars": 36101,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:11.570Z"
@@ -2716,11 +2748,11 @@
             "id": 994093166,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-08-30T17:54:23Z",
-            "open_issues": 2278,
+            "last_commit": "2026-08-31T19:43:23Z",
+            "open_issues": 2465,
             "owner": "omacom",
             "repo": "omarchy",
-            "stars": 35349,
+            "stars": 36101,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:11.570Z"
@@ -2737,11 +2769,11 @@
             "id": 994093166,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-08-30T17:54:23Z",
-            "open_issues": 2278,
+            "last_commit": "2026-08-31T19:43:23Z",
+            "open_issues": 2465,
             "owner": "omacom",
             "repo": "omarchy",
-            "stars": 35349,
+            "stars": 36101,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:11.570Z"
@@ -2810,7 +2842,7 @@
             "open_issues": 0,
             "owner": "JJDizz1L",
             "repo": "aetheria",
-            "stars": 88,
+            "stars": 90,
             "topics": [
               "omarchy-theme"
             ]
@@ -2833,7 +2865,7 @@
             "open_issues": 0,
             "owner": "rondilley",
             "repo": "omarchy-retropc-theme",
-            "stars": 78,
+            "stars": 79,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:11.570Z"
@@ -2892,11 +2924,11 @@
             "id": 1072472155,
             "language": "Lua",
             "license": null,
-            "last_commit": "2026-01-03T16:25:56Z",
+            "last_commit": "2026-08-31T15:40:25Z",
             "open_issues": 0,
             "owner": "Grenish",
             "repo": "omarchy-akane-theme",
-            "stars": 69,
+            "stars": 71,
             "topics": [
               "omarchy",
               "omarchy-theme"
@@ -2983,7 +3015,7 @@
             "open_issues": 0,
             "owner": "tahayvr",
             "repo": "matte-black-theme",
-            "stars": 53,
+            "stars": 54,
             "topics": [
               "arch",
               "dark-theme",
@@ -3016,6 +3048,32 @@
         },
         {
           "node_type": "item",
+          "title": "omarchy-ash-theme",
+          "description": "Subtle ash-gray color scheme.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "This is the Ash Theme for Omarchy.org, providing a cohesive and visually appealing configuration set for your Linux desktop environment.",
+            "homepage": "https://manuals.omamix.org/2/the-omarchy-manual/90/extra-themes",
+            "id": 1026056843,
+            "language": null,
+            "license": null,
+            "last_commit": "2026-08-30T12:08:01Z",
+            "open_issues": 2,
+            "owner": "bjarneo",
+            "repo": "omarchy-ash-theme",
+            "stars": 49,
+            "topics": [
+              "archlinux",
+              "omarchy",
+              "omarchy-theme",
+              "ricing"
+            ]
+          },
+          "first_seen": "2026-08-28T23:43:11.570Z"
+        },
+        {
+          "node_type": "item",
           "title": "omarchy-mars-theme",
           "description": "Mars-inspired red theme.",
           "children": [],
@@ -3037,20 +3095,20 @@
         },
         {
           "node_type": "item",
-          "title": "omarchy-ash-theme",
-          "description": "Subtle ash-gray color scheme.",
+          "title": "omarchy-blackturq-theme",
+          "description": "Black turquoise theme based on Evo80 keyboard color pattern.",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "This is the Ash Theme for Omarchy.org, providing a cohesive and visually appealing configuration set for your Linux desktop environment.",
-            "homepage": "https://manuals.omamix.org/2/the-omarchy-manual/90/extra-themes",
-            "id": 1026056843,
-            "language": null,
-            "license": null,
-            "last_commit": "2026-08-30T12:08:01Z",
-            "open_issues": 2,
-            "owner": "bjarneo",
-            "repo": "omarchy-ash-theme",
+            "description": "BlackTurq — A bold black & turquoise Linux theme for omarchy.org",
+            "homepage": "https://github.com/basecamp/omarchy",
+            "id": 1059027884,
+            "language": "CSS",
+            "license": "MIT",
+            "last_commit": "2026-08-04T21:31:33Z",
+            "open_issues": 0,
+            "owner": "HANCORE-linux",
+            "repo": "omarchy-blackturq-theme",
             "stars": 48,
             "topics": [
               "archlinux",
@@ -3079,32 +3137,6 @@
             "repo": "omarchy-rose-pine-dark",
             "stars": 47,
             "topics": []
-          },
-          "first_seen": "2026-08-28T23:43:11.570Z"
-        },
-        {
-          "node_type": "item",
-          "title": "omarchy-blackturq-theme",
-          "description": "Black turquoise theme based on Evo80 keyboard color pattern.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "BlackTurq — A bold black & turquoise Linux theme for omarchy.org",
-            "homepage": "https://github.com/basecamp/omarchy",
-            "id": 1059027884,
-            "language": "CSS",
-            "license": "MIT",
-            "last_commit": "2026-08-04T21:31:33Z",
-            "open_issues": 0,
-            "owner": "HANCORE-linux",
-            "repo": "omarchy-blackturq-theme",
-            "stars": 46,
-            "topics": [
-              "archlinux",
-              "omarchy",
-              "omarchy-theme",
-              "ricing"
-            ]
           },
           "first_seen": "2026-08-28T23:43:11.570Z"
         },
@@ -3155,6 +3187,32 @@
         },
         {
           "node_type": "item",
+          "title": "omarchy-blackgold-theme",
+          "description": "Sleek black-and-gold theme with luxurious aesthetics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "BlackGold — A sleek black-and-gold Linux theme for omarchy.org",
+            "homepage": null,
+            "id": 1056349329,
+            "language": "CSS",
+            "license": "MIT",
+            "last_commit": "2026-08-04T21:31:33Z",
+            "open_issues": 0,
+            "owner": "HANCORE-linux",
+            "repo": "omarchy-blackgold-theme",
+            "stars": 42,
+            "topics": [
+              "archlinux",
+              "omarchy",
+              "omarchy-theme",
+              "ricing"
+            ]
+          },
+          "first_seen": "2026-08-28T23:43:11.570Z"
+        },
+        {
+          "node_type": "item",
           "title": "omarchy-flexoki-dark-theme",
           "description": "Flexoki color palette adaptation.",
           "children": [],
@@ -3176,32 +3234,6 @@
         },
         {
           "node_type": "item",
-          "title": "omarchy-blackgold-theme",
-          "description": "Sleek black-and-gold theme with luxurious aesthetics.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "BlackGold — A sleek black-and-gold Linux theme for omarchy.org",
-            "homepage": null,
-            "id": 1056349329,
-            "language": "CSS",
-            "license": "MIT",
-            "last_commit": "2026-08-04T21:31:33Z",
-            "open_issues": 0,
-            "owner": "HANCORE-linux",
-            "repo": "omarchy-blackgold-theme",
-            "stars": 40,
-            "topics": [
-              "archlinux",
-              "omarchy",
-              "omarchy-theme",
-              "ricing"
-            ]
-          },
-          "first_seen": "2026-08-28T23:43:11.570Z"
-        },
-        {
-          "node_type": "item",
           "title": "omarchy-mechanoonna-theme",
           "description": "Mecha no Onna (メカの女) the \"Metal Woman\" theme.",
           "children": [],
@@ -3216,7 +3248,7 @@
             "open_issues": 0,
             "owner": "HANCORE-linux",
             "repo": "omarchy-mechanoonna-theme",
-            "stars": 40,
+            "stars": 41,
             "topics": [
               "archlinux",
               "omarchy",
@@ -3242,7 +3274,7 @@
             "open_issues": 2,
             "owner": "abhijeet-swami",
             "repo": "omarchy-spectra-theme",
-            "stars": 39,
+            "stars": 40,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:11.570Z"
@@ -3335,7 +3367,7 @@
             "open_issues": 1,
             "owner": "mwaltzer",
             "repo": "omarchy-bauhaus-theme",
-            "stars": 33,
+            "stars": 34,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:11.570Z"
@@ -3383,6 +3415,27 @@
             "owner": "tahayvr",
             "repo": "omarchy-gold-rush-theme",
             "stars": 32,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T23:43:11.570Z"
+        },
+        {
+          "node_type": "item",
+          "title": "omarchy-forest-green-theme",
+          "description": "Nature-inspired forest green color scheme.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A sleek, modern theme with a refreshing green palette and subtle glassmorphism for a cohesive, focused desktop experience.",
+            "homepage": null,
+            "id": 1039148762,
+            "language": "CSS",
+            "license": "MIT",
+            "last_commit": "2026-01-02T07:07:18Z",
+            "open_issues": 1,
+            "owner": "abhijeet-swami",
+            "repo": "omarchy-forest-green-theme",
+            "stars": 31,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:11.570Z"
@@ -3482,27 +3535,6 @@
         },
         {
           "node_type": "item",
-          "title": "omarchy-forest-green-theme",
-          "description": "Nature-inspired forest green color scheme.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A sleek, modern theme with a refreshing green palette and subtle glassmorphism for a cohesive, focused desktop experience.",
-            "homepage": null,
-            "id": 1039148762,
-            "language": "CSS",
-            "license": "MIT",
-            "last_commit": "2026-01-02T07:07:18Z",
-            "open_issues": 1,
-            "owner": "abhijeet-swami",
-            "repo": "omarchy-forest-green-theme",
-            "stars": 29,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T23:43:11.570Z"
-        },
-        {
-          "node_type": "item",
           "title": "omarchy-nes-theme",
           "description": "Retro NES theme with nostalgic gaming aesthetics.",
           "children": [],
@@ -3596,6 +3628,27 @@
         },
         {
           "node_type": "item",
+          "title": "omarchy-azure-glow-theme",
+          "description": "Azure blue theme with glowing accents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1036034225,
+            "language": "CSS",
+            "license": null,
+            "last_commit": "2025-08-12T10:54:32Z",
+            "open_issues": 1,
+            "owner": "Hydradevx",
+            "repo": "omarchy-azure-glow-theme",
+            "stars": 22,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T23:43:11.570Z"
+        },
+        {
+          "node_type": "item",
           "title": "omarchy-arc-blueberry",
           "description": "Arc Blueberry inspired colors tailored for Omarchy.",
           "children": [],
@@ -3642,22 +3695,27 @@
         },
         {
           "node_type": "item",
-          "title": "omarchy-azure-glow-theme",
-          "description": "Azure blue theme with glowing accents.",
+          "title": "omarchy-moodpeak-theme",
+          "description": "Mood-lifting theme designed to pull you back to peak focus.",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "Moodpeak – tiny tools that quietly pull you out of a bad mood and back to peak focus.",
             "homepage": null,
-            "id": 1036034225,
+            "id": 1098586772,
             "language": "CSS",
-            "license": null,
-            "last_commit": "2025-08-12T10:54:32Z",
-            "open_issues": 1,
-            "owner": "Hydradevx",
-            "repo": "omarchy-azure-glow-theme",
+            "license": "MIT",
+            "last_commit": "2026-08-05T20:56:04Z",
+            "open_issues": 0,
+            "owner": "HANCORE-linux",
+            "repo": "omarchy-moodpeak-theme",
             "stars": 20,
-            "topics": []
+            "topics": [
+              "archlinux",
+              "omarchy",
+              "omarchy-theme",
+              "ricing"
+            ]
           },
           "first_seen": "2026-08-28T23:43:11.570Z"
         },
@@ -3698,7 +3756,7 @@
             "open_issues": 0,
             "owner": "bjarneo",
             "repo": "omarchy-sakura-theme",
-            "stars": 19,
+            "stars": 20,
             "topics": [
               "omarchy",
               "omarchy-theme"
@@ -3729,26 +3787,24 @@
         },
         {
           "node_type": "item",
-          "title": "omarchy-moodpeak-theme",
-          "description": "Mood-lifting theme designed to pull you back to peak focus.",
+          "title": "omarchy-elysian-theme",
+          "description": "Mythical forest theme with golden-green light and high-contrast workspace.",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Moodpeak – tiny tools that quietly pull you out of a bad mood and back to peak focus.",
-            "homepage": null,
-            "id": 1098586772,
-            "language": "CSS",
-            "license": "MIT",
-            "last_commit": "2026-08-05T20:56:04Z",
-            "open_issues": 0,
-            "owner": "HANCORE-linux",
-            "repo": "omarchy-moodpeak-theme",
+            "description": "A desktop theme that translates the mythical serenity of an Elysian forest where ancient, vibrant life glows in golden-green light into a high-contrast, productive workspace.",
+            "homepage": "https://omarchy.org",
+            "id": 1084080916,
+            "language": null,
+            "license": null,
+            "last_commit": "2026-08-30T12:08:05Z",
+            "open_issues": 1,
+            "owner": "bjarneo",
+            "repo": "omarchy-elysian-theme",
             "stars": 18,
             "topics": [
-              "archlinux",
               "omarchy",
-              "omarchy-theme",
-              "ricing"
+              "omarchy-theme"
             ]
           },
           "first_seen": "2026-08-28T23:43:11.570Z"
@@ -3821,20 +3877,20 @@
         },
         {
           "node_type": "item",
-          "title": "omarchy-elysian-theme",
-          "description": "Mythical forest theme with golden-green light and high-contrast workspace.",
+          "title": "omarchy-monokai-theme",
+          "description": "High-contrast Monokai Pro inspired variant.",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "A desktop theme that translates the mythical serenity of an Elysian forest where ancient, vibrant life glows in golden-green light into a high-contrast, productive workspace.",
+            "description": "A vibrant, high-contrast theme for Omarchy based on the iconic Monokai Pro color palette. ",
             "homepage": "https://omarchy.org",
-            "id": 1084080916,
-            "language": null,
+            "id": 1056744425,
+            "language": "Lua",
             "license": null,
-            "last_commit": "2026-08-30T12:08:05Z",
-            "open_issues": 1,
+            "last_commit": "2026-08-30T12:08:03Z",
+            "open_issues": 0,
             "owner": "bjarneo",
-            "repo": "omarchy-elysian-theme",
+            "repo": "omarchy-monokai-theme",
             "stars": 17,
             "topics": [
               "omarchy",
@@ -3914,25 +3970,22 @@
         },
         {
           "node_type": "item",
-          "title": "omarchy-monokai-theme",
-          "description": "High-contrast Monokai Pro inspired variant.",
+          "title": "omarchy-sunset-drive-theme",
+          "description": "Sunset-inspired theme with warm gradients.",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "A vibrant, high-contrast theme for Omarchy based on the iconic Monokai Pro color palette. ",
-            "homepage": "https://omarchy.org",
-            "id": 1056744425,
-            "language": "Lua",
+            "description": "Sunset Drive theme for Omarchy Linux",
+            "homepage": null,
+            "id": 1081229482,
+            "language": "CSS",
             "license": null,
-            "last_commit": "2026-08-30T12:08:03Z",
+            "last_commit": "2026-02-22T08:03:04Z",
             "open_issues": 0,
-            "owner": "bjarneo",
-            "repo": "omarchy-monokai-theme",
+            "owner": "tahayvr",
+            "repo": "omarchy-sunset-drive-theme",
             "stars": 16,
-            "topics": [
-              "omarchy",
-              "omarchy-theme"
-            ]
+            "topics": []
           },
           "first_seen": "2026-08-28T23:43:11.570Z"
         },
@@ -4055,27 +4108,6 @@
               "omarchy",
               "omarchy-theme"
             ]
-          },
-          "first_seen": "2026-08-28T23:43:11.570Z"
-        },
-        {
-          "node_type": "item",
-          "title": "omarchy-sunset-drive-theme",
-          "description": "Sunset-inspired theme with warm gradients.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Sunset Drive theme for Omarchy Linux",
-            "homepage": null,
-            "id": 1081229482,
-            "language": "CSS",
-            "license": null,
-            "last_commit": "2026-02-22T08:03:04Z",
-            "open_issues": 0,
-            "owner": "tahayvr",
-            "repo": "omarchy-sunset-drive-theme",
-            "stars": 15,
-            "topics": []
           },
           "first_seen": "2026-08-28T23:43:11.570Z"
         },
@@ -4476,6 +4508,35 @@
         },
         {
           "node_type": "item",
+          "title": "omarchy-venice-from-above",
+          "description": "A light Omarchy theme inspired by the 15th century bird's eye view mapping of Venice.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A Jacopo de' Barbari inspired theme for Omarchy",
+            "homepage": null,
+            "id": 1277445272,
+            "language": "Lua",
+            "license": "MIT",
+            "last_commit": "2026-08-27T15:10:48Z",
+            "open_issues": 0,
+            "owner": "mattbbia",
+            "repo": "venice-from-above",
+            "stars": 11,
+            "topics": [
+              "dotfiles",
+              "hyprland-theme",
+              "jacopo-de-barbari",
+              "omarchy-quattro",
+              "omarchy-theme",
+              "rice",
+              "wallpaper-pack"
+            ]
+          },
+          "first_seen": "2026-08-28T23:43:11.570Z"
+        },
+        {
+          "node_type": "item",
           "title": "omarchy-evergarden-theme",
           "description": "Evergarden theme with lush greens and soft pastels.",
           "children": [],
@@ -4543,35 +4604,6 @@
         },
         {
           "node_type": "item",
-          "title": "omarchy-venice-from-above",
-          "description": "A light Omarchy theme inspired by the 15th century bird's eye view mapping of Venice.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Jacopo de' Barbari inspired theme for Omarchy",
-            "homepage": null,
-            "id": 1277445272,
-            "language": "Lua",
-            "license": "MIT",
-            "last_commit": "2026-08-27T15:10:48Z",
-            "open_issues": 0,
-            "owner": "mattbbia",
-            "repo": "venice-from-above",
-            "stars": 10,
-            "topics": [
-              "dotfiles",
-              "hyprland-theme",
-              "jacopo-de-barbari",
-              "omarchy-quattro",
-              "omarchy-theme",
-              "rice",
-              "wallpaper-pack"
-            ]
-          },
-          "first_seen": "2026-08-28T23:43:11.570Z"
-        },
-        {
-          "node_type": "item",
           "title": "omarchy-delorean-theme",
           "description": "Retro-inspired time traveler's theme.",
           "children": [],
@@ -4588,6 +4620,30 @@
             "repo": "omarchy-delorean-theme",
             "stars": 9,
             "topics": []
+          },
+          "first_seen": "2026-08-28T23:43:11.570Z"
+        },
+        {
+          "node_type": "item",
+          "title": "omarchy-frost-theme",
+          "description": "Simple, elegant theme inspired by the serene beauty of frost patterns.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Frost is a simple, elegant, and dark theme for Omarchy inspired by the serene beauty of frost patterns on a winter morning.",
+            "homepage": "https://omarchy.org",
+            "id": 1056604722,
+            "language": null,
+            "license": null,
+            "last_commit": "2026-08-30T12:08:01Z",
+            "open_issues": 0,
+            "owner": "bjarneo",
+            "repo": "omarchy-frost-theme",
+            "stars": 9,
+            "topics": [
+              "omarchy",
+              "omarchy-theme"
+            ]
           },
           "first_seen": "2026-08-28T23:43:11.570Z"
         },
@@ -4654,30 +4710,6 @@
             "repo": "omarchy-crimson-gold-theme",
             "stars": 8,
             "topics": []
-          },
-          "first_seen": "2026-08-28T23:43:11.570Z"
-        },
-        {
-          "node_type": "item",
-          "title": "omarchy-frost-theme",
-          "description": "Simple, elegant theme inspired by the serene beauty of frost patterns.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Frost is a simple, elegant, and dark theme for Omarchy inspired by the serene beauty of frost patterns on a winter morning.",
-            "homepage": "https://omarchy.org",
-            "id": 1056604722,
-            "language": null,
-            "license": null,
-            "last_commit": "2026-08-30T12:08:01Z",
-            "open_issues": 0,
-            "owner": "bjarneo",
-            "repo": "omarchy-frost-theme",
-            "stars": 8,
-            "topics": [
-              "omarchy",
-              "omarchy-theme"
-            ]
           },
           "first_seen": "2026-08-28T23:43:11.570Z"
         },
@@ -4776,6 +4808,27 @@
         },
         {
           "node_type": "item",
+          "title": "omarchy-ayu-dark-theme",
+          "description": "Ayu Dark color scheme adaptation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Omarchy Ayu Dark Theme",
+            "homepage": null,
+            "id": 1039836729,
+            "language": "CSS",
+            "license": null,
+            "last_commit": "2025-08-18T04:05:35Z",
+            "open_issues": 1,
+            "owner": "fdidron",
+            "repo": "omarchy-ayu-dark-theme",
+            "stars": 7,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T23:43:11.570Z"
+        },
+        {
+          "node_type": "item",
           "title": "omarchy-serenity-theme",
           "description": "Serenity theme with calm and peaceful color scheme.",
           "children": [],
@@ -4796,27 +4849,6 @@
               "omarchy",
               "omarchy-theme"
             ]
-          },
-          "first_seen": "2026-08-28T23:43:11.570Z"
-        },
-        {
-          "node_type": "item",
-          "title": "omarchy-ayu-dark-theme",
-          "description": "Ayu Dark color scheme adaptation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Omarchy Ayu Dark Theme",
-            "homepage": null,
-            "id": 1039836729,
-            "language": "CSS",
-            "license": null,
-            "last_commit": "2025-08-18T04:05:35Z",
-            "open_issues": 1,
-            "owner": "fdidron",
-            "repo": "omarchy-ayu-dark-theme",
-            "stars": 6,
-            "topics": []
           },
           "first_seen": "2026-08-28T23:43:11.570Z"
         },
@@ -4888,7 +4920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T18:12:07.546Z",
+    "last_updated": "2026-08-31T20:25:22.308Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚡A curated list of awesome omarchy resources",
@@ -4896,11 +4928,11 @@
       "id": 1039289611,
       "language": "HTML",
       "license": "CC0-1.0",
-      "last_commit": "2026-08-28T22:47:08Z",
+      "last_commit": "2026-08-30T20:35:36Z",
       "open_issues": 2,
       "owner": "aorumbayev",
       "repo": "awesome-omarchy",
-      "stars": 474,
+      "stars": 478,
       "topics": [
         "archlinux",
         "awesome",
@@ -4917,7 +4949,7 @@
         "wayland"
       ]
     },
-    "original_repository_sha": "2f4f8b50d105855945d023df60160d99f57424c7",
+    "original_repository_sha": "33f817cbe941971249aaa52518ee34f29e559f87",
     "enhanced_repository": "enhansome/enhansome-omarchy",
     "enhanced_repository_description": null,
     "title": "Awesome Omarchy with stars"
