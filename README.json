@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-01T20:41:50Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "goodroot",
             "repo": "hyprwhspr",
-            "stars": 1223,
+            "stars": 1224,
             "topics": [
               "ai",
               "archlinux",
@@ -328,7 +328,7 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-10-01T21:39:29Z",
-            "open_issues": 4,
+            "open_issues": 6,
             "owner": "akitaonrails",
             "repo": "ai-usagebar",
             "stars": 611,
@@ -400,7 +400,7 @@
             "open_issues": 23,
             "owner": "thisisgm",
             "repo": "omarchy-pods",
-            "stars": 221,
+            "stars": 222,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:11.570Z"
@@ -417,11 +417,11 @@
             "id": 1302068770,
             "language": "QML",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T18:36:14Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-02T20:07:30Z",
+            "open_issues": 8,
             "owner": "HANCORE-linux",
             "repo": "Shibumi-Shell",
-            "stars": 202,
+            "stars": 201,
             "topics": [
               "omarchy",
               "omarchy-quattro",
@@ -496,11 +496,11 @@
             "id": 1333011740,
             "language": "QML",
             "license": "MIT",
-            "last_commit": "2026-10-02T15:05:06Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-03T01:18:50Z",
+            "open_issues": 2,
             "owner": "crmne",
             "repo": "omarchy-hyprmoncfg",
-            "stars": 119,
+            "stars": 120,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:11.570Z"
@@ -518,7 +518,7 @@
             "language": "QML",
             "license": "MIT",
             "last_commit": "2026-09-23T06:49:22Z",
-            "open_issues": 2,
+            "open_issues": 4,
             "owner": "fross100",
             "repo": "omaplug",
             "stars": 71,
@@ -559,8 +559,8 @@
             "id": 1346342742,
             "language": "QML",
             "license": "MIT",
-            "last_commit": "2026-09-30T15:40:24Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-02T19:49:25Z",
+            "open_issues": 7,
             "owner": "grichard99",
             "repo": "omaproton-vpn",
             "stars": 63,
@@ -784,6 +784,34 @@
             ]
           },
           "first_seen": "2026-08-28T23:43:11.570Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Fathom",
+          "description": "Depth-based Alt+Tab that orders windows by recency, with a map of every workspace.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A depth-based Alt+Tab for Omarchy: every window as deep as it is old, every workspace at a glance, any theme.",
+            "homepage": null,
+            "id": 1384276222,
+            "language": "QML",
+            "license": "MIT",
+            "last_commit": "2026-10-01T22:24:57Z",
+            "open_issues": 0,
+            "owner": "mtolhuys",
+            "repo": "fathom",
+            "stars": 42,
+            "topics": [
+              "alt-tab",
+              "hyprland",
+              "omarchy",
+              "omarchy-plugin",
+              "quickshell",
+              "window-switcher"
+            ]
+          },
+          "first_seen": "2026-10-03T04:58:51.677Z"
         },
         {
           "node_type": "item",
@@ -1386,41 +1414,7 @@
             "id": 1075699186,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-30T13:32:51Z",
-            "open_issues": 1,
-            "owner": "devmobasa",
-            "repo": "wayscriber",
-            "stars": 752,
-            "topics": [
-              "annotations",
-              "arch-linux",
-              "archlinux",
-              "hyprland",
-              "kde",
-              "kde-plasma",
-              "linux",
-              "omarchy",
-              "ubuntu",
-              "wayland",
-              "zoom",
-              "zoomit"
-            ]
-          },
-          "first_seen": "2026-08-28T23:43:11.570Z"
-        },
-        {
-          "node_type": "item",
-          "title": "wayscriber",
-          "description": "Instant on-screen annotations and markup for Wayland, ZoomIt-inspired.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Live overlay for drawing, annotating, presenting with zoom, hiding text, and capturing screenshots on Linux. Can be used as whiteboard or blackboard. Packed with features. Highly customisable. Written in Rust.",
-            "homepage": "https://wayscriber.com",
-            "id": 1075699186,
-            "language": "Rust",
-            "license": "MIT",
-            "last_commit": "2026-09-30T13:32:51Z",
+            "last_commit": "2026-10-02T21:58:39Z",
             "open_issues": 1,
             "owner": "devmobasa",
             "repo": "wayscriber",
@@ -1458,11 +1452,45 @@
             "open_issues": 2,
             "owner": "tahayvr",
             "repo": "omarchist",
-            "stars": 751,
+            "stars": 752,
             "topics": [
               "gpui",
               "linux",
               "omarchy"
+            ]
+          },
+          "first_seen": "2026-08-28T23:43:11.570Z"
+        },
+        {
+          "node_type": "item",
+          "title": "wayscriber",
+          "description": "Instant on-screen annotations and markup for Wayland, ZoomIt-inspired.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Live overlay for drawing, annotating, presenting with zoom, hiding text, and capturing screenshots on Linux. Can be used as whiteboard or blackboard. Packed with features. Highly customisable. Written in Rust.",
+            "homepage": "https://wayscriber.com",
+            "id": 1075699186,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2026-10-02T21:58:39Z",
+            "open_issues": 1,
+            "owner": "devmobasa",
+            "repo": "wayscriber",
+            "stars": 752,
+            "topics": [
+              "annotations",
+              "arch-linux",
+              "archlinux",
+              "hyprland",
+              "kde",
+              "kde-plasma",
+              "linux",
+              "omarchy",
+              "ubuntu",
+              "wayland",
+              "zoom",
+              "zoomit"
             ]
           },
           "first_seen": "2026-08-28T23:43:11.570Z"
@@ -1586,7 +1614,7 @@
             "open_issues": 14,
             "owner": "Firstp1ck",
             "repo": "Pacsea",
-            "stars": 297,
+            "stars": 298,
             "topics": [
               "arch",
               "archlinux",
@@ -1647,7 +1675,7 @@
             "open_issues": 9,
             "owner": "kaolti",
             "repo": "phantomat",
-            "stars": 207,
+            "stars": 208,
             "topics": [
               "hyprland",
               "hyprland-plugin",
@@ -1741,7 +1769,7 @@
             "id": 1043833332,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-02T18:41:18Z",
+            "last_commit": "2026-10-03T03:14:25Z",
             "open_issues": 274,
             "owner": "omacom",
             "repo": "omarchy-pkgs",
@@ -1867,7 +1895,7 @@
             "id": 1174937816,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-28T10:31:57Z",
+            "last_commit": "2026-10-02T22:07:13Z",
             "open_issues": 1,
             "owner": "limehawk",
             "repo": "omarchy-vpn",
@@ -2817,8 +2845,8 @@
             "id": 994103017,
             "language": "HTML",
             "license": null,
-            "last_commit": "2026-10-02T13:13:30Z",
-            "open_issues": 307,
+            "last_commit": "2026-10-02T22:15:26Z",
+            "open_issues": 310,
             "owner": "omacom",
             "repo": "omarchy-site",
             "stars": 127,
@@ -2996,8 +3024,8 @@
             "id": 1314624489,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T19:33:31Z",
-            "open_issues": 417,
+            "last_commit": "2026-10-03T04:45:26Z",
+            "open_issues": 364,
             "owner": "omacom",
             "repo": "omarchy-plugin-marketplace",
             "stars": 326,
@@ -3049,11 +3077,11 @@
             "id": 994093166,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-02T18:02:28Z",
-            "open_issues": 4903,
+            "last_commit": "2026-10-03T02:21:23Z",
+            "open_issues": 4918,
             "owner": "omacom",
             "repo": "omarchy",
-            "stars": 43830,
+            "stars": 43855,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:11.570Z"
@@ -3070,11 +3098,11 @@
             "id": 994093166,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-02T18:02:28Z",
-            "open_issues": 4903,
+            "last_commit": "2026-10-03T02:21:23Z",
+            "open_issues": 4918,
             "owner": "omacom",
             "repo": "omarchy",
-            "stars": 43830,
+            "stars": 43855,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:11.570Z"
@@ -3091,11 +3119,11 @@
             "id": 994093166,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-02T18:02:28Z",
-            "open_issues": 4903,
+            "last_commit": "2026-10-03T02:21:23Z",
+            "open_issues": 4918,
             "owner": "omacom",
             "repo": "omarchy",
-            "stars": 43830,
+            "stars": 43855,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:11.570Z"
@@ -4098,6 +4126,27 @@
         },
         {
           "node_type": "item",
+          "title": "omarchy-all-hallows-eve-theme",
+          "description": "Dark Halloween-inspired theme with spooky aesthetics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An All Hallow's Eve theme for Omarchy.",
+            "homepage": null,
+            "id": 1035143170,
+            "language": "CSS",
+            "license": null,
+            "last_commit": "2025-09-16T19:59:11Z",
+            "open_issues": 1,
+            "owner": "guilhermetk",
+            "repo": "omarchy-all-hallows-eve-theme",
+            "stars": 21,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T23:43:11.570Z"
+        },
+        {
+          "node_type": "item",
           "title": "omarchy-pulsar-theme",
           "description": "Vibrant, cosmic-inspired dark theme for Omarchy that captures the brilliant energy of neutron stars.",
           "children": [],
@@ -4141,27 +4190,6 @@
               "omarchy",
               "omarchy-theme"
             ]
-          },
-          "first_seen": "2026-08-28T23:43:11.570Z"
-        },
-        {
-          "node_type": "item",
-          "title": "omarchy-all-hallows-eve-theme",
-          "description": "Dark Halloween-inspired theme with spooky aesthetics.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "An All Hallow's Eve theme for Omarchy.",
-            "homepage": null,
-            "id": 1035143170,
-            "language": "CSS",
-            "license": null,
-            "last_commit": "2025-09-16T19:59:11Z",
-            "open_issues": 1,
-            "owner": "guilhermetk",
-            "repo": "omarchy-all-hallows-eve-theme",
-            "stars": 20,
-            "topics": []
           },
           "first_seen": "2026-08-28T23:43:11.570Z"
         },
@@ -5281,7 +5309,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:34:07.066Z",
+    "last_updated": "2026-10-03T04:58:51.677Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚡A curated list of awesome omarchy resources",
@@ -5289,8 +5317,8 @@
       "id": 1039289611,
       "language": "HTML",
       "license": "CC0-1.0",
-      "last_commit": "2026-10-02T17:39:01Z",
-      "open_issues": 8,
+      "last_commit": "2026-10-02T20:25:30Z",
+      "open_issues": 7,
       "owner": "aorumbayev",
       "repo": "awesome-omarchy",
       "stars": 631,
@@ -5310,7 +5338,7 @@
         "wayland"
       ]
     },
-    "original_repository_sha": "12485730677520c85d07a07e27369efa2b689942",
+    "original_repository_sha": "249b6f7a034ad64f59763f8e3b1acf1e31a3f5ca",
     "enhanced_repository": "enhansome/enhansome-omarchy",
     "enhanced_repository_description": null,
     "title": "Awesome Omarchy with stars"
