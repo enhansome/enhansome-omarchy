@@ -87,7 +87,7 @@
             "open_issues": 35,
             "owner": "mroboff",
             "repo": "omarchy-on-cachyos",
-            "stars": 670,
+            "stars": 671,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:11.570Z"
@@ -328,10 +328,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-10-04T19:06:08Z",
-            "open_issues": 12,
+            "open_issues": 17,
             "owner": "akitaonrails",
             "repo": "ai-usagebar",
-            "stars": 623,
+            "stars": 624,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:11.570Z"
@@ -349,7 +349,7 @@
             "language": "QML",
             "license": "MIT",
             "last_commit": "2026-10-01T15:26:53Z",
-            "open_issues": 63,
+            "open_issues": 68,
             "owner": "huacnlee",
             "repo": "omamail",
             "stars": 282,
@@ -379,7 +379,7 @@
             "open_issues": 64,
             "owner": "stappmus",
             "repo": "Omarchy-Spotify",
-            "stars": 228,
+            "stars": 229,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:11.570Z"
@@ -497,7 +497,7 @@
             "language": "QML",
             "license": "MIT",
             "last_commit": "2026-10-03T13:21:31Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "crmne",
             "repo": "omarchy-hyprmoncfg",
             "stars": 120,
@@ -742,7 +742,7 @@
             "language": "QML",
             "license": "MIT",
             "last_commit": "2026-10-05T20:33:37Z",
-            "open_issues": 15,
+            "open_issues": 16,
             "owner": "rosakodu",
             "repo": "omarchy-dock",
             "stars": 45,
@@ -871,7 +871,7 @@
             "open_issues": 7,
             "owner": "konradk",
             "repo": "hass",
-            "stars": 39,
+            "stars": 40,
             "topics": [
               "home-assistant",
               "hyprland",
@@ -1009,7 +1009,7 @@
             "open_issues": 7,
             "owner": "jkoestinger",
             "repo": "omarchy-vpn",
-            "stars": 34,
+            "stars": 35,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:11.570Z"
@@ -1418,7 +1418,7 @@
             "open_issues": 0,
             "owner": "devmobasa",
             "repo": "wayscriber",
-            "stars": 754,
+            "stars": 756,
             "topics": [
               "annotations",
               "arch-linux",
@@ -1452,7 +1452,7 @@
             "open_issues": 0,
             "owner": "devmobasa",
             "repo": "wayscriber",
-            "stars": 754,
+            "stars": 756,
             "topics": [
               "annotations",
               "arch-linux",
@@ -1482,7 +1482,7 @@
             "id": 1047458606,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-05T07:38:00Z",
+            "last_commit": "2026-10-06T13:27:11Z",
             "open_issues": 0,
             "owner": "tahayvr",
             "repo": "omarchist",
@@ -1535,7 +1535,7 @@
             "open_issues": 2,
             "owner": "HANCORE-linux",
             "repo": "waybar-themes",
-            "stars": 637,
+            "stars": 638,
             "topics": [
               "hyprland",
               "omarchy",
@@ -1650,7 +1650,7 @@
             "id": 1027172663,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-06T09:50:30Z",
+            "last_commit": "2026-10-06T17:22:16Z",
             "open_issues": 94,
             "owner": "omacom",
             "repo": "omarchy-iso",
@@ -1675,7 +1675,7 @@
             "open_issues": 14,
             "owner": "kaolti",
             "repo": "phantomat",
-            "stars": 215,
+            "stars": 216,
             "topics": [
               "hyprland",
               "hyprland-plugin",
@@ -1769,8 +1769,8 @@
             "id": 1043833332,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-06T07:45:39Z",
-            "open_issues": 281,
+            "last_commit": "2026-10-06T19:12:12Z",
+            "open_issues": 283,
             "owner": "omacom",
             "repo": "omarchy-pkgs",
             "stars": 130,
@@ -1794,7 +1794,7 @@
             "open_issues": 0,
             "owner": "joaofelipegalvao",
             "repo": "omarchy-tmux",
-            "stars": 111,
+            "stars": 112,
             "topics": [
               "omarchy",
               "omarchy-theme",
@@ -2165,7 +2165,7 @@
             "id": 1326371998,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-06T10:03:36Z",
+            "last_commit": "2026-10-06T16:20:27Z",
             "open_issues": 8,
             "owner": "x3me",
             "repo": "omacal",
@@ -2845,11 +2845,11 @@
             "id": 994103017,
             "language": "HTML",
             "license": null,
-            "last_commit": "2026-10-06T06:22:18Z",
-            "open_issues": 319,
+            "last_commit": "2026-10-06T18:23:18Z",
+            "open_issues": 321,
             "owner": "omacom",
             "repo": "omarchy-site",
-            "stars": 129,
+            "stars": 130,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:11.570Z"
@@ -3024,8 +3024,8 @@
             "id": 1314624489,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-06T11:07:05Z",
-            "open_issues": 240,
+            "last_commit": "2026-10-06T19:47:51Z",
+            "open_issues": 225,
             "owner": "omacom",
             "repo": "omarchy-plugin-marketplace",
             "stars": 332,
@@ -3077,11 +3077,11 @@
             "id": 994093166,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-06T07:19:27Z",
-            "open_issues": 4930,
+            "last_commit": "2026-10-06T18:57:27Z",
+            "open_issues": 4945,
             "owner": "omacom",
             "repo": "omarchy",
-            "stars": 44079,
+            "stars": 44102,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:11.570Z"
@@ -3098,11 +3098,11 @@
             "id": 994093166,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-06T07:19:27Z",
-            "open_issues": 4930,
+            "last_commit": "2026-10-06T18:57:27Z",
+            "open_issues": 4945,
             "owner": "omacom",
             "repo": "omarchy",
-            "stars": 44079,
+            "stars": 44102,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:11.570Z"
@@ -3119,11 +3119,11 @@
             "id": 994093166,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-06T07:19:27Z",
-            "open_issues": 4930,
+            "last_commit": "2026-10-06T18:57:27Z",
+            "open_issues": 4945,
             "owner": "omacom",
             "repo": "omarchy",
-            "stars": 44079,
+            "stars": 44102,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:11.570Z"
@@ -5309,7 +5309,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:08:35.970Z",
+    "last_updated": "2026-10-06T19:52:45.656Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚡A curated list of awesome omarchy resources",
@@ -5318,10 +5318,10 @@
       "language": "HTML",
       "license": "CC0-1.0",
       "last_commit": "2026-10-02T20:25:30Z",
-      "open_issues": 8,
+      "open_issues": 9,
       "owner": "aorumbayev",
       "repo": "awesome-omarchy",
-      "stars": 637,
+      "stars": 638,
       "topics": [
         "archlinux",
         "awesome",
