@@ -18,14 +18,14 @@ A curated list of Omarchy plugins, themes, resources, and tools.
 
 ## Official Resources
 
-* [Omarchy](https://github.com/basecamp/omarchy) ⭐ 45,968 | 🐛 5,899 | 🌐 Shell | 📅 2026-10-30 - The main Omarchy project by Basecamp.
+* [Omarchy](https://github.com/basecamp/omarchy) ⭐ 46,006 | 🐛 5,913 | 🌐 Shell | 📅 2026-10-31 - The main Omarchy project by Basecamp.
 * [Omarchy Documentation](https://learn.omacom.io/2/the-omarchy-manual) - Official website with installation guides and documentation.
 
 ## Alternative Implementations
 
-* [hyprwhspr](https://github.com/goodroot/hyprwhspr) ⭐ 1,266 | 🐛 5 | 🌐 Python | 📅 2026-10-29 - Native speech-to-text for Arch / Omarchy. Fast, accurate and easy system-wide Whisper dictation.
-* [omarchy-nix](https://github.com/henrysipp/omarchy-nix) ⭐ 826 | 🐛 5 | 🌐 Nix | 📅 2025-11-13 - NixOS version of Omarchy with declarative configuration.
-* [omarchy-on-cachyos](https://github.com/mroboff/omarchy-on-cachyos) ⭐ 680 | 🐛 38 | 🌐 Shell | 📅 2026-06-01 - Installation script for Omarchy on top of CachyOS.
+* [hyprwhspr](https://github.com/goodroot/hyprwhspr) ⭐ 1,267 | 🐛 3 | 🌐 Python | 📅 2026-10-31 - Native speech-to-text for Arch / Omarchy. Fast, accurate and easy system-wide Whisper dictation.
+* [omarchy-nix](https://github.com/henrysipp/omarchy-nix) ⭐ 827 | 🐛 5 | 🌐 Nix | 📅 2025-11-13 - NixOS version of Omarchy with declarative configuration.
+* [omarchy-on-cachyos](https://github.com/mroboff/omarchy-on-cachyos) ⭐ 681 | 🐛 38 | 🌐 Shell | 📅 2026-06-01 - Installation script for Omarchy on top of CachyOS.
 * [omadora](https://github.com/elpritchos/omadora) ⭐ 135 | 🐛 0 | 🌐 Shell | 📅 2026-10-05 - Minimal Fedora install based on Omarchy.
 * [omarchy-cachyos](https://github.com/lentra0/omarchy-cachyos) ⭐ 132 | 🐛 5 | 🌐 Shell | 📅 2025-10-17 - Opinionated CachyOS/Hyprland Setup.
 * [Okimarchy](https://github.com/cristian-fleischer/okimarchy) ⭐ 126 | 🐛 3 | 🌐 Shell | 📅 2026-10-29 - An Omarchy fork that adds support for niri window manager alongside Hyprland, with runtime switching and unified theming.
@@ -38,28 +38,28 @@ A curated list of Omarchy plugins, themes, resources, and tools.
 
 ## Plugins
 
-Community plugins for [Omarchy Quattro](https://github.com/basecamp/omarchy/tree/quattro) ⭐ 45,968 | 🐛 5,899 | 🌐 Shell | 📅 2026-10-30.
+Community plugins for [Omarchy Quattro](https://github.com/basecamp/omarchy/tree/quattro) ⭐ 46,006 | 🐛 5,913 | 🌐 Shell | 📅 2026-10-31.
 
 * [AI Usage](https://github.com/akitaonrails/ai-usagebar) ⭐ 736 | 🐛 4 | 🌐 Rust | 📅 2026-10-30 - Multi-provider AI plan usage and balances in a native Omarchy Quattro panel.
-* [Omamail](https://github.com/huacnlee/omamail) ⭐ 316 | 🐛 87 | 🌐 QML | 📅 2026-10-30 - Native Gmail and IMAP client for Omarchy.
-* [SHIBUMI](https://github.com/HANCORE-linux/Shibumi-Shell) ⭐ 249 | 🐛 7 | 🌐 QML | 📅 2026-10-23 - Native bar and modular plugin suite for Omarchy Quattro.
-* [Omarchy Spotify](https://github.com/stappmus/Omarchy-Spotify) ⭐ 243 | 🐛 68 | 🌐 QML | 📅 2026-09-13 - Native Quickshell Spotify client themed for Omarchy.
+* [Omamail](https://github.com/huacnlee/omamail) ⭐ 316 | 🐛 90 | 🌐 QML | 📅 2026-10-31 - Native Gmail and IMAP client for Omarchy.
+* [SHIBUMI](https://github.com/HANCORE-linux/Shibumi-Shell) ⭐ 250 | 🐛 7 | 🌐 QML | 📅 2026-10-23 - Native bar and modular plugin suite for Omarchy Quattro.
+* [Omarchy Spotify](https://github.com/stappmus/Omarchy-Spotify) ⭐ 244 | 🐛 68 | 🌐 QML | 📅 2026-09-13 - Native Quickshell Spotify client themed for Omarchy.
 * [AirPods](https://github.com/thisisgm/omarchy-pods) ⭐ 240 | 🐛 32 | 🌐 C++ | 📅 2026-08-26 - Battery, listening mode, and noise-control widgets for connected AirPods.
-* [Lock Screen Explorer](https://github.com/SirJul1337/omarchy-lock-explorer) ⭐ 224 | 🐛 4 | 🌐 QML | 📅 2026-10-27 - Lock screen designs for Omarchy with a picker to preview and switch between them.
-* [hyprmoncfg](https://github.com/crmne/omarchy-hyprmoncfg) ⭐ 139 | 🐛 0 | 🌐 QML | 📅 2026-10-30 - Automatic Hyprland monitor profiles on hotplug, lid events, and resume.
+* [Lock Screen Explorer](https://github.com/SirJul1337/omarchy-lock-explorer) ⭐ 224 | 🐛 4 | 🌐 QML | 📅 2026-10-31 - Lock screen designs for Omarchy with a picker to preview and switch between them.
+* [hyprmoncfg](https://github.com/crmne/omarchy-hyprmoncfg) ⭐ 140 | 🐛 0 | 🌐 QML | 📅 2026-10-30 - Automatic Hyprland monitor profiles on hotplug, lid events, and resume.
 * [Mihoro](https://github.com/huacnlee/omarchy-mihoro) ⭐ 125 | 🐛 0 | 🌐 QML | 📅 2026-10-27 - Mihomo/Clash.Meta proxy status, speed, and subscription switching for Omarchy.
-* [omaplug](https://github.com/fross100/omaplug) ⭐ 91 | 🐛 4 | 🌐 QML | 📅 2026-10-30 - Standalone manager to enable, update, install, and remove Omarchy plugins.
+* [omaplug](https://github.com/fross100/omaplug) ⭐ 93 | 🐛 5 | 🌐 QML | 📅 2026-10-30 - Standalone manager to enable, update, install, and remove Omarchy plugins.
 * [Okomart](https://github.com/brianblakely/omarchy-plugins) ⭐ 69 | 🐛 29 | 🌐 Shell | 📅 2026-08-25 - Storefront to browse, install, update, and remove Omarchy plugins.
-* [OmaProton VPN](https://github.com/grichard99/omaproton-vpn) ⭐ 67 | 🐛 13 | 🌐 QML | 📅 2026-10-22 - Proton VPN bar widget for Omarchy Quattro with one-click connect, a world map of cities, Kill Switch, NetShield, Always On, and split tunneling.
+* [OmaProton VPN](https://github.com/grichard99/omaproton-vpn) ⭐ 67 | 🐛 14 | 🌐 QML | 📅 2026-10-22 - Proton VPN bar widget for Omarchy Quattro with one-click connect, a world map of cities, Kill Switch, NetShield, Always On, and split tunneling.
 * [GitHub](https://github.com/robzolkos/omarchy-github) ⭐ 65 | 🐛 7 | 🌐 Shell | 📅 2026-09-16 - Keyboard-friendly GitHub inbox for notifications, reviews, PRs, and Actions.
 * [Claude Usage](https://github.com/mryll/claudebar) ⭐ 63 | 🐛 0 | 🌐 Shell | 📅 2026-10-15 - Claude Code session, weekly, and per-model usage limits in the Omarchy bar.
 * [Mihomo](https://github.com/lijiawei0305-pixel/omarchy-mihomo-plugin) ⭐ 60 | 🐛 2 | 🌐 QML | 📅 2026-10-08 - Status-bar control panel for a standalone mihomo proxy core.
-* [Omaland](https://github.com/bobby-nicholas/omaland) ⭐ 58 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-23 - Live-preview panel for editing Hyprland look-and-feel from the Omarchy menu.
+* [Omaland](https://github.com/bobby-nicholas/omaland) ⭐ 59 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-23 - Live-preview panel for editing Hyprland look-and-feel from the Omarchy menu.
 * [Dock](https://github.com/rosakodu/omarchy-dock) ⭐ 53 | 🐛 17 | 🌐 QML | 📅 2026-10-29 - Animated application dock for Omarchy Quattro with Hyprland window tracking.
-* [Omagen](https://github.com/prettyletto/omagen) ⭐ 53 | 🐛 3 | 🌐 QML | 📅 2026-10-28 - Generate Omarchy themes from images.
+* [Omagen](https://github.com/prettyletto/omagen) ⭐ 53 | 🐛 2 | 🌐 QML | 📅 2026-10-28 - Generate Omarchy themes from images.
 * [Fathom](https://github.com/mtolhuys/fathom) ⭐ 52 | 🐛 2 | 🌐 QML | 📅 2026-10-16 - Depth-based Alt+Tab that orders windows by recency, with a map of every workspace.
-* [OmaConnect](https://github.com/jitendradara12/omaconnect) ⭐ 48 | 🐛 2 | 🌐 QML | 📅 2026-10-29 - KDE Connect integration for SMS, clipboard, file sharing, and device commands.
-* [Calendar](https://github.com/tmn73/omarchy-calendar) ⭐ 45 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-29 - Next Google Calendar event in the Omarchy bar with one-click meeting join.
+* [OmaConnect](https://github.com/jitendradara12/omaconnect) ⭐ 48 | 🐛 1 | 🌐 QML | 📅 2026-10-31 - KDE Connect integration for SMS, clipboard, file sharing, and device commands.
+* [Calendar](https://github.com/tmn73/omarchy-calendar) ⭐ 46 | 🐛 4 | 🌐 Python | 📅 2026-10-31 - Next Google Calendar event in the Omarchy bar with one-click meeting join.
 * [OmaStats](https://github.com/crmne/omastats) ⭐ 44 | 🐛 1 | 🌐 QML | 📅 2026-10-29 - Monitors CPU, GPU, memory, disks, network, temperatures, fans, and battery with bar graphs and detailed panels.
 * [Home Assistant](https://github.com/konradk/hass) ⭐ 43 | 🐛 9 | 🌐 QML | 📅 2026-09-03 - View and control Home Assistant devices from the Omarchy bar.
 * [Activity Monitor](https://github.com/stappmus/omarchy-activity-monitor) ⭐ 42 | 🐛 9 | 🌐 Shell | 📅 2026-08-31 - Lightweight CPU, memory, GPU, storage, and process glance for Omarchy Quattro.
@@ -82,38 +82,38 @@ Community plugins for [Omarchy Quattro](https://github.com/basecamp/omarchy/tree
 * [OmaCal](https://github.com/crmne/omacal) ⭐ 23 | 🐛 6 | 🌐 JavaScript | 📅 2026-10-27 - Adds calendar events, quick add, reminders, and time tracking to the stock clock and calendar, with a HEY backend.
 * [Media Controls + Album Art](https://github.com/crmne/omarchy-mpris) ⭐ 21 | 🐛 4 | 🌐 QML | 📅 2026-10-28 - Shows album art, track details, and playback controls for MPRIS media players in the bar.
 * [OmaTasks for Todoist](https://github.com/crmne/omatasks) ⭐ 16 | 🐛 6 | 🌐 QML | 📅 2026-10-28 - Brings Todoist tasks, Quick Add, editing, and drag-to-reorder into the Omarchy bar.
-* [Omarchy Power Manager](https://github.com/onlyVishesh/omarchy-power-manager) ⭐ 13 | 🐛 9 | 🌐 QML | 📅 2026-09-10 - Advanced battery controller with dynamic profile switching, smart thresholds, and native hibernation support.
+* [Omarchy Power Manager](https://github.com/onlyVishesh/omarchy-power-manager) ⭐ 13 | 🐛 10 | 🌐 QML | 📅 2026-09-10 - Advanced battery controller with dynamic profile switching, smart thresholds, and native hibernation support.
 * [Pane Manager](https://github.com/momoi-labs/omarchy-pane-manager) ⭐ 12 | 🐛 8 | 🌐 QML | 📅 2026-09-23 - Resize tiled panes by dragging the divider, with a live drop indicator, per-workspace layouts, and layout reset.
 * [Active Window + Icon](https://github.com/crmne/omarchy-active-window) ⭐ 10 | 🐛 3 | 🌐 QML | 📅 2026-10-27 - Shows the focused window title and application icon in the bar, with adjustable icon saturation.
 * [Omarchy Stage](https://github.com/zzwong/omarchy-stage) ⭐ 10 | 🐛 1 | 🌐 QML | 📅 2026-10-19 - Mission Control for Omarchy with carousel and grid views of live workspace previews, pane zoom, and now-playing pills.
 * [Omastocks](https://github.com/dmitry-solomadin/omastocks) ⭐ 10 | 🐛 1 | 🌐 QML | 📅 2026-10-15 - Stock research app with charts, market heatmaps, watchlists, and a top-bar ticker.
 * [Lyrics Synced with Music](https://github.com/crmne/omarchy-lyrics) ⭐ 6 | 🐛 4 | 🌐 Python | 📅 2026-10-28 - Displays lyrics for the current media player track and highlights each line as the song plays.
-* [Shikigon](https://github.com/rkocosmergon/shikigon) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2026-10-29 - Bar creature that plays Cosmergon, a Game-of-Life economy, against other AI agents, by itself or with a model you pick choosing its moves.
+* [Shikigon](https://github.com/rkocosmergon/shikigon) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2026-10-31 - Bar creature that plays Cosmergon, a Game-of-Life economy, against other AI agents, by itself or with a model you pick choosing its moves.
 
 ## Development Tools
 
 * [hyprmarker](https://github.com/devmobasa/hyprmarker) ⭐ 775 | 🐛 0 | 🌐 Rust | 📅 2026-10-27 - ZoomIt-inspired annotation overlay tailored for Hyprland/Omarchy.
 * [wayscriber](https://github.com/devmobasa/wayscriber) ⭐ 775 | 🐛 0 | 🌐 Rust | 📅 2026-10-27 - Instant on-screen annotations and markup for Wayland, ZoomIt-inspired.
-* [omarchist](https://github.com/tahayvr/omarchist) ⭐ 772 | 🐛 0 | 🌐 Rust | 📅 2026-10-17 - GUI app for Omarchy with visual theme designer built with Tauri/Rust/Svelte.
-* [aether](https://github.com/bjarneo/aether) ⭐ 771 | 🐛 3 | 🌐 Go | 📅 2026-10-27 - Desktop theming toolkit that streamlines crafting Omarchy themes.
-* [waybar-themes](https://github.com/HANCORE-linux/waybar-themes) ⭐ 671 | 🐛 3 | 🌐 CSS | 📅 2026-06-19 - Collection of Waybar themes with various styles and combinations for Omarchy.
+* [omarchist](https://github.com/tahayvr/omarchist) ⭐ 773 | 🐛 0 | 🌐 Rust | 📅 2026-10-17 - GUI app for Omarchy with visual theme designer built with Tauri/Rust/Svelte.
+* [aether](https://github.com/bjarneo/aether) ⭐ 772 | 🐛 3 | 🌐 Go | 📅 2026-10-27 - Desktop theming toolkit that streamlines crafting Omarchy themes.
+* [waybar-themes](https://github.com/HANCORE-linux/waybar-themes) ⭐ 673 | 🐛 3 | 🌐 CSS | 📅 2026-06-19 - Collection of Waybar themes with various styles and combinations for Omarchy.
 * [hyprmon](https://github.com/erans/hyprmon) ⭐ 530 | 🐛 6 | 🌐 Go | 📅 2026-10-13 - TUI monitor configuration tool for Hyprland with visual layout, drag-and-drop, and profile management.
-* [hyprmoncfg](https://github.com/crmne/hyprmoncfg) ⭐ 471 | 🐛 3 | 🌐 Go | 📅 2026-10-30 - Visual Hyprland monitor editor with profiles, automatic switching, and Omarchy integration.
+* [hyprmoncfg](https://github.com/crmne/hyprmoncfg) ⭐ 472 | 🐛 3 | 🌐 Go | 📅 2026-10-30 - Visual Hyprland monitor editor with profiles, automatic switching, and Omarchy integration.
 * [omarchy-cleaner](https://github.com/maxart/omarchy-cleaner) ⭐ 317 | 🐛 0 | 🌐 Shell | 📅 2026-10-27 - Quickly and easily remove pre-installed apps and webapps.
 * [Pacsea](https://github.com/Firstp1ck/Pacsea) ⭐ 303 | 🐛 15 | 🌐 Rust | 📅 2026-10-19 - Rust TUI for browsing and queueing pacman/AUR packages, inspired by Omarchy's installer.
-* [omarchy-iso](https://github.com/omacom-io/omarchy-iso) ⭐ 298 | 🐛 78 | 🌐 Shell | 📅 2026-10-30 - Custom ISO builder for Omarchy installations.
-* [Phantomat](https://github.com/kaolti/phantomat) ⭐ 230 | 🐛 14 | 🌐 C++ | 📅 2026-10-08 - Zoomable infinite-canvas window manager for Hyprland with a curved-lens overview and jump-to-window navigation.
-* [fastframe](https://github.com/crmne/fastframe) ⭐ 210 | 🐛 15 | 🌐 Rust | 📅 2026-10-29 - Native Rust application framework with automatic Omarchy palette updates for egui apps.
-* [renCal](https://github.com/t4t5/rencal) ⭐ 188 | 🐛 8 | 🌐 TypeScript | 📅 2026-10-30 - Modern desktop calendar built for Omarchy that syncs with Google, iCloud, Outlook and CalDAV.
+* [omarchy-iso](https://github.com/omacom-io/omarchy-iso) ⭐ 298 | 🐛 76 | 🌐 Shell | 📅 2026-10-31 - Custom ISO builder for Omarchy installations.
+* [Phantomat](https://github.com/kaolti/phantomat) ⭐ 238 | 🐛 14 | 🌐 C++ | 📅 2026-10-08 - Zoomable infinite-canvas window manager for Hyprland with a curved-lens overview and jump-to-window navigation.
+* [fastframe](https://github.com/crmne/fastframe) ⭐ 211 | 🐛 15 | 🌐 Rust | 📅 2026-10-29 - Native Rust application framework with automatic Omarchy palette updates for egui apps.
+* [renCal](https://github.com/t4t5/rencal) ⭐ 193 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-31 - Modern desktop calendar built for Omarchy that syncs with Google, iCloud, Outlook and CalDAV.
 * [Adsovetzky-Omarchy-s-Waybar](https://github.com/adsovetzky/Adsovetzky-Omarchy-s-Waybar) ⭐ 153 | 🐛 3 | 🌐 CSS | 📅 2025-11-30 - Custom Waybar configurations for Omarchy.
-* [omarchy-pkgs](https://github.com/omacom-io/omarchy-pkgs) ⭐ 147 | 🐛 438 | 🌐 Shell | 📅 2026-10-30 - Official Omarchy packages and utilities.
+* [omarchy-pkgs](https://github.com/omacom-io/omarchy-pkgs) ⭐ 147 | 🐛 452 | 🌐 Shell | 📅 2026-10-31 - Official Omarchy packages and utilities.
 * [flutter\_omarchy](https://github.com/aloisdeniel/flutter_omarchy) ⭐ 130 | 🐛 0 | 🌐 Dart | 📅 2026-08-14 - Develop Flutter apps for Omarchy.
 * [omarchy-tmux](https://github.com/joaofelipegalvao/omarchy-tmux) ⭐ 114 | 🐛 0 | 🌐 Shell | 📅 2026-08-29 - Tmux status bar themes styled to match Omarchy.
 * [tema](https://github.com/bjarneo/tema) ⭐ 109 | 🐛 1 | 🌐 JavaScript | 📅 2026-03-15 - Modern Omarchy theming UI with live previews and presets.
 * [omarchy-steam-gaming-mode](https://github.com/cephalization/omarchy-steam-gaming-mode) ⭐ 64 | 🐛 2 | 🌐 Shell | 📅 2026-07-05 - Steam Deck-like gaming experience for Omarchy.
 * [omarchy-ai](https://github.com/mitkox/omarchy-ai) ⭐ 58 | 🐛 1 | 🌐 Shell | 📅 2025-09-26 - AI-powered enhancements and tools for Omarchy.
 * [omarchy-migrate](https://github.com/CyphrRiot/Migrate) ⭐ 57 | 🐛 1 | 🌐 Go | 📅 2026-05-27 - Stunningly beautiful terminal backup and restore tool written in Pure Go.
-* [omarchy-vpn](https://github.com/limehawk/omarchy-vpn) ⭐ 57 | 🐛 1 | 🌐 Go | 📅 2026-10-08 - WireGuard VPN manager TUI with live connection stats, inline config import/rename, and optional Waybar module.
+* [omarchy-vpn](https://github.com/limehawk/omarchy-vpn) ⭐ 57 | 🐛 1 | 🌐 Go | 📅 2026-10-31 - WireGuard VPN manager TUI with live connection stats, inline config import/rename, and optional Waybar module.
 * [hypruler](https://github.com/t4t5/hypruler) ⭐ 48 | 🐛 0 | 🌐 Rust | 📅 2026-09-18 - Measure anything on your screen. Inspired by PixelSnap for Mac.
 * [omarchpods](https://github.com/tomycostantino/omarchpods) ⭐ 44 | 🐛 0 | 🌐 C++ | 📅 2025-12-19 - TUI for monitoring AirPods and other Bluetooth headphones with battery status and device info.
 * [omazed](https://github.com/APS6/omazed) ⭐ 44 | 🐛 0 | 🌐 Shell | 📅 2026-09-21 - Live theme switching for Zed editor in Omarchy.
@@ -122,7 +122,7 @@ Community plugins for [Omarchy Quattro](https://github.com/basecamp/omarchy/tree
 * [omarchy-wireguard-vpn-toggle](https://github.com/JacobusXIII/omarchy-wireguard-vpn-toggle) ⭐ 43 | 🐛 2 | 🌐 Shell | 📅 2025-10-31 - WireGuard VPN toggle for Omarchy's Waybar.
 * [edit](https://github.com/mirarr-app/editt) ⭐ 41 | 🐛 1 | 🌐 Dart | 📅 2026-06-10 - Beautiful image viewer and editor with Omarchy styling support.
 * [OMARCHY-VM-UTM](https://github.com/hjanuschka/OMARCHY-VM-UTM) ⭐ 40 | 🐛 2 | 📅 2025-08-17 - Pre-configured Arch Linux virtual machine for UTM.
-* [omacal](https://github.com/x3me/omacal) ⭐ 36 | 🐛 11 | 🌐 Rust | 📅 2026-10-29 - Desktop calendar for Google, iCloud and CalDAV with live Omarchy theming, a bar widget, and a CLI for terminals and agents.
+* [omacal](https://github.com/x3me/omacal) ⭐ 36 | 🐛 12 | 🌐 Rust | 📅 2026-10-29 - Desktop calendar for Google, iCloud and CalDAV with live Omarchy theming, a bar widget, and a CLI for terminals and agents.
 * [omarchy-chromium](https://github.com/omacom-io/omarchy-chromium) ⚠️ Archived - Chromium browser integration and optimizations for Omarchy.
 * [lazyVPN-for-Omarchy](https://github.com/blank-query/lazyVPN-for-Omarchy) ⭐ 34 | 🐛 0 | 🌐 Go | 📅 2026-09-23 - A WireGuard VPN manager with Walker menu integration, killswitch protection, and dynamic server browsing.
 * [omarchy-cheat-sheet](https://github.com/acrogenesis/omarchy-cheat-sheet) ⭐ 30 | 🐛 1 | 🌐 HTML | 📅 2026-10-27 - Quick reference guide for Omarchy commands and shortcuts.
@@ -138,7 +138,7 @@ Community plugins for [Omarchy Quattro](https://github.com/basecamp/omarchy/tree
 * [omarchy-monitor-settings](https://github.com/ryanyogan/omarchy-monitor-settings) ⭐ 20 | 🐛 1 | 🌐 Go | 📅 2026-10-02 - Omarchy Monitor Settings TUI.
 * [omaclip](https://github.com/rhemvi/omaclip) ⭐ 17 | 🐛 1 | 🌐 Go | 📅 2026-09-13 - A clipboard manager with cross-device sync and hot theme reloading.
 * [omarchy-monitor-toggle](https://github.com/daurydicaprio/omarchy-monitor-toggle) ⭐ 16 | 🐛 0 | 🌐 Shell | 📅 2025-09-03 - Tools for automating monitor power management within Omarchy.
-* [ibara](https://github.com/MayberryDT/ibara) ⭐ 14 | 🐛 1 | 🌐 Rust | 📅 2026-10-30 - MCP server for agents to use browsers and desktop apps on separate Omarchy computers you own.
+* [ibara](https://github.com/MayberryDT/ibara) ⭐ 14 | 🐛 1 | 🌐 Rust | 📅 2026-10-31 - MCP server for agents to use browsers and desktop apps on separate Omarchy computers you own.
 * [JaimeStill/omarchy-theme-generator](https://github.com/JaimeStill/omarchy-theme-generator) ⭐ 14 | 🐛 0 | 🌐 Go | 📅 2025-10-30 - Generate Omarchy themes based on images.
 * [omarchy-themes-generator](https://github.com/hipsterusername/omarchy-themes-generator) ⭐ 11 | 🐛 0 | 📅 2025-08-26 - Tool for generating custom Omarchy themes.
 * [omarchy-workspace-mover](https://github.com/jonashan/omarchy-workspace-mover) ⭐ 11 | 🐛 0 | 🌐 Shell | 📅 2025-08-11 - An Omarchy plugin for moving workspaces between monitors.
@@ -153,11 +153,11 @@ Community plugins for [Omarchy Quattro](https://github.com/basecamp/omarchy/tree
 
 ## Related Projects
 
-* [Spotifast](https://github.com/crmne/spotifast) ⭐ 9,413 | 🐛 128 | 🌐 Rust | 📅 2026-10-30 - Native Spotify client with playback, Spotify Connect, and automatic Omarchy theme support.
-* [ZapFast](https://github.com/crmne/zapfast) ⭐ 2,311 | 🐛 155 | 🌐 Rust | 📅 2026-10-29 - Native WhatsApp client with messaging, calls, and automatic Omarchy theme support.
+* [Spotifast](https://github.com/crmne/spotifast) ⭐ 9,440 | 🐛 136 | 🌐 Rust | 📅 2026-10-31 - Native Spotify client with playback, Spotify Connect, and automatic Omarchy theme support.
+* [ZapFast](https://github.com/crmne/zapfast) ⭐ 2,325 | 🐛 159 | 🌐 Rust | 📅 2026-10-29 - Native WhatsApp client with messaging, calls, and automatic Omarchy theme support.
 * [dougburks/ohmydebn](https://github.com/dougburks/ohmydebn) ⭐ 155 | 🐛 10 | 🌐 Shell | 📅 2026-10-30 - A debonair Debian + Cinnamon setup inspired by Omarchy.
 * [CyphrRiot/ArchRiot](https://github.com/CyphrRiot/ArchRiot) ⭐ 152 | 🐛 1 | 🌐 Go | 📅 2026-06-15 - A curated Arch Linux experience inspired by Omarchy's philosophy.
-* [omarchy-site](https://github.com/omacom-io/omarchy-site) ⭐ 145 | 🐛 293 | 🌐 HTML | 📅 2026-10-30 - Official Omarchy website source code.
+* [omarchy-site](https://github.com/omacom-io/omarchy-site) ⭐ 145 | 🐛 296 | 🌐 HTML | 📅 2026-10-31 - Official Omarchy website source code.
 * [j5onrf/dots](https://github.com/j5onrf/dots) ⭐ 121 | 🐛 0 | 🌐 CSS | 📅 2026-10-26 - Hyprland dotfiles with Waybar and ML4W inspired by Omarchy aesthetics.
 * [omafish](https://github.com/crmne/omafish) ⭐ 30 | 🐛 0 | 🌐 Shell | 📅 2026-10-27 - Fish shell setup based on Omarchy defaults, with matching aliases and Omarchy command completions.
 * [alibaghernejad/waybar-privacy-dots](https://github.com/alibaghernejad/waybar-privacy-dots) ⭐ 29 | 🐛 0 | 🌐 Shell | 📅 2025-08-17 - Privacy-first module for your Waybar status bar.
@@ -167,14 +167,14 @@ Community plugins for [Omarchy Quattro](https://github.com/basecamp/omarchy/tree
 
 ## Alternative Curated Lists
 
-* [omarchy-plugin-marketplace](https://github.com/HANCORE-linux/omarchy-plugin-marketplace) ⭐ 369 | 🐛 516 | 🌐 JavaScript | 📅 2026-10-30 - Community registry of Omarchy Quattro plugins, published at omarchyplugins.com.
+* [omarchy-plugin-marketplace](https://github.com/HANCORE-linux/omarchy-plugin-marketplace) ⭐ 370 | 🐛 490 | 🌐 JavaScript | 📅 2026-10-31 - Community registry of Omarchy Quattro plugins, published at omarchyplugins.com.
 * [Wheel-Smith/awesome-omarchy](https://github.com/Wheel-Smith/awesome-omarchy) ⭐ 132 | 🐛 16 | 📅 2025-11-24 - Alternative curated list of Omarchy resources with explicit focus on theme resources with screenshot previews.
 
 ## Community Resources
 
-* [GitHub Discussions](https://github.com/basecamp/omarchy/discussions) ⭐ 45,968 | 🐛 5,899 | 🌐 Shell | 📅 2026-10-30 - Official community discussions and support.
-* [GitHub Issues](https://github.com/basecamp/omarchy/issues) ⭐ 45,968 | 🐛 5,899 | 🌐 Shell | 📅 2026-10-30 - Bug reports and feature requests.
-* [Omarchy on Raspberry Pi 5](https://github.com/basecamp/omarchy/discussions/642) ⭐ 45,968 | 🐛 5,899 | 🌐 Shell | 📅 2026-10-30 - Community discussion on running Omarchy on Raspberry Pi 5.
+* [GitHub Discussions](https://github.com/basecamp/omarchy/discussions) ⭐ 46,006 | 🐛 5,913 | 🌐 Shell | 📅 2026-10-31 - Official community discussions and support.
+* [GitHub Issues](https://github.com/basecamp/omarchy/issues) ⭐ 46,006 | 🐛 5,913 | 🌐 Shell | 📅 2026-10-31 - Bug reports and feature requests.
+* [Omarchy on Raspberry Pi 5](https://github.com/basecamp/omarchy/discussions/642) ⭐ 46,006 | 🐛 5,913 | 🌐 Shell | 📅 2026-10-31 - Community discussion on running Omarchy on Raspberry Pi 5.
 * [Omarchy on 11 inch MacBook Air](https://seanabrahams.com/linux/archlinux/macbook/omarchy/2025/08/07/omarchy-macbook-air.html) - Technical guide for installing Omarchy on a 2014 MacBook Air with WiFi configuration.
 * [omarchy-theme Topic](https://github.com/topics/omarchy-theme) - Browse all repositories tagged with omarchy-theme.
 
@@ -235,9 +235,9 @@ Community plugins for [Omarchy Quattro](https://github.com/basecamp/omarchy/tree
 * [omarchy-monokai-theme](https://github.com/bjarneo/omarchy-monokai-theme) ⭐ 24 | 🐛 0 | 🌐 Lua | 📅 2026-08-30 - High-contrast Monokai Pro inspired variant.
 * [omarchy-sapphire-theme](https://github.com/HANCORE-linux/omarchy-sapphire-theme) ⭐ 24 | 🐛 0 | 🌐 CSS | 📅 2026-10-05 - Vivid blue theme with rich accents.
 * [omarchy-thegreek-theme](https://github.com/HANCORE-linux/omarchy-thegreek-theme) ⭐ 24 | 🐛 0 | 🌐 CSS | 📅 2026-10-05 - Sleek, strategic spy theme blending classic espionage with modern intrigue.
+* [omarchy-all-hallows-eve-theme](https://github.com/guilhermetk/omarchy-all-hallows-eve-theme) ⭐ 23 | 🐛 1 | 🌐 CSS | 📅 2025-09-16 - Dark Halloween-inspired theme with spooky aesthetics.
 * [omarchy-purplewave-theme](https://github.com/dotsilva/omarchy-purplewave-theme) ⭐ 23 | 🐛 0 | 🌐 CSS | 📅 2026-05-15 - Purple wave-inspired theme with elegant purple tones.
 * [omarchy-sakura-theme](https://github.com/bjarneo/omarchy-sakura-theme) ⭐ 23 | 🐛 0 | 📅 2026-08-30 - Elegant, high-contrast theme inspired by the delicate beauty of cherry blossoms.
-* [omarchy-all-hallows-eve-theme](https://github.com/guilhermetk/omarchy-all-hallows-eve-theme) ⭐ 22 | 🐛 1 | 🌐 CSS | 📅 2025-09-16 - Dark Halloween-inspired theme with spooky aesthetics.
 * [omarchy-pulsar-theme](https://github.com/bjarneo/omarchy-pulsar-theme) ⭐ 22 | 🐛 1 | 🌐 Lua | 📅 2026-08-30 - Vibrant, cosmic-inspired dark theme for Omarchy that captures the brilliant energy of neutron stars.
 * [omarchy-blueridge-dark-theme](https://github.com/hipsterusername/omarchy-blueridge-dark-theme) ⭐ 21 | 🐛 0 | 🌐 Lua | 📅 2025-08-26 - Dark theme inspired by mountain ridge aesthetics.
 * [omarchy-sunset-drive-theme](https://github.com/tahayvr/omarchy-sunset-drive-theme) ⭐ 21 | 🐛 0 | 🌐 CSS | 📅 2026-02-22 - Sunset-inspired theme with warm gradients.
@@ -257,11 +257,11 @@ Community plugins for [Omarchy Quattro](https://github.com/basecamp/omarchy/tree
 * [omarchy-firesky-theme](https://github.com/bjarneo/omarchy-firesky-theme) ⭐ 16 | 🐛 0 | 📅 2026-08-30 - Fire-lit sky inspired theme for deep focus.
 * [omarchy-frutiger-aero](https://github.com/VECTORG99/omarchy-frutiger-aero) ⭐ 16 | 🐛 2 | 🌐 SCSS | 📅 2026-10-26 - Frutiger Aero theme with 6 EWW desktop widgets, liquid glass aesthetics, celestial gradients, and light/dark support.
 * [omarchy-blackmoney-theme](https://github.com/HANCORE-linux/omarchy-blackmoney-theme) ⭐ 15 | 🐛 0 | 🌐 CSS | 📅 2026-10-05 - Bold midnight theme with rich green-gold accents.
-* [omarchy-outpost-theme](https://github.com/simoz/omarchy-outpost-theme) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2026-10-12 - Dark theme with petroleum, bronze, and ivory colors and robot-inspired pixel art wallpapers.
+* [omarchy-outpost-theme](https://github.com/simoz/omarchy-outpost-theme) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2026-10-12 - Dark theme with petroleum, bronze, and ivory colors and robot-inspired pixel art wallpapers.
 * [omarchy-solarized-osaka-theme](https://github.com/motorsss/omarchy-solarizedosaka-theme) ⭐ 14 | 🐛 0 | 🌐 CSS | 📅 2025-07-29 - Solarized theme with Osaka-inspired modifications.
-* [omarchy-velvetnight-theme](https://github.com/HANCORE-linux/omarchy-velvetnight-theme) ⭐ 14 | 🐛 0 | 🌐 CSS | 📅 2026-10-05 - Dark, night-inspired theme with soft contrasts and subtle glimmers.
 * [omarchy-ayu-mirage-theme](https://github.com/fdidron/omarchy-ayumirage) ⭐ 13 | 🐛 0 | 🌐 CSS | 📅 2025-11-10 - Ayu Mirage color scheme adaptation with balanced contrast.
 * [omarchy-pissarro-theme](https://github.com/mattbbia/pissarro-omarchy) ⭐ 13 | 🐛 0 | 🌐 Lua | 📅 2026-08-27 - A light Omarchy theme inspired by Camille Pissarro.
+* [omarchy-velvetnight-theme](https://github.com/HANCORE-linux/omarchy-velvetnight-theme) ⭐ 13 | 🐛 0 | 🌐 CSS | 📅 2026-10-05 - Dark, night-inspired theme with soft contrasts and subtle glimmers.
 * [omarchy-agentuity.theme](https://github.com/rblalock/omarchy-agentuity.theme) ⭐ 12 | 🐛 0 | 🌐 CSS | 📅 2026-01-17 - Agentuity-inspired theme with professional color palette.
 * [omarchy-everblush-theme](https://github.com/Swarnim114/omarchy-everblush-theme) ⭐ 12 | 🐛 1 | 🌐 CSS | 📅 2025-08-09 - Everblush color scheme adaptation.
 * [omarchy-gtk-theme](https://github.com/bjarneo/omarchy-gtk-theme) ⭐ 12 | 🐛 0 | 🌐 JavaScript | 📅 2025-10-10 - Universal GTK styling to match Omarchy across applications.
@@ -291,4 +291,4 @@ Contributions are welcome! Please see our [Contributing Guide](CONTRIBUTING.md) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
